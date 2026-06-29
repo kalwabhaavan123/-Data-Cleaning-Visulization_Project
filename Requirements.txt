@@ -1,0 +1,29 @@
+# Data Processing
+pandas
+numpy
+
+
+# Data Visualization
+matplotlib
+seaborn
+
+
+# Machine Learning
+scikit-learn
+
+
+# Statistics
+scipy
+
+
+# Jupyter Support (Optional)
+jupyter
+notebook
+
+
+# Progress Bars
+tqdm
+
+
+# File Handling
+openpyxl
