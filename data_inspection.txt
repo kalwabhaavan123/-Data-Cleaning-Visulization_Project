@@ -1,0 +1,25 @@
+RETAIL DATA INSPECTION REPORT
+==================================================
+
+Shape     : (1500, 20)
+Missing   : 0
+Duplicates: 0
+
+Revenue by Category:
+Category
+Electronics      13925178.23
+Home & Garden    13776521.25
+Clothing         13451898.10
+Toys             13227905.64
+Sports           13111409.34
+Grocery          12966987.57
+Name: Revenue, dtype: float64
+
+Revenue by Store:
+Store
+Store_Gamma      17319987.46
+Store_Alpha      16694559.44
+Store_Epsilon    16109047.93
+Store_Delta      15619817.29
+Store_Beta       14716488.01
+Name: Revenue, dtype: float64

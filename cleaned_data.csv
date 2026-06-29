@@ -1,0 +1,491 @@
+Order_ID,Product,City,Quantity,Unit_Price,Rating,Payment_Method,Total_Price
+1001,Mouse,Mumbai,4,10861.69,1.1,Net Banking,43446.76
+1002,Headphones,Mumbai,2,26274.78,1.5,COD,52549.56
+1003,Speaker,Mumbai,1,33391.18,4.9,UPI,33391.18
+1004,Monitor,Mumbai,4,12097.29,3.2,UPI,48389.16
+1005,Mouse,Pune,3,16763.760000000002,4.9,UPI,50291.28
+1006,Smartwatch,Chennai,2,26627.08,2.7,Net Banking,53254.16
+1007,Tablet,Jaipur,1,27636.58,2.2,Credit Card,27636.58
+1008,Mouse,Mumbai,5,10817.12,3.0,Credit Card,54085.6
+1009,Speaker,Pune,4,11638.51,2.8,Debit Card,46554.04
+1010,Monitor,Hyderabad,2,12745.72,1.4,Credit Card,25491.44
+1011,Headphones,Mumbai,2,4244.4,3.6,UPI,8488.8
+1012,Speaker,Bangalore,3,7650.78,1.9,UPI,22952.34
+1013,Speaker,Mumbai,3,6966.87,3.5,UPI,20900.61
+1014,Tablet,Mumbai,5,8857.62,3.6,Debit Card,44288.1
+1015,Keyboard,Chennai,5,14722.52,1.6,UPI,73612.6
+1016,Monitor,Hyderabad,1,16873.72,1.2,Credit Card,16873.72
+1017,Smartphone,Mumbai,1,27404.0,4.1,Net Banking,27404.0
+1018,Speaker,Mumbai,5,7013.17,2.8,Net Banking,35065.85
+1019,Keyboard,Mumbai,5,22874.58,1.2,COD,114372.9
+1020,Smartphone,Mumbai,4,13288.09,5.0,Credit Card,53152.36
+1021,Monitor,Mumbai,3,14604.29,1.2,UPI,43812.87
+1022,Laptop,Chennai,1,20398.56,3.8,Net Banking,20398.56
+1023,Smartwatch,Pune,3,6018.22,4.9,Credit Card,18054.66
+1024,Keyboard,Kolkata,3,18059.28,2.0,Net Banking,54177.84
+1025,Webcam,Jaipur,5,16331.62,1.6,UPI,81658.1
+1026,Laptop,Chennai,4,18939.61,1.5,Net Banking,75758.44
+1027,Smartwatch,Bangalore,2,17313.35,2.2,COD,34626.7
+1028,Tablet,Delhi,4,34642.4,3.0,COD,138569.6
+1029,Mouse,Kolkata,4,9898.08,3.8,Net Banking,39592.32
+1030,Headphones,Jaipur,3,10752.02,1.2,Credit Card,32256.06
+1031,Webcam,Hyderabad,4,10014.88,3.0,Credit Card,40059.52
+1032,Tablet,Hyderabad,1,16316.815,5.0,Credit Card,16316.82
+1033,Monitor,Bangalore,3,9900.9,4.3,Net Banking,29702.7
+1034,Tablet,Chennai,1,24512.13,3.5,Credit Card,24512.13
+1035,Mouse,Mumbai,2,16763.760000000002,2.2,UPI,33527.52
+1036,Monitor,Chennai,3,10434.03,3.5,COD,31302.09
+1037,Webcam,Bangalore,2,8341.16,3.1,UPI,16682.32
+1038,Mouse,Hyderabad,3,18771.32,3.0,Credit Card,56313.96
+1039,Smartphone,Chennai,5,10582.22,1.5,UPI,52911.1
+1040,Headphones,Hyderabad,4,20063.45,4.5,Credit Card,80253.8
+1041,Webcam,Kolkata,5,16623.38,2.8,Net Banking,83116.9
+1042,Smartphone,Jaipur,2,2874.05,1.8,UPI,5748.1
+1043,Smartwatch,Mumbai,4,27380.04,2.5,Net Banking,109520.16
+1044,Webcam,Kolkata,3,29367.02,2.7,Net Banking,88101.06
+1045,Smartwatch,Hyderabad,4,10097.69,4.3,Debit Card,40390.76
+1046,Monitor,Hyderabad,1,11898.39,3.9,Credit Card,11898.39
+1047,Smartphone,Delhi,4,17286.92,4.1,COD,69147.68
+1048,Headphones,Delhi,1,15843.0,1.0,Credit Card,15843.0
+1049,Mouse,Kolkata,4,20268.35,2.7,COD,81073.4
+1050,Speaker,Pune,1,31081.64,2.9,Credit Card,31081.64
+1051,Tablet,Kolkata,2,13584.42,1.1,Net Banking,27168.84
+1052,Laptop,Delhi,5,8613.62,2.0,UPI,43068.1
+1053,Headphones,Hyderabad,3,3965.45,4.0,UPI,11896.35
+1054,Smartphone,Bangalore,4,9152.56,1.5,Debit Card,36610.24
+1055,Speaker,Kolkata,5,14734.98,3.1,COD,73674.9
+1056,Headphones,Hyderabad,3,29356.46,1.9,COD,88069.38
+1057,Smartphone,Mumbai,3,10859.11,1.0,COD,32577.33
+1058,Keyboard,Bangalore,1,16790.3,2.0,Net Banking,16790.3
+1059,Keyboard,Delhi,2,14868.62,4.9,COD,29737.24
+1060,Smartwatch,Kolkata,2,24507.15,4.2,UPI,49014.3
+1061,Headphones,Chennai,5,35215.46,4.8,Net Banking,176077.3
+1062,Keyboard,Mumbai,2,10753.05,3.0,Credit Card,21506.1
+1063,Smartphone,Delhi,4,11084.48,1.4,COD,44337.92
+1064,Smartwatch,Delhi,2,23353.29,3.2,COD,46706.58
+1065,Smartphone,Chennai,5,20455.13,2.8,Credit Card,102275.65
+1066,Smartwatch,Mumbai,2,17232.17,4.4,COD,34464.34
+1068,Speaker,Pune,1,16568.005,3.0,Net Banking,16568.0
+1069,Mouse,Kolkata,5,19725.24,1.6,UPI,98626.2
+1070,Webcam,Pune,1,23869.63,2.3,Credit Card,23869.63
+1072,Monitor,Jaipur,1,19058.19,2.9,Credit Card,19058.19
+1073,Smartphone,Delhi,3,23533.4,2.5,COD,70600.2
+1074,Monitor,Mumbai,3,24354.36,3.0,Net Banking,73063.08
+1075,Speaker,Delhi,1,26057.27,2.8,Net Banking,26057.27
+1076,Smartwatch,Bangalore,5,20189.68,4.1,Credit Card,100948.4
+1077,Webcam,Delhi,4,13663.06,4.6,UPI,54652.24
+1078,Webcam,Delhi,4,16173.71,4.8,Debit Card,64694.84
+1079,Laptop,Hyderabad,2,24652.07,4.1,Net Banking,49304.14
+1080,Webcam,Hyderabad,5,8464.51,2.3,COD,42322.55
+1082,Webcam,Pune,1,11853.29,2.8,UPI,11853.29
+1083,Speaker,Bangalore,2,15229.96,2.0,Net Banking,30459.92
+1084,Laptop,Jaipur,4,25227.61,4.4,Credit Card,100910.44
+1085,Speaker,Jaipur,3,16528.79,1.2,COD,49586.37
+1086,Speaker,Hyderabad,3,15371.49,4.6,UPI,46114.47
+1087,Tablet,Mumbai,1,4121.15,2.8,Net Banking,4121.15
+1088,Laptop,Pune,4,20970.03,3.0,Net Banking,83880.12
+1089,Speaker,Chennai,5,20163.87,3.6,Net Banking,100819.35
+1090,Tablet,Mumbai,3,32306.04,4.6,Net Banking,96918.12
+1091,Tablet,Kolkata,1,16316.815,3.5,Net Banking,16316.82
+1092,Laptop,Kolkata,5,16753.2,3.5,COD,83766.0
+1093,Monitor,Mumbai,4,16995.07,1.3,UPI,67980.28
+1094,Smartwatch,Hyderabad,3,27619.63,3.1,Net Banking,82858.89
+1095,Mouse,Chennai,5,14237.64,1.6,Debit Card,71188.2
+1096,Smartwatch,Chennai,5,17232.17,3.9,Debit Card,86160.85
+1097,Webcam,Pune,5,19863.17,3.0,UPI,99315.85
+1098,Mouse,Chennai,3,16492.87,3.7,Credit Card,49478.61
+1099,Webcam,Kolkata,3,11428.53,1.2,Credit Card,34285.59
+1100,Speaker,Bangalore,2,16552.72,1.3,Credit Card,33105.44
+1101,Smartphone,Hyderabad,4,23589.05,3.9,Debit Card,94356.2
+1102,Laptop,Chennai,1,6787.88,3.0,Credit Card,6787.88
+1103,Mouse,Pune,5,16063.76,1.3,COD,80318.8
+1104,Mouse,Kolkata,2,9399.03,1.0,Net Banking,18798.06
+1105,Speaker,Bangalore,1,24560.37,4.8,Debit Card,24560.37
+1106,Monitor,Delhi,2,2814.5,4.0,UPI,5629.0
+1107,Tablet,Delhi,3,10528.63,2.4,UPI,31585.89
+1108,Speaker,Bangalore,5,18017.7,2.2,Net Banking,90088.5
+1109,Keyboard,Kolkata,1,27524.19,2.4,Debit Card,27524.19
+1110,Tablet,Pune,1,14474.0,4.1,Credit Card,14474.0
+1111,Laptop,Bangalore,1,10558.4,3.6,Credit Card,10558.4
+1112,Tablet,Hyderabad,1,30049.26,1.7,COD,30049.26
+1113,Monitor,Hyderabad,1,3415.89,3.0,COD,3415.89
+1114,Tablet,Delhi,2,-2590.45,1.4,Credit Card,-5180.9
+1115,Laptop,Chennai,5,18520.12,3.6,UPI,92600.6
+1116,Monitor,Pune,3,10983.57,4.1,UPI,32950.71
+1117,Smartwatch,Delhi,3,6830.14,2.1,COD,20490.42
+1118,Mouse,Chennai,3,20666.85,1.1,Net Banking,62000.55
+1119,Mouse,Chennai,3,16950.41,1.3,Credit Card,50851.23
+1120,Webcam,Jaipur,2,13663.06,4.9,COD,27326.12
+1121,Smartwatch,Hyderabad,4,4757.56,2.2,COD,19030.24
+1122,Smartwatch,Kolkata,5,21979.66,4.1,Credit Card,109898.3
+1123,Tablet,Mumbai,1,20201.61,3.5,Credit Card,20201.61
+1125,Laptop,Mumbai,3,29773.1,1.8,Net Banking,89319.3
+1126,Headphones,Bangalore,4,6439.32,1.5,Net Banking,25757.28
+1127,Headphones,Hyderabad,5,2795.8,3.0,Credit Card,13979.0
+1128,Monitor,Chennai,1,9464.74,4.1,Debit Card,9464.74
+1129,Mouse,Pune,1,16763.760000000002,3.6,COD,16763.76
+1130,Mouse,Mumbai,5,16946.72,3.1,COD,84733.6
+1131,Headphones,Kolkata,5,13070.11,3.0,Credit Card,65350.55
+1132,Mouse,Mumbai,3,17816.44,4.9,Debit Card,53449.32
+1133,Tablet,Mumbai,1,4987.68,3.0,UPI,4987.68
+1134,Keyboard,Mumbai,4,26550.12,2.2,Credit Card,106200.48
+1135,Smartphone,Jaipur,2,14342.79,4.9,Credit Card,28685.58
+1136,Smartwatch,Mumbai,2,23938.37,3.4,COD,47876.74
+1137,Webcam,Pune,5,17741.8,3.3,Credit Card,88709.0
+1138,Monitor,Hyderabad,3,18654.03,4.0,Credit Card,55962.09
+1139,Keyboard,Pune,2,19558.14,4.2,Credit Card,39116.28
+1140,Headphones,Delhi,1,18581.67,3.6,COD,18581.67
+1141,Smartwatch,Chennai,5,20141.78,1.5,UPI,100708.9
+1142,Mouse,Hyderabad,4,25633.22,2.4,UPI,102532.88
+1143,Webcam,Jaipur,5,13663.06,4.7,Credit Card,68315.3
+1144,Mouse,Hyderabad,4,20672.03,1.9,COD,82688.12
+1145,Laptop,Hyderabad,5,14282.11,2.5,UPI,71410.55
+1146,Laptop,Kolkata,5,26520.94,2.7,UPI,132604.7
+1147,Webcam,Hyderabad,5,13663.06,2.8,UPI,68315.3
+1148,Webcam,Jaipur,4,29407.52,3.5,COD,117630.08
+1149,Headphones,Pune,4,14678.74,4.8,COD,58714.96
+1150,Webcam,Hyderabad,5,3553.8,2.0,Credit Card,17769.0
+1151,Tablet,Bangalore,2,16024.84,1.5,Net Banking,32049.68
+1152,Mouse,Chennai,3,9551.59,1.8,UPI,28654.77
+1154,Speaker,Chennai,3,9779.01,3.0,COD,29337.03
+1155,Webcam,Bangalore,4,11430.53,2.1,COD,45722.12
+1156,Monitor,Bangalore,4,-116.33,4.3,COD,-465.32
+1157,Laptop,Mumbai,2,11381.55,4.4,Net Banking,22763.1
+1159,Smartwatch,Delhi,3,2328.78,4.7,Credit Card,6986.34
+1160,Speaker,Kolkata,5,21083.32,2.0,COD,105416.6
+1161,Keyboard,Mumbai,4,21286.4,4.0,Debit Card,85145.6
+1162,Speaker,Mumbai,3,18403.66,2.8,Net Banking,55210.98
+1163,Webcam,Pune,2,7264.19,4.4,Debit Card,14528.38
+1164,Headphones,Kolkata,2,14618.31,3.9,COD,29236.62
+1165,Laptop,Kolkata,3,14971.18,4.1,Credit Card,44913.54
+1166,Laptop,Mumbai,4,5733.08,3.6,UPI,22932.32
+1167,Smartwatch,Hyderabad,2,27027.19,1.7,COD,54054.38
+1168,Headphones,Pune,5,22018.9,3.2,Credit Card,110094.5
+1169,Mouse,Pune,2,16763.760000000002,4.9,Net Banking,33527.52
+1170,Smartphone,Bangalore,1,15215.09,4.7,Debit Card,15215.09
+1171,Tablet,Jaipur,1,16667.06,3.0,Debit Card,16667.06
+1172,Laptop,Mumbai,4,-1333.88,1.7,Debit Card,-5335.52
+1173,Monitor,Mumbai,3,13022.58,1.5,Net Banking,39067.74
+1174,Laptop,Bangalore,4,15225.45,3.9,Credit Card,60901.8
+1175,Speaker,Chennai,4,6987.04,4.3,Net Banking,27948.16
+1176,Laptop,Delhi,4,12751.2,1.9,Debit Card,51004.8
+1177,Laptop,Mumbai,4,29381.49,3.0,COD,117525.96
+1178,Smartphone,Jaipur,5,20126.74,4.4,UPI,100633.7
+1179,Smartphone,Jaipur,5,10430.57,3.9,Net Banking,52152.85
+1180,Keyboard,Pune,2,17011.125,3.0,Net Banking,34022.25
+1181,Mouse,Chennai,1,26194.84,3.4,Credit Card,26194.84
+1182,Monitor,Jaipur,4,22397.07,3.0,Credit Card,89588.28
+1183,Laptop,Chennai,2,15477.04,2.2,Net Banking,30954.08
+1184,Laptop,Hyderabad,1,9824.51,3.3,Debit Card,9824.51
+1185,Tablet,Jaipur,3,20585.79,3.8,UPI,61757.37
+1186,Smartphone,Delhi,5,18147.88,4.5,Credit Card,90739.4
+1187,Monitor,Chennai,1,22161.55,3.5,Debit Card,22161.55
+1188,Smartwatch,Chennai,3,20081.37,4.0,COD,60244.11
+1189,Keyboard,Delhi,1,23396.42,1.6,Credit Card,23396.42
+1190,Mouse,Jaipur,5,16763.760000000002,2.8,Debit Card,83818.8
+1191,Headphones,Delhi,5,25539.15,1.0,Debit Card,127695.75
+1192,Mouse,Chennai,2,16580.8,3.0,UPI,33161.6
+1193,Speaker,Delhi,4,31602.09,3.9,UPI,126408.36
+1194,Laptop,Chennai,1,9486.5,5.0,COD,9486.5
+1195,Keyboard,Chennai,1,28887.71,1.4,Debit Card,28887.71
+1196,Speaker,Hyderabad,3,16583.29,2.6,Debit Card,49749.87
+1197,Monitor,Mumbai,5,9788.66,3.0,UPI,48943.3
+1198,Headphones,Chennai,1,11128.91,1.8,Credit Card,11128.91
+1199,Smartphone,Mumbai,5,12437.22,3.2,Credit Card,62186.1
+1200,Keyboard,Bangalore,1,18393.33,3.9,Net Banking,18393.33
+1201,Keyboard,Pune,2,19182.68,3.5,UPI,38365.36
+1202,Laptop,Kolkata,4,15225.45,1.8,Net Banking,60901.8
+1203,Webcam,Mumbai,1,14805.16,2.4,UPI,14805.16
+1204,Keyboard,Mumbai,5,32138.16,4.1,COD,160690.8
+1205,Tablet,Mumbai,2,28820.35,3.0,Debit Card,57640.7
+1206,Headphones,Hyderabad,1,18490.59,1.0,COD,18490.59
+1207,Headphones,Chennai,3,15304.03,4.0,UPI,45912.09
+1208,Tablet,Mumbai,4,15960.25,1.1,Debit Card,63841.0
+1209,Smartwatch,Chennai,1,19908.14,4.0,Credit Card,19908.14
+1210,Tablet,Jaipur,2,6817.66,1.8,Credit Card,13635.32
+1211,Tablet,Hyderabad,3,12940.99,4.8,Net Banking,38822.97
+1212,Headphones,Hyderabad,2,1651.33,3.0,UPI,3302.66
+1213,Mouse,Pune,2,18193.78,2.3,UPI,36387.56
+1214,Headphones,Bangalore,3,20177.57,1.6,Credit Card,60532.71
+1215,Webcam,Hyderabad,2,11134.51,2.2,COD,22269.02
+1216,Laptop,Pune,3,27591.89,4.5,Debit Card,82775.67
+1217,Speaker,Delhi,1,5193.87,5.0,COD,5193.87
+1218,Mouse,Bangalore,3,3285.0,2.5,COD,9855.0
+1219,Smartphone,Jaipur,3,16795.61,2.8,Credit Card,50386.83
+1220,Speaker,Hyderabad,4,23376.79,3.9,Credit Card,93507.16
+1221,Laptop,Kolkata,3,28471.42,4.5,Credit Card,85414.26
+1222,Webcam,Mumbai,3,11328.93,3.4,Net Banking,33986.79
+1223,Webcam,Delhi,1,23629.45,2.6,COD,23629.45
+1224,Smartphone,Delhi,4,14691.93,2.7,UPI,58767.72
+1225,Mouse,Jaipur,5,13618.98,3.8,Debit Card,68094.9
+1226,Smartwatch,Mumbai,1,22069.28,1.0,Net Banking,22069.28
+1227,Tablet,Delhi,1,20218.58,3.5,UPI,20218.58
+1228,Mouse,Bangalore,5,2388.86,2.4,COD,11944.3
+1229,Smartwatch,Hyderabad,3,26812.32,4.2,Credit Card,80436.96
+1230,Webcam,Hyderabad,2,26040.73,1.4,COD,52081.46
+1231,Headphones,Kolkata,4,9995.5,3.4,Debit Card,39982.0
+1232,Laptop,Jaipur,2,18166.43,2.9,Net Banking,36332.86
+1233,Smartphone,Mumbai,5,18952.24,3.6,Net Banking,94761.2
+1234,Laptop,Pune,1,15225.45,1.3,Debit Card,15225.45
+1235,Monitor,Mumbai,1,10597.56,3.3,UPI,10597.56
+1236,Monitor,Delhi,4,9627.01,3.2,UPI,38508.04
+1237,Mouse,Jaipur,1,14795.57,3.2,Net Banking,14795.57
+1238,Webcam,Kolkata,1,24381.83,3.4,Net Banking,24381.83
+1239,Webcam,Mumbai,4,19348.8,3.7,Credit Card,77395.2
+1240,Tablet,Bangalore,4,12035.09,3.0,UPI,48140.36
+1241,Tablet,Hyderabad,5,21173.59,2.1,Debit Card,105867.95
+1243,Headphones,Kolkata,1,24190.13,3.0,Credit Card,24190.13
+1244,Speaker,Mumbai,5,1082.29,1.3,Net Banking,5411.45
+1245,Keyboard,Pune,3,12100.47,1.2,Net Banking,36301.41
+1246,Speaker,Bangalore,3,6042.64,2.3,Credit Card,18127.92
+1247,Laptop,Bangalore,3,4642.55,4.1,Debit Card,13927.65
+1248,Speaker,Mumbai,5,24286.61,3.8,Net Banking,121433.05
+1249,Headphones,Hyderabad,1,11258.39,4.2,COD,11258.39
+1250,Laptop,Mumbai,5,15225.45,3.1,Net Banking,76127.25
+1251,Speaker,Delhi,5,14624.64,2.8,COD,73123.2
+1252,Headphones,Mumbai,3,18816.33,1.6,Credit Card,56448.99
+1253,Keyboard,Bangalore,2,15614.58,2.3,Credit Card,31229.16
+1254,Speaker,Kolkata,1,4736.06,2.7,Net Banking,4736.06
+1255,Headphones,Mumbai,3,22970.13,1.4,UPI,68910.39
+1256,Tablet,Hyderabad,2,11049.95,1.9,COD,22099.9
+1257,Webcam,Jaipur,2,2547.34,3.4,Debit Card,5094.68
+1258,Tablet,Kolkata,4,11575.08,3.9,Net Banking,46300.32
+1259,Webcam,Pune,1,27006.08,5.0,Debit Card,27006.08
+1260,Smartphone,Chennai,2,21801.77,4.7,Net Banking,43603.54
+1261,Smartphone,Mumbai,3,12210.78,3.6,UPI,36632.34
+1262,Smartphone,Hyderabad,4,12205.94,2.7,UPI,48823.76
+1263,Keyboard,Mumbai,1,12426.92,3.5,UPI,12426.92
+1264,Tablet,Hyderabad,5,31613.98,4.1,UPI,158069.9
+1265,Webcam,Pune,3,18055.48,1.5,Credit Card,54166.44
+1266,Headphones,Mumbai,2,18440.33,2.6,Credit Card,36880.66
+1267,Laptop,Hyderabad,2,23242.27,4.4,COD,46484.54
+1268,Headphones,Kolkata,3,16910.31,2.5,Debit Card,50730.93
+1269,Laptop,Hyderabad,2,12927.66,3.3,Net Banking,25855.32
+1270,Monitor,Hyderabad,4,13429.2,3.4,Net Banking,53716.8
+1271,Headphones,Hyderabad,1,14427.19,1.7,Credit Card,14427.19
+1272,Speaker,Delhi,4,14702.22,2.4,Net Banking,58808.88
+1273,Speaker,Delhi,2,20821.04,3.0,Credit Card,41642.08
+1274,Mouse,Bangalore,5,15415.57,1.1,COD,77077.85
+1275,Tablet,Mumbai,1,20861.12,1.1,Debit Card,20861.12
+1276,Laptop,Hyderabad,1,14354.27,4.3,COD,14354.27
+1277,Laptop,Pune,3,15629.08,2.1,UPI,46887.24
+1278,Tablet,Mumbai,3,16316.815,3.1,UPI,48950.44
+1279,Keyboard,Pune,5,22330.62,2.2,UPI,111653.1
+1280,Mouse,Mumbai,1,17771.91,4.8,COD,17771.91
+1281,Keyboard,Mumbai,5,22984.08,2.0,Net Banking,114920.4
+1283,Keyboard,Mumbai,3,31707.0,4.5,UPI,95121.0
+1284,Tablet,Chennai,1,13883.28,4.4,UPI,13883.28
+1285,Keyboard,Pune,4,23865.46,1.7,UPI,95461.84
+1287,Smartphone,Mumbai,3,19902.19,2.8,UPI,59706.57
+1288,Monitor,Jaipur,3,6572.68,2.9,Debit Card,19718.04
+1289,Laptop,Jaipur,4,10009.85,1.5,UPI,40039.4
+1290,Laptop,Delhi,4,15225.45,1.3,COD,60901.8
+1291,Monitor,Chennai,5,13474.54,3.0,COD,67372.7
+1292,Tablet,Kolkata,5,16739.46,3.0,Debit Card,83697.3
+1293,Headphones,Jaipur,2,21960.54,2.7,COD,43921.08
+1294,Tablet,Kolkata,2,16316.815,3.9,Debit Card,32633.63
+1295,Laptop,Delhi,1,16203.35,4.1,COD,16203.35
+1296,Laptop,Delhi,5,17919.69,1.6,COD,89598.45
+1297,Monitor,Delhi,3,34227.32,3.4,Debit Card,102681.96
+1298,Keyboard,Pune,5,14539.05,1.5,Net Banking,72695.25
+1299,Tablet,Pune,3,16608.79,4.0,COD,49826.37
+1300,Webcam,Bangalore,4,23405.24,3.6,UPI,93620.96
+1301,Monitor,Bangalore,5,23844.21,4.8,Net Banking,119221.05
+1302,Speaker,Delhi,4,24496.24,1.3,Debit Card,97984.96
+1303,Laptop,Chennai,2,20109.84,1.2,Net Banking,40219.68
+1304,Monitor,Mumbai,2,5855.96,2.1,Credit Card,11711.92
+1305,Tablet,Pune,1,16316.815,2.0,Credit Card,16316.82
+1306,Laptop,Chennai,5,15225.45,2.0,COD,76127.25
+1307,Headphones,Hyderabad,4,15843.0,4.6,COD,63372.0
+1308,Monitor,Pune,3,8965.79,2.0,UPI,26897.37
+1309,Mouse,Pune,2,14486.89,2.1,Net Banking,28973.78
+1310,Laptop,Bangalore,2,17630.1,4.0,Credit Card,35260.2
+1311,Tablet,Mumbai,3,16316.815,2.8,COD,48950.44
+1312,Smartphone,Mumbai,4,15631.335,4.1,Net Banking,62525.34
+1313,Webcam,Jaipur,4,13663.06,1.3,COD,54652.24
+1314,Smartwatch,Kolkata,5,18628.27,3.0,COD,93141.35
+1315,Keyboard,Mumbai,5,13046.75,1.1,Credit Card,65233.75
+1316,Smartwatch,Kolkata,1,22712.7,1.3,Credit Card,22712.7
+1317,Tablet,Kolkata,2,24515.76,4.6,COD,49031.52
+1318,Speaker,Mumbai,5,5179.14,1.6,Debit Card,25895.7
+1319,Speaker,Hyderabad,4,19779.2,3.1,COD,79116.8
+1320,Smartphone,Pune,3,20609.38,2.6,COD,61828.14
+1321,Keyboard,Delhi,4,12619.49,2.4,UPI,50477.96
+1322,Mouse,Bangalore,2,26005.65,3.0,UPI,52011.3
+1323,Smartphone,Bangalore,4,15631.335,1.1,UPI,62525.34
+1324,Smartwatch,Kolkata,1,16004.61,3.0,Debit Card,16004.61
+1325,Smartphone,Pune,2,13615.43,4.9,Debit Card,27230.86
+1326,Smartwatch,Jaipur,3,15124.63,3.2,COD,45373.89
+1327,Laptop,Chennai,1,6229.8,4.7,UPI,6229.8
+1328,Speaker,Mumbai,2,3479.59,1.2,Debit Card,6959.18
+1329,Laptop,Pune,3,27756.04,2.7,Credit Card,83268.12
+1330,Webcam,Delhi,1,8224.31,2.0,COD,8224.31
+1331,Keyboard,Mumbai,1,7068.86,3.9,Net Banking,7068.86
+1332,Mouse,Delhi,2,-2227.12,4.9,COD,-4454.24
+1333,Smartwatch,Pune,5,9888.31,2.0,Net Banking,49441.55
+1334,Mouse,Kolkata,1,4415.28,3.6,UPI,4415.28
+1335,Smartwatch,Bangalore,1,28136.12,1.8,Net Banking,28136.12
+1336,Tablet,Bangalore,3,23078.54,3.3,UPI,69235.62
+1337,Smartphone,Kolkata,4,9494.8,2.9,Credit Card,37979.2
+1338,Webcam,Delhi,2,33019.49,4.9,Net Banking,66038.98
+1339,Speaker,Chennai,2,22854.12,3.4,COD,45708.24
+1341,Mouse,Pune,5,16763.760000000002,1.5,COD,83818.8
+1342,Webcam,Mumbai,2,33327.54,1.6,Debit Card,66655.08
+1343,Headphones,Jaipur,5,15843.0,1.9,UPI,79215.0
+1344,Headphones,Kolkata,3,1836.81,2.0,Net Banking,5510.43
+1345,Laptop,Chennai,2,23180.56,3.0,UPI,46361.12
+1346,Speaker,Mumbai,5,16568.005,3.2,COD,82840.03
+1347,Tablet,Mumbai,2,26074.18,3.1,Credit Card,52148.36
+1348,Mouse,Delhi,4,19511.27,1.5,UPI,78045.08
+1349,Smartphone,Bangalore,1,19758.03,4.4,Net Banking,19758.03
+1350,Smartphone,Mumbai,2,21827.32,3.9,Debit Card,43654.64
+1351,Mouse,Mumbai,1,21071.43,1.3,Credit Card,21071.43
+1352,Keyboard,Hyderabad,5,17249.53,3.8,Debit Card,86247.65
+1353,Tablet,Chennai,1,15833.61,3.2,UPI,15833.61
+1354,Webcam,Delhi,2,14499.25,1.3,COD,28998.5
+1355,Smartwatch,Jaipur,4,8968.28,2.8,COD,35873.12
+1356,Keyboard,Mumbai,5,12754.6,2.9,Net Banking,63773.0
+1357,Smartwatch,Delhi,2,1456.35,1.7,COD,2912.7
+1358,Smartwatch,Mumbai,5,14213.28,4.8,Credit Card,71066.4
+1359,Keyboard,Chennai,3,7091.27,4.4,COD,21273.81
+1360,Laptop,Chennai,1,6171.29,3.7,Net Banking,6171.29
+1361,Headphones,Jaipur,3,16439.15,2.8,UPI,49317.45
+1362,Smartwatch,Hyderabad,2,17232.17,2.6,UPI,34464.34
+1363,Keyboard,Delhi,4,22346.53,3.6,COD,89386.12
+1364,Keyboard,Pune,5,2436.0,3.2,Debit Card,12180.0
+1365,Monitor,Hyderabad,1,7082.97,1.2,UPI,7082.97
+1366,Laptop,Delhi,5,22526.17,3.1,COD,112630.85
+1367,Speaker,Hyderabad,2,7140.1,4.2,Net Banking,14280.2
+1368,Monitor,Pune,5,13202.93,2.8,COD,66014.65
+1369,Monitor,Bangalore,1,19400.42,1.2,UPI,19400.42
+1370,Mouse,Bangalore,2,7253.24,4.1,Net Banking,14506.48
+1371,Headphones,Jaipur,5,15843.0,1.8,COD,79215.0
+1372,Keyboard,Bangalore,4,4327.8,2.0,Credit Card,17311.2
+1373,Headphones,Bangalore,2,10189.06,1.7,Net Banking,20378.12
+1374,Tablet,Kolkata,2,17558.26,2.3,Credit Card,35116.52
+1375,Mouse,Mumbai,4,16763.760000000002,4.0,Debit Card,67055.04
+1376,Speaker,Mumbai,3,18523.8,3.1,Net Banking,55571.4
+1377,Headphones,Kolkata,1,14842.9,1.8,Credit Card,14842.9
+1378,Smartphone,Mumbai,3,19419.92,4.5,UPI,58259.76
+1379,Smartwatch,Kolkata,5,16791.31,3.0,UPI,83956.55
+1380,Tablet,Bangalore,4,25913.12,4.5,Debit Card,103652.48
+1381,Laptop,Pune,3,16001.8,2.0,Net Banking,48005.4
+1382,Speaker,Jaipur,2,11564.76,2.8,Net Banking,23129.52
+1383,Tablet,Jaipur,5,15978.38,4.9,Net Banking,79891.9
+1384,Smartwatch,Chennai,5,19346.38,4.1,Debit Card,96731.9
+1385,Mouse,Mumbai,3,15390.88,3.0,Net Banking,46172.64
+1386,Smartwatch,Chennai,3,15324.73,1.3,UPI,45974.19
+1387,Monitor,Jaipur,4,9384.07,2.9,Credit Card,37536.28
+1388,Smartwatch,Mumbai,1,9696.79,4.6,UPI,9696.79
+1389,Monitor,Bangalore,3,3779.16,3.2,UPI,11337.48
+1390,Mouse,Jaipur,3,28996.61,3.0,Credit Card,86989.83
+1391,Webcam,Bangalore,2,5049.09,1.4,UPI,10098.18
+1392,Monitor,Bangalore,5,9456.76,3.6,Debit Card,47283.8
+1393,Laptop,Hyderabad,1,9252.74,4.3,Credit Card,9252.74
+1394,Smartwatch,Mumbai,2,22159.4,2.5,UPI,44318.8
+1395,Smartwatch,Delhi,4,12640.4,4.1,COD,50561.6
+1396,Laptop,Hyderabad,4,24981.94,4.9,UPI,99927.76
+1397,Smartphone,Delhi,3,9612.08,1.8,Debit Card,28836.24
+1398,Keyboard,Bangalore,3,17231.95,3.1,Net Banking,51695.85
+1399,Webcam,Bangalore,4,8317.22,2.1,UPI,33268.88
+1400,Speaker,Hyderabad,3,32161.19,4.2,Net Banking,96483.57
+1401,Monitor,Hyderabad,1,5499.21,3.3,COD,5499.21
+1402,Laptop,Delhi,3,15225.45,3.5,UPI,45676.35
+1403,Mouse,Chennai,5,20070.22,4.2,Credit Card,100351.1
+1404,Monitor,Delhi,3,18310.39,2.6,Net Banking,54931.17
+1405,Keyboard,Hyderabad,2,13517.7,4.7,COD,27035.4
+1406,Mouse,Pune,1,13961.43,3.1,Credit Card,13961.43
+1407,Tablet,Hyderabad,2,15350.49,1.6,Credit Card,30700.98
+1408,Smartwatch,Pune,2,13823.98,3.8,Credit Card,27647.96
+1409,Tablet,Mumbai,5,22711.03,4.2,Credit Card,113555.15
+1410,Monitor,Hyderabad,1,32684.18,2.3,UPI,32684.18
+1411,Keyboard,Mumbai,1,10540.07,4.4,UPI,10540.07
+1412,Webcam,Chennai,1,4041.58,4.6,UPI,4041.58
+1413,Monitor,Delhi,1,14293.74,2.1,COD,14293.74
+1415,Headphones,Delhi,5,8570.6,1.6,COD,42853.0
+1416,Monitor,Mumbai,3,28112.93,1.8,Debit Card,84338.79
+1417,Smartwatch,Mumbai,2,28421.61,1.7,COD,56843.22
+1418,Smartwatch,Delhi,1,10571.29,4.6,UPI,10571.29
+1419,Monitor,Hyderabad,3,19551.86,3.6,UPI,58655.58
+1420,Mouse,Bangalore,3,28027.17,1.6,Debit Card,84081.51
+1421,Headphones,Mumbai,2,11966.98,3.0,Debit Card,23933.96
+1422,Laptop,Delhi,5,13371.36,3.5,COD,66856.8
+1423,Monitor,Mumbai,4,10346.55,1.3,Net Banking,41386.2
+1424,Mouse,Kolkata,4,6881.95,4.5,Debit Card,27527.8
+1425,Smartwatch,Mumbai,3,9805.78,3.0,Credit Card,29417.34
+1426,Smartwatch,Pune,2,5208.48,3.0,UPI,10416.96
+1427,Keyboard,Kolkata,4,15272.67,4.9,Credit Card,61090.68
+1428,Monitor,Jaipur,3,8840.21,2.7,UPI,26520.63
+1429,Headphones,Pune,5,16870.29,4.9,UPI,84351.45
+1430,Smartphone,Bangalore,4,2552.83,3.7,Debit Card,10211.32
+1431,Headphones,Kolkata,3,17647.04,3.5,Debit Card,52941.12
+1432,Smartwatch,Jaipur,3,21668.23,1.7,Credit Card,65004.69
+1433,Smartwatch,Hyderabad,1,-949.89,4.5,UPI,-949.89
+1434,Tablet,Mumbai,5,17992.45,2.7,Credit Card,89962.25
+1435,Smartwatch,Delhi,1,17232.17,1.6,Net Banking,17232.17
+1436,Laptop,Mumbai,2,5322.87,1.1,Credit Card,10645.74
+1437,Speaker,Mumbai,1,28380.58,3.0,COD,28380.58
+1438,Monitor,Jaipur,1,18352.15,3.1,Credit Card,18352.15
+1439,Headphones,Mumbai,4,9359.91,3.9,COD,37439.64
+1440,Speaker,Bangalore,3,14553.85,4.6,COD,43661.55
+1441,Mouse,Mumbai,5,19466.62,1.3,COD,97333.1
+1442,Smartphone,Chennai,1,15608.04,3.9,Net Banking,15608.04
+1443,Laptop,Kolkata,5,15225.45,1.7,Credit Card,76127.25
+1444,Headphones,Kolkata,1,7634.61,4.4,Credit Card,7634.61
+1445,Speaker,Kolkata,2,16354.89,4.3,Net Banking,32709.78
+1446,Smartphone,Jaipur,1,3690.28,3.2,UPI,3690.28
+1447,Tablet,Pune,4,14110.19,3.8,Debit Card,56440.76
+1448,Laptop,Pune,3,7768.74,2.3,Credit Card,23306.22
+1450,Tablet,Chennai,1,24888.75,4.3,Net Banking,24888.75
+1451,Monitor,Kolkata,5,23730.48,3.0,UPI,118652.4
+1452,Tablet,Mumbai,2,19873.1,2.4,UPI,39746.2
+1453,Laptop,Mumbai,2,6261.5,3.0,UPI,12523.0
+1454,Laptop,Delhi,1,12468.73,4.3,Net Banking,12468.73
+1455,Speaker,Hyderabad,2,24704.78,2.3,COD,49409.56
+1456,Smartwatch,Delhi,5,16133.74,1.7,COD,80668.7
+1457,Smartphone,Pune,2,33554.64,3.8,Debit Card,67109.28
+1458,Tablet,Bangalore,5,18146.54,4.3,COD,90732.7
+1459,Smartphone,Jaipur,1,16536.39,1.4,COD,16536.39
+1460,Tablet,Mumbai,3,12527.07,2.0,UPI,37581.21
+1461,Mouse,Kolkata,2,16068.33,1.6,UPI,32136.66
+1462,Laptop,Bangalore,3,13780.24,2.4,Debit Card,41340.72
+1463,Smartwatch,Kolkata,5,20664.87,3.0,Credit Card,103324.35
+1464,Speaker,Kolkata,2,22653.62,4.0,Debit Card,45307.24
+1465,Smartwatch,Pune,4,8712.08,3.6,Debit Card,34848.32
+1466,Smartwatch,Mumbai,3,4350.14,3.5,Net Banking,13050.42
+1467,Smartwatch,Kolkata,2,310.36,2.4,Net Banking,620.72
+1468,Smartphone,Chennai,3,19063.93,4.4,Debit Card,57191.79
+1469,Tablet,Hyderabad,2,6173.07,2.9,Debit Card,12346.14
+1470,Webcam,Delhi,1,-2223.12,4.9,Debit Card,-2223.12
+1471,Mouse,Delhi,3,18108.63,3.5,COD,54325.89
+1472,Headphones,Pune,4,34944.0,1.5,Net Banking,139776.0
+1473,Smartwatch,Bangalore,4,14951.43,3.7,Debit Card,59805.72
+1474,Monitor,Bangalore,5,21707.93,2.3,UPI,108539.65
+1475,Smartphone,Mumbai,2,15654.63,3.7,UPI,31309.26
+1476,Speaker,Jaipur,3,14208.88,1.3,COD,42626.64
+1477,Headphones,Mumbai,5,22352.61,1.7,COD,111763.05
+1478,Webcam,Kolkata,3,12677.8,4.4,Credit Card,38033.4
+1479,Monitor,Hyderabad,2,17139.14,1.9,Credit Card,34278.28
+1480,Webcam,Chennai,4,13663.06,4.3,Credit Card,54652.24
+1481,Headphones,Delhi,1,9655.28,2.1,COD,9655.28
+1482,Smartwatch,Kolkata,4,22936.34,3.6,COD,91745.36
+1483,Monitor,Mumbai,5,13600.32,3.8,COD,68001.6
+1484,Webcam,Mumbai,1,8954.04,3.1,UPI,8954.04
+1485,Speaker,Mumbai,5,19292.08,3.0,COD,96460.4
+1486,Tablet,Pune,2,16316.815,1.9,UPI,32633.63
+1487,Laptop,Delhi,1,15225.45,1.1,Credit Card,15225.45
+1488,Tablet,Pune,5,14927.05,2.2,Credit Card,74635.25
+1489,Headphones,Chennai,2,23687.16,3.6,Credit Card,47374.32
+1490,Smartphone,Mumbai,4,18797.59,4.8,Debit Card,75190.36
+1491,Laptop,Mumbai,2,14799.78,3.0,Debit Card,29599.56
+1492,Mouse,Hyderabad,3,21542.13,4.1,Net Banking,64626.39
+1493,Speaker,Chennai,2,16568.005,4.2,Net Banking,33136.01
+1494,Mouse,Mumbai,2,19462.48,3.7,Net Banking,38924.96
+1495,Monitor,Chennai,3,15082.82,2.0,Debit Card,45248.46
+1496,Laptop,Delhi,5,4505.31,4.6,Debit Card,22526.55
+1497,Mouse,Bangalore,5,6479.09,3.7,Net Banking,32395.45
+1498,Mouse,Mumbai,2,12558.2,3.2,Net Banking,25116.4
+1499,Webcam,Hyderabad,3,10123.9,1.4,COD,30371.7
+1500,Tablet,Delhi,3,13504.23,2.8,Net Banking,40512.69
+1057,Smartphone,Bangalore,3,10859.11,1.0,COD,32577.33
+1157,Laptop,Chennai,2,11381.55,4.4,Net Banking,22763.1

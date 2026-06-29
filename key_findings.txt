@@ -1,0 +1,36 @@
+
+
+DATA STORYTELLING REPORT
+========================
+
+
+1. Dataset cleaning completed successfully.
+
+2. Final dataset contains:
+   490 clean records.
+
+
+3. Highest revenue generating product:
+   Laptop
+
+
+4. City with maximum orders:
+   Mumbai
+
+
+5. Average customer rating:
+   2.99/5
+
+
+6. Data visualization helped identify
+   sales patterns and business insights.
+
+
+CONCLUSION:
+The raw dataset was cleaned, processed,
+and analyzed successfully using Python
+data science libraries.
+
+The generated visualizations provide
+clear insights for decision making.
+

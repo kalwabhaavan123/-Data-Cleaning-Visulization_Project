@@ -1,0 +1,36 @@
+DATA PROFILE REPORT
+==================================================
+
+Shape:
+(1000, 17)
+
+Missing Values:
+Student_ID         0
+Gender             0
+Age                0
+Department         0
+City               0
+Study_Hours        0
+Attendance_Pct     0
+Sleep_Hours        0
+Previous_Score     0
+Internet_Access    0
+Part_Time_Job      0
+Library_Usage      0
+Stress_Level       0
+Extracurricular    0
+Final_Score        0
+Grade              0
+Pass_Fail          0
+dtype: int64
+
+Statistics:
+        Student_ID          Age  Study_Hours  Attendance_Pct  Sleep_Hours  Previous_Score  Final_Score
+count  1000.000000  1000.000000  1000.000000     1000.000000  1000.000000     1000.000000  1000.000000
+mean   1500.500000    20.410000     4.978100       79.683000     6.980300       63.859400    63.848600
+std     288.819436     2.287167     1.935359       11.487856     1.464885       15.383901    10.332567
+min    1001.000000    17.000000     0.000000       45.200000     3.000000       11.300000    21.200000
+25%    1250.750000    18.000000     3.600000       71.800000     6.000000       53.975000    57.500000
+50%    1500.500000    20.000000     5.000000       79.550000     6.900000       64.200000    63.700000
+75%    1750.250000    22.000000     6.400000       88.100000     7.900000       74.300000    71.225000
+max    2000.000000    24.000000    11.100000      100.000000    11.000000      100.000000    96.700000

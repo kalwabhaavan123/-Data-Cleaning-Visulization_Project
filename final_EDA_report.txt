@@ -1,0 +1,89 @@
+
+
+==================================================
+EXPLORATORY DATA ANALYSIS REPORT
+==================================================
+
+
+1. DATASET OVERVIEW
+-------------------
+
+Total Students Analyzed:
+1000
+
+
+Number of Features:
+17
+
+
+
+2. ACADEMIC PERFORMANCE ANALYSIS
+--------------------------------
+
+
+Average Final Score:
+63.85
+
+
+Pass Percentage:
+90.50%
+
+
+
+3. KEY PERFORMANCE INSIGHTS
+---------------------------
+
+
+Best Performing Department:
+Mechanical
+
+
+Best Performing City:
+Chennai
+
+
+Average Study Hours:
+4.98 hours
+
+
+
+4. DATA ANALYSIS TECHNIQUES USED
+--------------------------------
+
+
+- Statistical Summary Analysis
+
+- Univariate Analysis
+
+- Bivariate Analysis
+
+- Multivariate Analysis
+
+- Correlation Analysis
+
+- Outlier Detection
+
+- Data Visualization
+
+
+
+5. CONCLUSION
+-------------
+
+
+The dataset was successfully analyzed using
+Exploratory Data Analysis techniques.
+
+Important patterns, relationships, and trends
+were identified using statistical methods and
+visualizations.
+
+The generated insights help understand the
+factors influencing student academic performance.
+
+
+
+==================================================
+END OF REPORT
+==================================================
+

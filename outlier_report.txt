@@ -1,0 +1,6 @@
+OUTLIER ANALYSIS REPORT
+========================================
+Study_Hours: 1
+Attendance_Pct: 2
+Previous_Score: 5
+Final_Score: 11

@@ -1,0 +1,1001 @@
+Student_ID,Gender,Age,Department,City,Study_Hours,Attendance_Pct,Sleep_Hours,Previous_Score,Internet_Access,Part_Time_Job,Library_Usage,Stress_Level,Extracurricular,Final_Score,Grade,Pass_Fail
+1001,Male,22,Civil,Delhi,4.6,91.9,5.4,58.7,Yes,No,Weekly,Low,Yes,72.4,A (Very Good),Pass
+1002,Female,23,Mechanical,Bangalore,7.5,92.5,6.8,48.0,Yes,No,Weekly,Medium,Yes,73.8,A (Very Good),Pass
+1003,Male,17,Business,Pune,2.9,66.9,8.1,71.3,No,No,Weekly,Medium,Yes,56.8,B (Above Average),Pass
+1004,Male,17,Computer Science,Mumbai,3.3,64.6,5.2,80.0,Yes,Yes,Rarely,Low,Yes,59.7,B (Above Average),Pass
+1005,Male,17,Business,Mumbai,2.5,78.7,7.3,78.4,Yes,No,Weekly,Low,No,57.0,B (Above Average),Pass
+1006,Female,21,Computer Science,Chennai,3.3,70.4,8.8,70.5,Yes,No,Weekly,Low,Yes,65.3,B+ (Good),Pass
+1007,Male,20,Electronics,Hyderabad,5.1,70.2,7.7,66.5,No,No,Monthly,Low,No,60.6,B+ (Good),Pass
+1008,Male,21,Computer Science,Bangalore,6.0,65.0,5.9,51.5,Yes,Yes,Monthly,Medium,No,60.8,B+ (Good),Pass
+1009,Male,20,Civil,Hyderabad,6.9,74.4,9.3,78.0,Yes,No,Rarely,Medium,Yes,81.6,A+ (Excellent),Pass
+1010,Female,24,Mechanical,Chennai,1.4,66.1,8.0,77.1,Yes,Yes,Weekly,High,Yes,49.0,F (Fail),Fail
+1011,Male,21,Electronics,Mumbai,4.7,66.9,4.2,47.9,No,No,Weekly,Medium,No,48.6,F (Fail),Fail
+1012,Male,21,Computer Science,Hyderabad,2.8,83.6,8.3,70.5,Yes,Yes,Daily,Medium,No,48.6,F (Fail),Fail
+1013,Male,22,Business,Hyderabad,4.6,79.3,6.1,74.8,Yes,No,Monthly,Medium,Yes,67.9,B+ (Good),Pass
+1014,Male,19,Electronics,Mumbai,9.7,85.8,7.3,78.2,Yes,No,Weekly,Medium,Yes,90.1,O (Outstanding),Pass
+1015,Female,21,Electronics,Bangalore,5.6,60.2,8.5,63.9,No,Yes,Daily,Low,Yes,54.7,B (Above Average),Pass
+1016,Male,22,Computer Science,Mumbai,6.8,80.1,6.2,52.1,No,Yes,Weekly,Low,Yes,63.6,B+ (Good),Pass
+1017,Female,18,Electronics,Hyderabad,8.9,100.0,4.5,57.5,No,No,Weekly,Medium,No,83.0,A+ (Excellent),Pass
+1018,Female,19,Business,Bangalore,7.3,75.5,9.3,49.9,Yes,No,Daily,Medium,No,71.6,A (Very Good),Pass
+1019,Female,24,Electronics,Bangalore,4.1,89.9,8.7,64.2,Yes,No,Monthly,Medium,Yes,64.9,B+ (Good),Pass
+1020,Male,21,Business,Mumbai,2.4,89.8,6.9,61.3,Yes,No,Monthly,Medium,No,58.6,B (Above Average),Pass
+1021,Female,23,Computer Science,Hyderabad,4.9,90.4,8.3,97.2,No,Yes,Daily,Medium,No,74.6,A (Very Good),Pass
+1022,Male,17,Mechanical,Chennai,3.9,82.0,6.4,78.4,Yes,No,Weekly,Medium,Yes,67.8,B+ (Good),Pass
+1023,Female,18,Electronics,Hyderabad,2.0,86.8,7.1,79.5,Yes,No,Monthly,Medium,Yes,60.8,B+ (Good),Pass
+1024,Female,18,Mechanical,Delhi,5.5,88.4,6.8,72.1,No,No,Weekly,Medium,No,68.9,B+ (Good),Pass
+1025,Female,24,Business,Pune,5.5,87.6,6.5,59.5,Yes,No,Weekly,Medium,No,66.5,B+ (Good),Pass
+1026,Female,22,Electronics,Chennai,8.5,66.6,7.5,60.9,Yes,No,Weekly,Medium,No,73.7,A (Very Good),Pass
+1027,Female,18,Civil,Bangalore,4.3,59.5,5.2,62.2,Yes,No,Monthly,Medium,Yes,53.3,B (Above Average),Pass
+1028,Female,19,Mechanical,Chennai,5.6,61.4,6.6,67.8,Yes,Yes,Rarely,High,Yes,56.9,B (Above Average),Pass
+1029,Female,21,Electronics,Bangalore,3.7,76.8,7.5,70.8,Yes,No,Monthly,Medium,Yes,70.0,A (Very Good),Pass
+1030,Female,21,Mechanical,Bangalore,6.7,87.1,9.8,65.0,Yes,No,Daily,Medium,No,77.9,A (Very Good),Pass
+1031,Male,23,Electronics,Chennai,4.8,66.7,5.2,60.6,Yes,Yes,Weekly,High,No,51.2,B (Above Average),Pass
+1032,Male,24,Computer Science,Bangalore,2.7,91.1,7.8,56.1,Yes,No,Rarely,Medium,Yes,61.9,B+ (Good),Pass
+1033,Female,17,Mechanical,Bangalore,5.0,74.0,7.9,44.1,Yes,No,Daily,Low,No,59.6,B (Above Average),Pass
+1034,Female,22,Civil,Delhi,5.8,74.1,4.2,84.3,Yes,No,Rarely,High,No,71.6,A (Very Good),Pass
+1035,Female,17,Civil,Hyderabad,5.5,70.0,7.6,98.1,Yes,No,Rarely,Low,No,73.8,A (Very Good),Pass
+1036,Male,18,Business,Hyderabad,7.1,57.4,8.3,83.0,Yes,No,Daily,Medium,No,69.8,B+ (Good),Pass
+1037,Female,24,Electronics,Pune,2.1,82.8,7.9,46.1,Yes,Yes,Rarely,High,Yes,46.2,F (Fail),Fail
+1038,Male,23,Mechanical,Pune,3.3,100.0,6.9,76.8,Yes,No,Weekly,High,No,65.0,B+ (Good),Pass
+1039,Male,17,Business,Delhi,6.3,79.2,7.5,80.4,Yes,No,Monthly,Low,Yes,80.3,A+ (Excellent),Pass
+1040,Male,19,Mechanical,Pune,3.5,57.8,7.3,58.9,No,No,Weekly,Medium,Yes,55.7,B (Above Average),Pass
+1041,Male,21,Electronics,Chennai,5.5,89.4,4.5,72.3,Yes,No,Weekly,Medium,No,73.2,A (Very Good),Pass
+1042,Male,18,Civil,Mumbai,0.2,60.5,7.3,58.2,No,Yes,Monthly,Medium,No,40.8,F (Fail),Fail
+1043,Female,23,Computer Science,Mumbai,10.4,65.5,6.4,87.9,Yes,No,Monthly,Low,Yes,87.2,A+ (Excellent),Pass
+1044,Female,17,Civil,Mumbai,4.5,77.1,5.9,70.5,Yes,No,Daily,Medium,No,62.7,B+ (Good),Pass
+1045,Female,22,Business,Delhi,7.4,81.5,10.7,51.2,Yes,No,Monthly,Medium,No,74.7,A (Very Good),Pass
+1046,Female,19,Computer Science,Delhi,4.3,67.9,8.9,75.0,Yes,No,Daily,Low,No,70.0,A (Very Good),Pass
+1047,Female,19,Business,Bangalore,5.8,76.7,5.3,80.9,Yes,No,Weekly,Medium,Yes,81.5,A+ (Excellent),Pass
+1048,Male,17,Electronics,Mumbai,8.0,88.6,7.5,68.0,Yes,No,Weekly,Medium,No,81.7,A+ (Excellent),Pass
+1049,Female,21,Computer Science,Chennai,7.3,90.2,9.2,72.2,No,No,Weekly,High,Yes,79.3,A (Very Good),Pass
+1050,Female,17,Business,Pune,4.6,95.0,4.8,64.0,Yes,No,Weekly,High,Yes,68.2,B+ (Good),Pass
+1051,Male,18,Electronics,Chennai,4.7,100.0,7.1,48.0,Yes,No,Daily,Medium,Yes,70.9,A (Very Good),Pass
+1052,Female,17,Civil,Pune,7.0,89.7,7.2,62.7,Yes,No,Daily,High,Yes,75.1,A (Very Good),Pass
+1053,Male,19,Electronics,Mumbai,9.7,77.4,5.1,72.8,Yes,No,Daily,High,No,85.9,A+ (Excellent),Pass
+1054,Female,23,Mechanical,Mumbai,5.4,90.3,7.6,63.1,No,No,Weekly,Low,Yes,63.5,B+ (Good),Pass
+1055,Male,17,Electronics,Mumbai,8.9,85.6,8.7,77.0,Yes,Yes,Rarely,Low,No,81.9,A+ (Excellent),Pass
+1056,Female,21,Electronics,Delhi,4.5,86.1,9.3,59.1,No,No,Daily,Medium,Yes,65.5,B+ (Good),Pass
+1057,Female,24,Mechanical,Pune,6.9,82.1,6.6,60.1,Yes,Yes,Rarely,Medium,No,71.7,A (Very Good),Pass
+1058,Male,23,Business,Delhi,7.2,69.1,10.8,77.5,Yes,No,Monthly,Medium,No,78.7,A (Very Good),Pass
+1059,Male,22,Business,Delhi,4.2,67.7,3.9,68.3,Yes,No,Monthly,Medium,No,61.4,B+ (Good),Pass
+1060,Male,20,Electronics,Hyderabad,3.5,78.8,7.5,58.8,Yes,No,Monthly,Medium,No,55.9,B (Above Average),Pass
+1061,Male,17,Mechanical,Chennai,7.3,81.8,4.9,80.5,Yes,No,Monthly,Medium,No,80.0,A+ (Excellent),Pass
+1062,Male,21,Mechanical,Chennai,3.9,71.8,7.1,54.7,Yes,Yes,Daily,Low,No,53.5,B (Above Average),Pass
+1063,Male,23,Civil,Bangalore,3.2,85.1,6.2,54.1,Yes,No,Weekly,High,No,56.6,B (Above Average),Pass
+1064,Male,21,Business,Delhi,3.6,100.0,7.8,22.6,Yes,No,Monthly,Medium,Yes,48.6,F (Fail),Fail
+1065,Male,22,Computer Science,Pune,3.9,59.1,6.8,56.7,No,No,Monthly,High,No,48.2,F (Fail),Fail
+1066,Female,19,Business,Hyderabad,6.7,87.0,5.8,84.6,Yes,Yes,Monthly,Low,Yes,77.8,A (Very Good),Pass
+1067,Female,21,Business,Hyderabad,6.0,79.2,5.9,33.9,Yes,No,Daily,High,Yes,47.7,F (Fail),Fail
+1068,Male,23,Civil,Chennai,6.4,85.4,9.9,50.7,Yes,No,Monthly,Low,No,71.1,A (Very Good),Pass
+1069,Female,21,Computer Science,Delhi,5.8,74.8,7.7,71.6,Yes,No,Weekly,Low,Yes,70.5,A (Very Good),Pass
+1070,Female,21,Civil,Bangalore,3.8,78.2,4.4,31.3,Yes,No,Weekly,Low,No,50.8,B (Above Average),Pass
+1071,Female,21,Computer Science,Delhi,6.4,81.6,7.8,57.3,No,No,Weekly,Medium,Yes,64.9,B+ (Good),Pass
+1072,Female,18,Electronics,Mumbai,7.4,76.4,6.7,82.1,No,No,Monthly,High,Yes,77.9,A (Very Good),Pass
+1073,Male,18,Computer Science,Delhi,6.2,61.8,7.0,95.6,Yes,No,Rarely,Medium,Yes,72.4,A (Very Good),Pass
+1074,Female,19,Civil,Mumbai,5.9,77.2,8.2,69.4,No,No,Weekly,High,Yes,63.4,B+ (Good),Pass
+1075,Male,17,Business,Mumbai,3.5,63.0,8.8,51.1,Yes,Yes,Monthly,Medium,No,50.5,B (Above Average),Pass
+1076,Female,21,Computer Science,Bangalore,5.4,87.8,5.7,50.6,Yes,No,Weekly,Medium,Yes,66.4,B+ (Good),Pass
+1077,Female,22,Computer Science,Pune,3.4,57.6,7.0,67.2,Yes,No,Daily,High,Yes,47.6,F (Fail),Fail
+1078,Female,17,Mechanical,Chennai,5.0,92.3,6.2,69.2,Yes,Yes,Daily,Low,Yes,74.7,A (Very Good),Pass
+1079,Male,22,Business,Delhi,1.7,85.2,7.9,92.9,Yes,Yes,Daily,Medium,Yes,60.0,B+ (Good),Pass
+1080,Female,17,Electronics,Mumbai,1.7,85.2,6.7,79.6,Yes,No,Weekly,High,No,58.8,B (Above Average),Pass
+1081,Male,19,Civil,Delhi,4.6,54.0,7.0,66.3,Yes,Yes,Weekly,High,Yes,59.5,B (Above Average),Pass
+1082,Female,21,Electronics,Pune,3.9,76.1,6.6,60.0,Yes,No,Monthly,High,No,49.2,F (Fail),Fail
+1083,Male,21,Business,Chennai,5.2,93.8,6.8,100.0,Yes,Yes,Monthly,High,No,71.5,A (Very Good),Pass
+1084,Female,20,Computer Science,Pune,4.7,73.8,9.6,74.4,No,No,Daily,Low,No,66.4,B+ (Good),Pass
+1085,Male,22,Computer Science,Chennai,5.1,67.1,10.6,55.0,Yes,Yes,Weekly,High,No,44.3,F (Fail),Fail
+1086,Male,17,Business,Hyderabad,6.2,72.4,7.6,61.6,Yes,Yes,Weekly,Medium,Yes,55.8,B (Above Average),Pass
+1087,Female,17,Computer Science,Chennai,4.1,79.2,6.9,51.8,Yes,No,Weekly,High,Yes,60.9,B+ (Good),Pass
+1088,Male,24,Computer Science,Bangalore,4.6,69.8,4.6,28.9,Yes,No,Daily,Medium,No,47.5,F (Fail),Fail
+1089,Female,24,Computer Science,Pune,7.9,94.8,5.9,69.7,Yes,Yes,Daily,Medium,No,88.3,A+ (Excellent),Pass
+1090,Female,18,Civil,Mumbai,5.0,79.2,6.8,91.7,Yes,No,Rarely,Medium,No,71.2,A (Very Good),Pass
+1091,Female,20,Civil,Hyderabad,4.6,73.3,5.9,40.5,Yes,No,Monthly,Medium,No,53.0,B (Above Average),Pass
+1092,Female,23,Mechanical,Bangalore,5.2,64.4,6.1,65.8,Yes,No,Daily,Low,Yes,64.7,B+ (Good),Pass
+1093,Female,24,Electronics,Delhi,4.7,85.8,9.4,54.4,Yes,No,Weekly,High,Yes,63.1,B+ (Good),Pass
+1094,Female,23,Business,Pune,3.6,85.5,7.0,72.8,Yes,No,Weekly,High,No,62.7,B+ (Good),Pass
+1095,Female,18,Business,Mumbai,3.0,70.5,7.2,62.4,Yes,No,Monthly,Low,No,52.9,B (Above Average),Pass
+1096,Female,18,Business,Chennai,3.5,53.2,6.0,44.6,Yes,No,Weekly,High,Yes,44.7,F (Fail),Fail
+1097,Female,18,Mechanical,Mumbai,6.7,84.9,8.8,50.3,No,Yes,Daily,Medium,No,69.0,B+ (Good),Pass
+1098,Female,22,Civil,Delhi,3.7,77.8,6.7,52.5,Yes,No,Monthly,Medium,Yes,59.7,B (Above Average),Pass
+1099,Female,22,Mechanical,Hyderabad,4.7,84.0,6.2,85.2,No,No,Weekly,Low,Yes,68.9,B+ (Good),Pass
+1100,Male,19,Business,Hyderabad,6.4,100.0,4.6,84.4,Yes,No,Weekly,High,No,78.0,A (Very Good),Pass
+1101,Male,19,Electronics,Pune,4.4,79.7,6.9,60.3,No,No,Weekly,Medium,No,57.6,B (Above Average),Pass
+1102,Female,18,Computer Science,Hyderabad,6.3,73.8,6.2,83.4,Yes,No,Weekly,Medium,Yes,70.3,A (Very Good),Pass
+1103,Female,20,Civil,Pune,1.9,66.2,9.5,62.4,Yes,No,Weekly,Medium,Yes,50.9,B (Above Average),Pass
+1104,Female,17,Civil,Pune,4.7,76.3,9.8,60.1,No,No,Weekly,Low,Yes,63.6,B+ (Good),Pass
+1105,Female,22,Mechanical,Pune,5.2,81.9,5.1,65.9,Yes,No,Weekly,Medium,No,67.5,B+ (Good),Pass
+1106,Female,20,Civil,Chennai,5.0,80.6,5.3,69.3,Yes,No,Daily,Low,Yes,74.8,A (Very Good),Pass
+1107,Female,21,Business,Bangalore,1.7,100.0,6.6,56.7,Yes,No,Monthly,Low,No,64.9,B+ (Good),Pass
+1108,Female,22,Business,Pune,7.4,86.0,5.8,65.3,Yes,No,Daily,Medium,No,77.8,A (Very Good),Pass
+1109,Female,22,Mechanical,Pune,3.3,78.4,7.3,76.8,No,Yes,Daily,High,No,59.8,B (Above Average),Pass
+1110,Male,19,Business,Bangalore,5.7,71.5,6.5,66.9,Yes,No,Monthly,Medium,Yes,63.2,B+ (Good),Pass
+1111,Female,17,Electronics,Mumbai,5.0,83.2,7.4,65.6,Yes,No,Monthly,Low,No,66.0,B+ (Good),Pass
+1112,Male,17,Mechanical,Pune,7.0,69.1,8.5,72.4,Yes,No,Monthly,Medium,Yes,77.7,A (Very Good),Pass
+1113,Female,24,Electronics,Chennai,9.4,82.2,5.4,75.0,Yes,Yes,Weekly,High,Yes,78.5,A (Very Good),Pass
+1114,Female,23,Computer Science,Hyderabad,2.4,85.8,8.5,64.1,Yes,No,Weekly,Medium,Yes,64.5,B+ (Good),Pass
+1115,Male,23,Electronics,Hyderabad,3.7,77.4,5.9,57.9,Yes,No,Monthly,High,Yes,60.9,B+ (Good),Pass
+1116,Female,23,Computer Science,Delhi,5.4,72.4,10.2,67.8,Yes,No,Monthly,Medium,No,69.4,B+ (Good),Pass
+1117,Male,23,Computer Science,Delhi,2.8,53.8,9.4,41.1,Yes,No,Weekly,High,Yes,35.6,F (Fail),Fail
+1118,Female,21,Electronics,Hyderabad,6.6,93.7,6.8,61.8,No,No,Rarely,Low,Yes,71.6,A (Very Good),Pass
+1119,Female,21,Mechanical,Hyderabad,6.7,84.8,5.6,27.9,Yes,Yes,Daily,Medium,No,60.2,B+ (Good),Pass
+1120,Male,22,Business,Chennai,6.1,85.1,5.3,39.9,Yes,Yes,Rarely,Medium,Yes,55.9,B (Above Average),Pass
+1121,Female,18,Business,Bangalore,5.5,61.3,8.3,37.6,Yes,No,Rarely,Medium,No,52.0,B (Above Average),Pass
+1122,Male,19,Computer Science,Delhi,7.7,96.6,7.0,80.7,Yes,No,Monthly,High,Yes,87.2,A+ (Excellent),Pass
+1123,Female,19,Computer Science,Bangalore,2.7,74.4,8.4,65.2,Yes,Yes,Rarely,High,Yes,49.3,F (Fail),Fail
+1124,Male,23,Mechanical,Chennai,5.1,76.5,10.3,46.1,No,Yes,Monthly,Low,No,50.5,B (Above Average),Pass
+1125,Male,22,Civil,Hyderabad,3.5,67.2,5.8,72.4,Yes,Yes,Daily,Low,Yes,49.5,F (Fail),Fail
+1126,Female,24,Electronics,Pune,6.8,58.6,5.2,79.8,No,No,Weekly,Medium,No,67.8,B+ (Good),Pass
+1127,Female,20,Computer Science,Bangalore,1.3,93.9,7.3,72.6,Yes,Yes,Daily,Low,Yes,60.2,B+ (Good),Pass
+1128,Male,18,Business,Hyderabad,4.9,95.4,8.7,62.2,Yes,No,Weekly,Medium,Yes,66.0,B+ (Good),Pass
+1129,Female,22,Mechanical,Hyderabad,5.7,78.0,5.6,68.5,Yes,No,Monthly,High,Yes,67.4,B+ (Good),Pass
+1130,Female,18,Electronics,Mumbai,3.1,71.8,7.1,78.5,Yes,Yes,Weekly,High,Yes,56.0,B (Above Average),Pass
+1131,Female,18,Mechanical,Bangalore,3.7,75.5,9.1,58.0,Yes,No,Weekly,Medium,Yes,55.2,B (Above Average),Pass
+1132,Male,18,Electronics,Pune,5.0,75.8,4.6,65.4,No,Yes,Monthly,High,No,61.5,B+ (Good),Pass
+1133,Male,22,Electronics,Bangalore,6.9,65.6,7.4,61.1,Yes,No,Rarely,Medium,Yes,73.8,A (Very Good),Pass
+1134,Male,23,Computer Science,Hyderabad,2.9,76.5,6.2,40.8,No,Yes,Daily,Low,Yes,48.4,F (Fail),Fail
+1135,Male,19,Mechanical,Pune,3.3,81.8,7.2,78.7,Yes,No,Weekly,Medium,Yes,62.9,B+ (Good),Pass
+1136,Male,19,Mechanical,Chennai,7.3,92.2,8.1,95.9,Yes,No,Daily,Medium,No,96.7,O (Outstanding),Pass
+1137,Male,23,Business,Mumbai,4.5,80.2,7.3,51.9,Yes,Yes,Monthly,Medium,No,61.0,B+ (Good),Pass
+1138,Male,18,Business,Hyderabad,3.4,61.1,5.5,79.4,Yes,Yes,Daily,Low,No,55.2,B (Above Average),Pass
+1139,Male,20,Computer Science,Delhi,6.5,84.2,6.2,52.4,No,No,Monthly,Medium,No,63.2,B+ (Good),Pass
+1140,Male,17,Computer Science,Delhi,4.0,76.9,9.1,67.0,Yes,Yes,Weekly,Medium,Yes,64.0,B+ (Good),Pass
+1141,Female,22,Civil,Mumbai,7.1,96.4,7.5,87.6,Yes,No,Daily,High,Yes,85.1,A+ (Excellent),Pass
+1142,Male,17,Business,Chennai,3.7,97.2,8.3,57.2,Yes,No,Rarely,Medium,No,60.7,B+ (Good),Pass
+1143,Female,24,Electronics,Hyderabad,4.7,97.6,7.4,64.8,Yes,No,Daily,High,No,67.8,B+ (Good),Pass
+1144,Female,23,Mechanical,Bangalore,6.9,73.3,8.2,38.0,Yes,No,Weekly,High,Yes,57.8,B (Above Average),Pass
+1145,Female,20,Computer Science,Mumbai,4.5,100.0,6.4,55.0,Yes,No,Daily,Low,Yes,63.7,B+ (Good),Pass
+1146,Male,22,Mechanical,Chennai,6.5,84.2,5.8,36.4,Yes,No,Weekly,Medium,No,66.8,B+ (Good),Pass
+1147,Male,23,Mechanical,Bangalore,4.9,99.5,8.1,71.4,Yes,No,Weekly,High,No,75.1,A (Very Good),Pass
+1148,Male,18,Civil,Delhi,9.0,74.0,8.7,77.5,Yes,Yes,Weekly,Medium,Yes,83.2,A+ (Excellent),Pass
+1149,Male,19,Business,Delhi,8.1,76.4,5.6,61.7,Yes,Yes,Daily,High,No,73.2,A (Very Good),Pass
+1150,Female,17,Computer Science,Bangalore,2.3,83.3,6.1,69.3,Yes,No,Weekly,Low,Yes,55.6,B (Above Average),Pass
+1151,Male,21,Mechanical,Mumbai,6.0,81.8,6.8,60.1,Yes,No,Monthly,Low,Yes,66.2,B+ (Good),Pass
+1152,Male,21,Computer Science,Delhi,3.4,95.1,9.4,76.1,Yes,No,Monthly,High,Yes,72.9,A (Very Good),Pass
+1153,Male,20,Electronics,Hyderabad,5.4,77.2,7.8,66.9,Yes,Yes,Weekly,High,Yes,62.9,B+ (Good),Pass
+1154,Male,18,Civil,Pune,5.1,94.0,5.0,35.2,Yes,No,Monthly,High,Yes,52.5,B (Above Average),Pass
+1155,Male,24,Electronics,Bangalore,2.9,88.8,6.9,79.1,Yes,Yes,Weekly,Medium,No,64.3,B+ (Good),Pass
+1156,Female,17,Computer Science,Bangalore,7.1,77.4,6.6,59.2,Yes,Yes,Weekly,High,Yes,68.4,B+ (Good),Pass
+1157,Male,18,Computer Science,Delhi,5.4,87.9,5.2,45.9,Yes,No,Daily,High,No,63.4,B+ (Good),Pass
+1158,Female,17,Business,Mumbai,4.4,74.3,6.8,58.4,Yes,Yes,Weekly,High,Yes,51.4,B (Above Average),Pass
+1159,Male,20,Mechanical,Hyderabad,4.1,100.0,6.6,36.5,No,No,Weekly,Medium,Yes,64.7,B+ (Good),Pass
+1160,Female,20,Mechanical,Mumbai,5.3,48.0,6.5,46.3,Yes,No,Weekly,Medium,No,45.2,F (Fail),Fail
+1161,Male,24,Electronics,Chennai,5.8,88.1,6.4,67.1,Yes,No,Monthly,High,No,70.7,A (Very Good),Pass
+1162,Male,21,Civil,Chennai,4.8,58.8,9.2,68.4,Yes,No,Rarely,Medium,No,67.3,B+ (Good),Pass
+1163,Female,18,Mechanical,Pune,0.0,77.3,6.5,69.6,Yes,Yes,Daily,Medium,No,48.9,F (Fail),Fail
+1164,Female,22,Business,Delhi,5.0,79.0,7.1,65.0,Yes,Yes,Monthly,Medium,Yes,66.3,B+ (Good),Pass
+1165,Female,21,Electronics,Delhi,2.1,98.1,6.9,54.6,Yes,No,Monthly,Medium,Yes,53.7,B (Above Average),Pass
+1166,Male,18,Electronics,Delhi,4.6,71.7,6.2,64.2,Yes,No,Monthly,Medium,No,63.5,B+ (Good),Pass
+1167,Female,21,Business,Pune,2.2,95.7,7.1,58.4,Yes,No,Weekly,Low,No,58.7,B (Above Average),Pass
+1168,Male,22,Civil,Chennai,2.2,65.9,7.1,40.6,Yes,Yes,Weekly,High,No,34.2,F (Fail),Fail
+1169,Male,19,Business,Mumbai,7.5,96.2,7.1,53.4,Yes,No,Daily,Medium,No,79.3,A (Very Good),Pass
+1170,Female,19,Civil,Pune,4.4,74.3,5.7,78.3,Yes,No,Weekly,Medium,No,63.8,B+ (Good),Pass
+1171,Female,24,Business,Pune,4.2,80.9,6.7,88.8,Yes,No,Monthly,Low,Yes,69.2,B+ (Good),Pass
+1172,Male,19,Business,Mumbai,6.0,76.0,8.1,74.8,Yes,No,Daily,Low,No,73.7,A (Very Good),Pass
+1173,Male,19,Computer Science,Delhi,4.3,95.4,6.7,88.2,Yes,Yes,Weekly,Low,No,73.0,A (Very Good),Pass
+1174,Female,23,Electronics,Hyderabad,9.2,93.1,7.2,66.3,No,Yes,Monthly,Medium,No,81.0,A+ (Excellent),Pass
+1175,Female,17,Business,Mumbai,4.5,85.3,7.3,91.1,Yes,No,Monthly,Low,Yes,74.4,A (Very Good),Pass
+1176,Female,23,Business,Chennai,5.7,66.2,7.6,95.8,Yes,No,Weekly,High,Yes,79.0,A (Very Good),Pass
+1177,Male,23,Mechanical,Bangalore,6.9,71.4,7.8,39.0,Yes,Yes,Monthly,Low,Yes,54.5,B (Above Average),Pass
+1178,Male,24,Electronics,Bangalore,8.2,67.7,6.7,68.3,No,No,Weekly,Low,Yes,71.1,A (Very Good),Pass
+1179,Male,23,Mechanical,Pune,3.5,53.0,5.6,66.3,Yes,Yes,Daily,Low,No,52.3,B (Above Average),Pass
+1180,Male,19,Electronics,Bangalore,4.2,95.1,5.2,58.6,Yes,Yes,Weekly,Low,Yes,58.8,B (Above Average),Pass
+1181,Male,22,Mechanical,Hyderabad,7.5,76.1,8.5,72.4,Yes,No,Monthly,High,Yes,70.3,A (Very Good),Pass
+1182,Male,24,Business,Delhi,6.6,75.9,8.2,65.6,Yes,Yes,Rarely,High,Yes,66.4,B+ (Good),Pass
+1183,Female,24,Business,Chennai,7.2,98.0,8.0,54.0,No,No,Daily,Medium,No,77.0,A (Very Good),Pass
+1184,Male,20,Computer Science,Hyderabad,2.3,74.3,8.2,64.6,Yes,No,Weekly,Low,Yes,58.9,B (Above Average),Pass
+1185,Male,24,Mechanical,Chennai,8.1,69.9,6.8,83.1,Yes,Yes,Weekly,Low,Yes,77.8,A (Very Good),Pass
+1186,Male,20,Civil,Chennai,3.5,77.3,6.1,67.7,No,Yes,Weekly,Medium,Yes,53.4,B (Above Average),Pass
+1187,Female,24,Computer Science,Delhi,5.4,66.4,5.5,74.4,Yes,No,Daily,High,Yes,66.0,B+ (Good),Pass
+1188,Male,17,Mechanical,Pune,4.7,84.1,5.4,60.8,Yes,Yes,Weekly,Low,Yes,64.2,B+ (Good),Pass
+1189,Male,19,Mechanical,Bangalore,3.2,75.5,8.8,71.8,Yes,No,Monthly,Medium,Yes,62.0,B+ (Good),Pass
+1190,Female,24,Computer Science,Delhi,2.2,73.9,6.3,46.9,Yes,No,Monthly,Medium,No,53.2,B (Above Average),Pass
+1191,Male,19,Business,Hyderabad,1.5,72.9,8.6,57.5,Yes,No,Weekly,Low,Yes,45.2,F (Fail),Fail
+1192,Male,19,Mechanical,Pune,5.2,78.7,6.7,63.5,Yes,No,Weekly,Medium,Yes,63.2,B+ (Good),Pass
+1193,Male,21,Business,Hyderabad,1.9,81.0,6.0,45.9,Yes,Yes,Weekly,Low,No,50.4,B (Above Average),Pass
+1194,Male,24,Computer Science,Pune,2.7,73.8,5.4,52.5,Yes,Yes,Weekly,High,Yes,41.1,F (Fail),Fail
+1195,Male,18,Business,Hyderabad,4.6,75.7,6.1,69.7,No,Yes,Monthly,Low,No,58.0,B (Above Average),Pass
+1196,Female,21,Electronics,Delhi,0.0,79.0,9.1,66.9,Yes,No,Rarely,Medium,Yes,46.2,F (Fail),Fail
+1197,Female,18,Civil,Pune,6.6,77.8,5.4,77.1,No,No,Weekly,Low,No,67.2,B+ (Good),Pass
+1198,Female,19,Mechanical,Pune,0.2,80.4,10.2,56.0,Yes,Yes,Weekly,High,No,40.7,F (Fail),Fail
+1199,Male,19,Civil,Chennai,4.8,71.9,5.7,65.9,Yes,Yes,Monthly,Low,No,63.4,B+ (Good),Pass
+1200,Male,21,Business,Chennai,5.0,92.1,8.1,54.9,No,No,Weekly,High,Yes,63.0,B+ (Good),Pass
+1201,Male,21,Mechanical,Mumbai,6.1,81.2,6.8,75.6,Yes,No,Monthly,High,Yes,75.4,A (Very Good),Pass
+1202,Female,18,Business,Hyderabad,4.9,74.0,6.5,82.9,Yes,No,Weekly,High,Yes,73.1,A (Very Good),Pass
+1203,Male,20,Electronics,Chennai,9.0,84.1,5.1,72.2,Yes,No,Monthly,Medium,No,82.5,A+ (Excellent),Pass
+1204,Male,18,Computer Science,Mumbai,5.4,79.1,6.9,80.9,Yes,No,Weekly,Medium,No,83.5,A+ (Excellent),Pass
+1205,Female,21,Mechanical,Chennai,7.1,59.2,5.3,65.5,Yes,No,Monthly,Medium,Yes,66.2,B+ (Good),Pass
+1206,Male,22,Electronics,Hyderabad,3.6,84.1,4.5,77.1,No,No,Monthly,Low,Yes,64.0,B+ (Good),Pass
+1207,Female,21,Electronics,Pune,5.2,67.8,7.2,66.1,Yes,No,Weekly,Medium,Yes,60.8,B+ (Good),Pass
+1208,Female,22,Mechanical,Bangalore,8.1,91.2,6.0,49.6,Yes,No,Monthly,Low,Yes,77.3,A (Very Good),Pass
+1209,Female,17,Business,Hyderabad,4.5,77.1,9.5,68.7,Yes,Yes,Monthly,High,Yes,58.8,B (Above Average),Pass
+1210,Male,21,Electronics,Delhi,5.4,89.4,8.5,50.1,Yes,Yes,Weekly,Low,Yes,61.9,B+ (Good),Pass
+1211,Male,17,Civil,Chennai,7.0,72.4,9.5,100.0,Yes,No,Daily,Medium,No,82.4,A+ (Excellent),Pass
+1212,Male,20,Electronics,Chennai,3.5,80.8,6.0,60.0,Yes,No,Daily,Medium,No,58.6,B (Above Average),Pass
+1213,Male,18,Business,Pune,0.7,94.5,7.2,74.7,Yes,No,Weekly,Medium,No,59.6,B (Above Average),Pass
+1214,Male,22,Business,Delhi,5.5,76.8,3.1,64.8,Yes,Yes,Weekly,Medium,Yes,62.2,B+ (Good),Pass
+1215,Male,18,Civil,Pune,7.0,72.9,6.6,46.5,No,No,Monthly,Low,No,61.0,B+ (Good),Pass
+1216,Male,17,Electronics,Delhi,2.3,87.9,7.1,36.5,Yes,No,Daily,Medium,No,53.5,B (Above Average),Pass
+1217,Female,22,Business,Bangalore,6.3,87.6,7.2,76.2,Yes,Yes,Rarely,Low,Yes,72.8,A (Very Good),Pass
+1218,Male,18,Mechanical,Chennai,6.4,73.4,6.9,88.2,Yes,No,Weekly,High,No,76.8,A (Very Good),Pass
+1219,Female,21,Computer Science,Chennai,0.5,56.2,7.1,54.0,Yes,No,Weekly,High,Yes,34.0,F (Fail),Fail
+1220,Male,19,Computer Science,Bangalore,3.1,72.7,3.0,40.1,Yes,No,Weekly,High,Yes,44.9,F (Fail),Fail
+1221,Male,17,Computer Science,Mumbai,4.2,88.1,7.4,60.1,No,No,Weekly,Low,Yes,57.2,B (Above Average),Pass
+1222,Male,18,Electronics,Pune,4.6,70.7,7.7,50.9,Yes,No,Weekly,Low,Yes,64.5,B+ (Good),Pass
+1223,Female,17,Civil,Bangalore,3.5,79.9,9.0,55.2,No,No,Weekly,Low,No,61.0,B+ (Good),Pass
+1224,Female,23,Business,Pune,3.4,72.1,7.6,74.2,Yes,No,Daily,Low,Yes,63.9,B+ (Good),Pass
+1225,Female,17,Mechanical,Hyderabad,8.3,56.8,6.8,64.2,No,No,Monthly,Low,Yes,77.2,A (Very Good),Pass
+1226,Female,22,Mechanical,Chennai,4.8,71.9,8.7,52.6,Yes,No,Monthly,Medium,Yes,61.9,B+ (Good),Pass
+1227,Male,23,Electronics,Pune,3.6,88.1,3.5,73.8,No,No,Weekly,Low,No,64.2,B+ (Good),Pass
+1228,Female,24,Computer Science,Delhi,4.9,51.6,6.2,75.0,Yes,Yes,Monthly,Medium,Yes,59.4,B (Above Average),Pass
+1229,Male,22,Electronics,Pune,6.1,83.0,5.9,59.9,Yes,No,Monthly,High,No,72.7,A (Very Good),Pass
+1230,Male,19,Civil,Hyderabad,5.1,65.8,6.9,67.1,No,No,Daily,Medium,No,57.6,B (Above Average),Pass
+1231,Female,23,Civil,Chennai,4.6,87.3,3.7,72.8,Yes,No,Rarely,Medium,Yes,65.1,B+ (Good),Pass
+1232,Female,24,Business,Bangalore,3.7,88.6,9.0,71.4,Yes,No,Monthly,Medium,Yes,68.1,B+ (Good),Pass
+1233,Female,21,Business,Hyderabad,3.7,77.9,6.6,65.6,Yes,Yes,Weekly,Medium,No,55.9,B (Above Average),Pass
+1234,Female,17,Civil,Chennai,3.8,78.0,7.5,86.5,No,No,Daily,Low,Yes,57.9,B (Above Average),Pass
+1235,Female,18,Civil,Pune,5.7,70.3,7.3,73.7,Yes,Yes,Daily,Medium,Yes,60.9,B+ (Good),Pass
+1236,Female,20,Civil,Mumbai,3.0,63.9,8.9,58.2,Yes,Yes,Daily,Medium,No,47.8,F (Fail),Fail
+1237,Female,17,Electronics,Mumbai,5.8,100.0,4.2,58.3,Yes,No,Monthly,High,Yes,70.9,A (Very Good),Pass
+1238,Female,24,Civil,Delhi,7.8,69.6,7.2,56.6,Yes,Yes,Weekly,High,Yes,65.3,B+ (Good),Pass
+1239,Male,17,Mechanical,Chennai,5.7,98.8,8.7,74.5,No,No,Monthly,Medium,Yes,83.7,A+ (Excellent),Pass
+1240,Female,19,Computer Science,Mumbai,4.3,69.7,6.9,55.7,Yes,No,Monthly,Medium,Yes,56.6,B (Above Average),Pass
+1241,Female,21,Civil,Bangalore,2.4,86.3,5.6,58.6,Yes,No,Monthly,Low,No,57.9,B (Above Average),Pass
+1242,Male,20,Computer Science,Chennai,8.2,66.3,6.1,80.9,No,No,Monthly,High,No,68.4,B+ (Good),Pass
+1243,Female,23,Electronics,Bangalore,2.7,86.3,6.4,67.9,Yes,Yes,Daily,Medium,No,58.0,B (Above Average),Pass
+1244,Male,23,Computer Science,Bangalore,6.7,76.1,5.9,83.0,Yes,Yes,Weekly,Low,No,75.7,A (Very Good),Pass
+1245,Male,23,Electronics,Mumbai,6.3,76.2,6.8,77.0,Yes,No,Monthly,Low,Yes,68.4,B+ (Good),Pass
+1246,Female,24,Mechanical,Chennai,4.5,87.3,9.3,47.3,Yes,No,Daily,Low,Yes,56.8,B (Above Average),Pass
+1247,Male,22,Electronics,Pune,4.5,74.4,6.1,63.5,Yes,No,Daily,High,Yes,62.3,B+ (Good),Pass
+1248,Male,22,Electronics,Hyderabad,1.3,62.9,6.3,79.8,Yes,No,Rarely,Low,Yes,51.2,B (Above Average),Pass
+1249,Male,18,Business,Mumbai,5.7,89.1,7.7,46.7,Yes,Yes,Monthly,Medium,No,61.6,B+ (Good),Pass
+1250,Male,20,Civil,Mumbai,6.2,66.2,6.7,71.3,Yes,No,Weekly,Medium,No,70.7,A (Very Good),Pass
+1251,Female,23,Civil,Pune,2.8,86.2,5.0,64.4,Yes,No,Monthly,Medium,Yes,68.3,B+ (Good),Pass
+1252,Male,22,Mechanical,Chennai,4.7,91.7,6.9,38.7,Yes,Yes,Monthly,High,Yes,53.6,B (Above Average),Pass
+1253,Female,24,Mechanical,Chennai,5.1,75.5,6.9,66.8,Yes,Yes,Weekly,High,Yes,68.0,B+ (Good),Pass
+1254,Male,18,Civil,Bangalore,6.2,94.2,8.5,52.4,Yes,Yes,Daily,Medium,Yes,59.5,B (Above Average),Pass
+1255,Male,21,Business,Pune,5.0,85.8,5.5,47.5,Yes,Yes,Rarely,Low,Yes,59.5,B (Above Average),Pass
+1256,Male,18,Civil,Pune,1.7,71.6,8.5,65.1,Yes,No,Weekly,Medium,Yes,50.9,B (Above Average),Pass
+1257,Male,22,Business,Chennai,3.9,96.8,6.9,36.0,Yes,Yes,Daily,Medium,No,52.2,B (Above Average),Pass
+1258,Female,19,Mechanical,Bangalore,5.4,66.3,5.3,54.9,Yes,Yes,Weekly,Medium,No,59.6,B (Above Average),Pass
+1259,Female,24,Computer Science,Mumbai,6.7,75.5,5.0,100.0,Yes,Yes,Monthly,Medium,Yes,79.2,A (Very Good),Pass
+1260,Male,19,Mechanical,Delhi,3.8,77.5,9.9,74.8,Yes,No,Weekly,Low,Yes,56.6,B (Above Average),Pass
+1261,Male,23,Mechanical,Hyderabad,9.4,87.3,6.8,51.8,Yes,No,Weekly,Medium,Yes,72.9,A (Very Good),Pass
+1262,Female,19,Electronics,Mumbai,1.2,93.4,8.4,86.1,Yes,Yes,Weekly,Low,No,64.2,B+ (Good),Pass
+1263,Male,23,Electronics,Chennai,3.9,92.6,4.4,50.1,No,No,Rarely,High,No,50.4,B (Above Average),Pass
+1264,Male,23,Electronics,Hyderabad,4.8,82.7,11.0,56.7,No,Yes,Daily,Medium,No,61.5,B+ (Good),Pass
+1265,Male,22,Electronics,Delhi,4.6,76.6,8.3,47.8,Yes,No,Monthly,Medium,Yes,58.3,B (Above Average),Pass
+1266,Female,19,Business,Delhi,2.5,58.1,6.6,68.8,Yes,Yes,Rarely,Low,No,48.6,F (Fail),Fail
+1267,Female,23,Civil,Bangalore,5.9,64.2,6.5,85.5,Yes,No,Daily,Medium,Yes,71.5,A (Very Good),Pass
+1268,Female,20,Computer Science,Hyderabad,5.7,100.0,8.1,50.0,Yes,No,Rarely,Medium,No,71.5,A (Very Good),Pass
+1269,Male,21,Mechanical,Bangalore,5.1,58.0,8.0,34.1,Yes,No,Rarely,Low,Yes,44.5,F (Fail),Fail
+1270,Male,18,Business,Mumbai,5.7,70.6,7.3,81.4,Yes,Yes,Rarely,High,Yes,66.8,B+ (Good),Pass
+1271,Female,18,Computer Science,Pune,4.2,93.7,7.0,88.3,Yes,No,Weekly,Medium,No,71.2,A (Very Good),Pass
+1272,Female,22,Business,Pune,1.8,82.5,7.8,35.1,Yes,No,Monthly,Medium,Yes,46.0,F (Fail),Fail
+1273,Female,19,Business,Pune,3.6,91.1,4.4,71.9,Yes,Yes,Monthly,Medium,Yes,66.7,B+ (Good),Pass
+1274,Female,19,Mechanical,Hyderabad,5.3,86.5,6.4,68.4,Yes,No,Rarely,Medium,Yes,71.1,A (Very Good),Pass
+1275,Male,23,Civil,Pune,5.3,97.6,4.5,53.2,Yes,Yes,Daily,Medium,Yes,67.9,B+ (Good),Pass
+1276,Female,24,Electronics,Mumbai,5.1,83.5,7.9,44.1,Yes,Yes,Monthly,Medium,Yes,54.5,B (Above Average),Pass
+1277,Male,17,Civil,Bangalore,6.1,88.0,6.0,79.9,Yes,Yes,Weekly,Medium,Yes,74.5,A (Very Good),Pass
+1278,Female,23,Mechanical,Hyderabad,3.8,71.3,4.6,67.7,Yes,No,Daily,Medium,Yes,59.4,B (Above Average),Pass
+1279,Male,21,Mechanical,Bangalore,5.1,87.0,5.8,68.8,Yes,No,Weekly,Low,Yes,68.8,B+ (Good),Pass
+1280,Female,20,Mechanical,Hyderabad,6.1,75.2,7.2,55.7,Yes,No,Monthly,Low,No,62.2,B+ (Good),Pass
+1281,Female,18,Computer Science,Bangalore,4.8,74.6,6.7,53.0,Yes,Yes,Weekly,Low,Yes,55.0,B (Above Average),Pass
+1282,Female,23,Civil,Delhi,2.5,90.7,5.2,28.2,Yes,No,Weekly,Medium,Yes,43.4,F (Fail),Fail
+1283,Female,17,Civil,Bangalore,3.1,90.8,4.4,61.6,No,Yes,Rarely,Medium,Yes,49.9,F (Fail),Fail
+1284,Male,17,Business,Pune,6.7,100.0,7.1,86.6,No,No,Weekly,High,No,79.0,A (Very Good),Pass
+1285,Female,23,Business,Delhi,7.8,99.5,6.1,51.6,Yes,No,Monthly,Low,No,79.7,A (Very Good),Pass
+1286,Male,22,Business,Bangalore,7.4,91.0,6.6,42.2,Yes,Yes,Weekly,High,Yes,65.9,B+ (Good),Pass
+1287,Male,18,Mechanical,Hyderabad,5.5,59.4,6.8,71.5,Yes,No,Weekly,Medium,No,59.1,B (Above Average),Pass
+1288,Male,22,Civil,Hyderabad,2.6,100.0,7.6,74.3,No,No,Monthly,High,No,61.5,B+ (Good),Pass
+1289,Male,20,Mechanical,Hyderabad,5.0,91.0,8.3,56.2,Yes,No,Rarely,Medium,No,69.2,B+ (Good),Pass
+1290,Female,17,Computer Science,Chennai,8.1,70.8,7.2,59.8,No,No,Weekly,Medium,No,68.7,B+ (Good),Pass
+1291,Male,17,Business,Mumbai,6.2,88.7,6.5,69.0,Yes,No,Monthly,Low,No,68.8,B+ (Good),Pass
+1292,Male,21,Mechanical,Hyderabad,4.6,67.6,7.0,62.7,Yes,No,Daily,Low,No,69.4,B+ (Good),Pass
+1293,Male,20,Mechanical,Delhi,6.3,87.4,6.5,80.0,No,No,Weekly,Low,No,75.6,A (Very Good),Pass
+1294,Female,17,Computer Science,Hyderabad,2.5,64.2,4.5,100.0,Yes,Yes,Weekly,Medium,Yes,57.4,B (Above Average),Pass
+1295,Female,20,Electronics,Chennai,3.6,70.3,8.6,39.4,Yes,No,Daily,Medium,No,50.2,B (Above Average),Pass
+1296,Female,18,Civil,Pune,2.8,88.5,8.4,83.4,Yes,No,Weekly,High,No,65.2,B+ (Good),Pass
+1297,Female,19,Electronics,Delhi,5.9,92.9,10.0,66.6,Yes,Yes,Weekly,Medium,Yes,64.7,B+ (Good),Pass
+1298,Male,17,Business,Chennai,6.4,83.9,10.4,85.8,Yes,Yes,Daily,High,No,75.0,A (Very Good),Pass
+1299,Male,21,Mechanical,Pune,4.7,76.6,5.2,75.9,Yes,No,Weekly,Low,Yes,71.9,A (Very Good),Pass
+1300,Female,18,Computer Science,Delhi,3.3,54.6,6.5,65.9,Yes,No,Weekly,Low,Yes,52.1,B (Above Average),Pass
+1301,Male,23,Computer Science,Bangalore,5.0,77.5,10.8,76.4,Yes,No,Monthly,Medium,No,61.2,B+ (Good),Pass
+1302,Male,20,Civil,Mumbai,4.0,86.4,6.9,59.1,No,Yes,Rarely,Medium,Yes,59.0,B (Above Average),Pass
+1303,Male,23,Electronics,Mumbai,3.4,76.2,7.4,53.4,Yes,No,Monthly,Medium,Yes,57.9,B (Above Average),Pass
+1304,Female,22,Civil,Chennai,5.7,79.7,4.7,77.2,Yes,Yes,Weekly,High,Yes,65.5,B+ (Good),Pass
+1305,Female,18,Mechanical,Pune,3.5,77.8,7.2,52.3,Yes,No,Rarely,Low,Yes,53.6,B (Above Average),Pass
+1306,Male,23,Civil,Mumbai,1.9,76.1,9.9,74.6,Yes,No,Monthly,Medium,Yes,66.6,B+ (Good),Pass
+1307,Female,24,Computer Science,Pune,2.3,80.9,8.9,65.5,Yes,Yes,Weekly,High,Yes,49.6,F (Fail),Fail
+1308,Female,24,Computer Science,Pune,1.8,76.7,6.1,30.1,No,No,Daily,Low,Yes,35.4,F (Fail),Fail
+1309,Female,17,Business,Chennai,5.5,97.3,6.4,56.4,Yes,No,Monthly,High,No,68.3,B+ (Good),Pass
+1310,Female,20,Business,Chennai,5.3,53.5,5.3,70.0,Yes,No,Monthly,High,No,61.4,B+ (Good),Pass
+1311,Female,19,Mechanical,Chennai,5.2,73.4,5.7,58.9,Yes,No,Monthly,Low,Yes,65.0,B+ (Good),Pass
+1312,Male,18,Electronics,Mumbai,6.2,69.6,4.1,26.8,Yes,No,Monthly,Low,No,44.1,F (Fail),Fail
+1313,Female,17,Civil,Chennai,7.4,82.6,6.9,84.8,No,No,Monthly,Medium,Yes,77.7,A (Very Good),Pass
+1314,Male,21,Mechanical,Mumbai,3.8,80.9,9.3,67.5,Yes,Yes,Rarely,High,Yes,62.8,B+ (Good),Pass
+1315,Male,22,Business,Chennai,5.8,99.5,7.5,71.7,Yes,Yes,Weekly,Medium,Yes,75.6,A (Very Good),Pass
+1316,Female,20,Civil,Hyderabad,1.8,100.0,9.0,57.9,Yes,Yes,Daily,Medium,No,50.6,B (Above Average),Pass
+1317,Male,18,Business,Pune,7.8,70.7,8.6,73.0,Yes,No,Monthly,High,No,79.0,A (Very Good),Pass
+1318,Male,24,Civil,Chennai,2.5,80.0,6.2,92.5,Yes,No,Weekly,Low,Yes,71.0,A (Very Good),Pass
+1319,Male,18,Electronics,Delhi,3.6,82.4,5.9,54.0,Yes,No,Monthly,High,Yes,55.0,B (Above Average),Pass
+1320,Female,19,Mechanical,Pune,3.8,70.4,5.9,90.0,Yes,No,Rarely,Medium,Yes,71.4,A (Very Good),Pass
+1321,Female,24,Civil,Pune,1.9,87.5,4.4,71.0,Yes,No,Monthly,Medium,Yes,67.7,B+ (Good),Pass
+1322,Male,19,Computer Science,Chennai,5.1,77.1,7.0,52.0,Yes,No,Monthly,High,No,55.0,B (Above Average),Pass
+1323,Female,21,Computer Science,Bangalore,5.4,67.2,3.0,98.2,No,No,Weekly,Medium,Yes,75.7,A (Very Good),Pass
+1324,Female,22,Civil,Chennai,4.6,76.6,7.9,70.9,No,No,Weekly,Low,No,71.8,A (Very Good),Pass
+1325,Female,21,Civil,Pune,1.9,68.0,7.1,75.1,Yes,No,Weekly,Medium,Yes,57.9,B (Above Average),Pass
+1326,Female,17,Civil,Delhi,9.0,92.4,7.7,61.0,Yes,Yes,Monthly,Medium,No,76.6,A (Very Good),Pass
+1327,Male,17,Computer Science,Pune,6.1,100.0,8.6,53.1,Yes,No,Monthly,Low,No,72.9,A (Very Good),Pass
+1328,Male,21,Computer Science,Delhi,10.3,82.9,7.3,67.5,Yes,Yes,Monthly,High,Yes,87.0,A+ (Excellent),Pass
+1329,Female,22,Civil,Mumbai,3.4,81.3,9.4,88.7,Yes,Yes,Daily,Low,No,62.3,B+ (Good),Pass
+1330,Female,21,Business,Hyderabad,6.9,81.8,7.9,60.4,Yes,No,Weekly,Medium,No,71.7,A (Very Good),Pass
+1331,Male,22,Business,Pune,6.6,94.2,5.9,64.6,No,No,Monthly,Medium,Yes,73.0,A (Very Good),Pass
+1332,Male,22,Electronics,Chennai,4.4,93.9,6.6,86.8,No,No,Weekly,Low,Yes,71.4,A (Very Good),Pass
+1333,Female,23,Mechanical,Mumbai,7.8,78.6,3.6,60.5,Yes,No,Weekly,High,No,73.0,A (Very Good),Pass
+1334,Male,24,Business,Hyderabad,4.2,83.0,5.6,72.7,Yes,No,Monthly,High,Yes,64.6,B+ (Good),Pass
+1335,Female,20,Computer Science,Chennai,4.3,87.8,6.4,78.2,Yes,Yes,Monthly,Medium,Yes,70.3,A (Very Good),Pass
+1336,Female,22,Business,Bangalore,0.0,66.3,7.8,62.0,Yes,No,Weekly,Low,Yes,48.2,F (Fail),Fail
+1337,Male,19,Electronics,Chennai,5.8,94.6,5.9,69.6,Yes,No,Rarely,Low,No,69.9,B+ (Good),Pass
+1338,Male,22,Electronics,Delhi,2.3,100.0,5.1,74.9,Yes,No,Daily,Medium,No,66.5,B+ (Good),Pass
+1339,Female,22,Mechanical,Delhi,3.9,94.0,4.2,59.0,No,No,Rarely,Low,No,62.3,B+ (Good),Pass
+1340,Female,22,Business,Bangalore,2.9,65.1,6.1,77.2,Yes,No,Daily,Medium,Yes,59.5,B (Above Average),Pass
+1341,Male,23,Computer Science,Mumbai,4.3,56.4,9.9,56.8,Yes,Yes,Daily,High,Yes,48.8,F (Fail),Fail
+1342,Female,24,Computer Science,Hyderabad,5.9,88.5,7.4,54.9,Yes,No,Rarely,Medium,No,64.5,B+ (Good),Pass
+1343,Male,23,Civil,Chennai,5.0,70.9,8.4,42.1,Yes,No,Weekly,High,No,59.3,B (Above Average),Pass
+1344,Female,17,Computer Science,Delhi,6.4,83.4,5.6,57.4,Yes,No,Monthly,Medium,Yes,77.0,A (Very Good),Pass
+1345,Male,23,Mechanical,Mumbai,7.5,98.4,4.6,52.8,No,Yes,Monthly,Medium,Yes,73.4,A (Very Good),Pass
+1346,Male,19,Mechanical,Bangalore,4.3,72.1,5.2,59.0,Yes,No,Rarely,High,Yes,59.7,B (Above Average),Pass
+1347,Male,19,Computer Science,Pune,4.0,75.5,6.9,74.2,Yes,No,Rarely,Medium,No,65.1,B+ (Good),Pass
+1348,Female,23,Computer Science,Delhi,6.9,83.3,4.0,39.1,Yes,Yes,Weekly,High,No,63.7,B+ (Good),Pass
+1349,Female,24,Civil,Bangalore,7.1,64.4,5.5,35.4,Yes,No,Monthly,Low,No,48.8,F (Fail),Fail
+1350,Male,21,Computer Science,Chennai,6.5,70.9,6.1,53.8,No,Yes,Daily,Low,No,59.8,B (Above Average),Pass
+1351,Female,20,Civil,Hyderabad,3.1,80.3,5.0,71.9,Yes,No,Weekly,High,Yes,57.8,B (Above Average),Pass
+1352,Male,24,Civil,Delhi,5.8,76.4,3.8,69.3,No,No,Monthly,Medium,No,68.1,B+ (Good),Pass
+1353,Male,23,Computer Science,Delhi,5.2,87.3,7.4,53.5,Yes,No,Weekly,High,No,67.5,B+ (Good),Pass
+1354,Female,22,Electronics,Chennai,7.1,100.0,7.1,82.5,Yes,No,Monthly,High,Yes,83.8,A+ (Excellent),Pass
+1355,Female,18,Electronics,Pune,3.9,81.2,8.2,55.1,Yes,Yes,Weekly,Low,No,54.9,B (Above Average),Pass
+1356,Male,20,Civil,Mumbai,1.7,69.9,5.3,71.9,Yes,No,Monthly,Medium,Yes,48.5,F (Fail),Fail
+1357,Female,20,Computer Science,Hyderabad,6.4,97.0,8.1,59.6,Yes,No,Rarely,Medium,No,73.9,A (Very Good),Pass
+1358,Female,19,Electronics,Delhi,0.0,60.9,9.3,52.0,No,Yes,Daily,Medium,No,36.2,F (Fail),Fail
+1359,Male,20,Computer Science,Hyderabad,3.5,63.3,7.4,55.9,Yes,No,Monthly,High,No,47.4,F (Fail),Fail
+1360,Male,23,Computer Science,Delhi,3.0,72.9,6.1,76.0,Yes,No,Rarely,Low,No,53.0,B (Above Average),Pass
+1361,Female,22,Computer Science,Hyderabad,2.9,76.6,7.2,70.4,Yes,Yes,Weekly,Medium,Yes,65.9,B+ (Good),Pass
+1362,Male,22,Business,Bangalore,3.5,72.6,6.0,79.5,Yes,Yes,Daily,Medium,Yes,62.2,B+ (Good),Pass
+1363,Male,17,Computer Science,Delhi,7.4,79.6,5.8,70.4,Yes,Yes,Monthly,Low,Yes,72.5,A (Very Good),Pass
+1364,Female,22,Business,Hyderabad,6.6,83.3,8.0,40.8,Yes,No,Weekly,High,No,67.9,B+ (Good),Pass
+1365,Male,24,Civil,Mumbai,4.5,92.8,6.8,96.7,Yes,No,Daily,Medium,No,80.0,A+ (Excellent),Pass
+1366,Male,22,Electronics,Bangalore,7.3,81.1,8.8,70.6,Yes,No,Monthly,High,No,79.9,A (Very Good),Pass
+1367,Female,19,Electronics,Bangalore,2.9,73.3,6.3,72.7,Yes,No,Weekly,Medium,Yes,64.6,B+ (Good),Pass
+1368,Female,22,Electronics,Mumbai,2.6,92.2,6.5,59.3,Yes,No,Rarely,Low,No,54.4,B (Above Average),Pass
+1369,Male,17,Electronics,Hyderabad,6.7,70.2,6.2,81.7,Yes,No,Monthly,Medium,No,76.9,A (Very Good),Pass
+1370,Male,18,Electronics,Chennai,6.2,60.4,5.3,48.6,Yes,Yes,Monthly,Low,No,62.7,B+ (Good),Pass
+1371,Female,23,Electronics,Mumbai,4.1,94.5,8.2,74.1,No,No,Daily,High,Yes,62.6,B+ (Good),Pass
+1372,Female,19,Electronics,Hyderabad,2.7,93.7,10.3,33.8,Yes,No,Weekly,Low,Yes,47.4,F (Fail),Fail
+1373,Female,24,Civil,Mumbai,7.9,70.5,6.4,75.2,Yes,No,Daily,High,Yes,71.9,A (Very Good),Pass
+1374,Female,18,Computer Science,Mumbai,1.6,75.2,6.0,48.8,Yes,No,Rarely,Medium,No,50.8,B (Above Average),Pass
+1375,Male,19,Mechanical,Delhi,3.8,69.0,5.9,69.2,Yes,No,Daily,Medium,No,61.4,B+ (Good),Pass
+1376,Female,21,Business,Hyderabad,5.5,83.9,6.0,85.4,No,No,Weekly,Low,No,66.6,B+ (Good),Pass
+1377,Female,20,Mechanical,Chennai,8.6,100.0,9.5,77.3,Yes,Yes,Weekly,Medium,Yes,87.5,A+ (Excellent),Pass
+1378,Male,21,Mechanical,Delhi,5.8,88.4,5.9,83.4,No,No,Weekly,Medium,Yes,75.0,A (Very Good),Pass
+1379,Female,22,Computer Science,Mumbai,6.0,92.4,6.1,81.8,No,Yes,Weekly,Low,No,73.9,A (Very Good),Pass
+1380,Male,18,Computer Science,Pune,3.9,89.8,5.1,57.1,Yes,No,Monthly,High,No,57.2,B (Above Average),Pass
+1381,Female,22,Computer Science,Mumbai,6.1,80.0,7.4,74.0,Yes,Yes,Daily,Medium,No,71.6,A (Very Good),Pass
+1382,Female,20,Electronics,Mumbai,5.2,93.0,6.9,39.1,Yes,Yes,Daily,Medium,No,63.0,B+ (Good),Pass
+1383,Female,19,Civil,Hyderabad,1.8,88.9,5.3,54.7,Yes,No,Weekly,Medium,Yes,51.5,B (Above Average),Pass
+1384,Male,20,Electronics,Hyderabad,6.6,97.3,5.7,85.9,Yes,No,Monthly,Low,No,77.6,A (Very Good),Pass
+1385,Male,17,Civil,Delhi,6.9,74.5,9.3,59.2,Yes,Yes,Monthly,High,No,63.0,B+ (Good),Pass
+1386,Female,20,Civil,Chennai,6.6,59.1,7.0,37.0,Yes,No,Weekly,Medium,Yes,58.8,B (Above Average),Pass
+1387,Male,17,Mechanical,Delhi,5.1,92.5,7.2,95.2,Yes,No,Monthly,Low,Yes,79.2,A (Very Good),Pass
+1388,Male,20,Mechanical,Bangalore,3.1,84.2,7.2,73.4,Yes,Yes,Weekly,Medium,Yes,54.8,B (Above Average),Pass
+1389,Male,23,Civil,Mumbai,0.4,76.4,9.1,76.5,No,No,Rarely,Medium,Yes,54.1,B (Above Average),Pass
+1390,Male,17,Civil,Pune,5.3,77.1,5.4,50.3,Yes,No,Daily,Medium,No,66.9,B+ (Good),Pass
+1391,Male,18,Electronics,Mumbai,7.2,100.0,6.4,69.3,No,No,Monthly,Medium,Yes,79.5,A (Very Good),Pass
+1392,Male,22,Electronics,Mumbai,7.0,72.3,6.7,68.9,Yes,No,Rarely,Low,Yes,65.9,B+ (Good),Pass
+1393,Female,24,Mechanical,Delhi,6.6,69.8,4.4,52.7,Yes,No,Monthly,Low,Yes,63.2,B+ (Good),Pass
+1394,Female,22,Computer Science,Pune,4.9,81.0,5.6,62.5,Yes,No,Daily,High,No,63.9,B+ (Good),Pass
+1395,Male,21,Civil,Pune,7.2,94.2,8.6,42.5,Yes,Yes,Weekly,Low,Yes,64.1,B+ (Good),Pass
+1396,Female,22,Electronics,Pune,6.8,100.0,8.1,59.8,Yes,Yes,Monthly,High,No,74.1,A (Very Good),Pass
+1397,Female,19,Mechanical,Delhi,4.2,87.9,8.4,79.6,Yes,No,Daily,Low,Yes,67.3,B+ (Good),Pass
+1398,Female,23,Electronics,Mumbai,6.4,64.8,6.1,53.8,No,No,Monthly,High,Yes,58.8,B (Above Average),Pass
+1399,Female,20,Civil,Delhi,3.9,100.0,6.3,93.6,Yes,No,Monthly,Medium,Yes,77.5,A (Very Good),Pass
+1400,Male,21,Civil,Hyderabad,6.1,79.8,4.3,43.5,Yes,Yes,Monthly,Medium,Yes,62.0,B+ (Good),Pass
+1401,Female,19,Business,Hyderabad,2.4,69.9,8.4,61.1,No,Yes,Daily,Low,Yes,47.7,F (Fail),Fail
+1402,Female,19,Computer Science,Delhi,2.6,67.0,8.6,55.2,Yes,No,Monthly,Low,Yes,49.7,F (Fail),Fail
+1403,Male,17,Business,Pune,7.1,90.0,8.6,62.3,Yes,No,Monthly,Low,No,72.4,A (Very Good),Pass
+1404,Male,22,Mechanical,Mumbai,6.9,82.9,9.4,85.6,Yes,Yes,Monthly,Low,No,78.1,A (Very Good),Pass
+1405,Female,18,Electronics,Delhi,6.3,84.1,7.6,50.2,No,No,Daily,Medium,Yes,63.8,B+ (Good),Pass
+1406,Female,24,Mechanical,Delhi,5.2,95.4,9.3,58.2,Yes,No,Daily,Medium,Yes,65.7,B+ (Good),Pass
+1407,Female,18,Civil,Delhi,0.2,70.4,6.7,74.8,Yes,No,Weekly,Medium,No,50.6,B (Above Average),Pass
+1408,Female,21,Business,Bangalore,4.9,96.4,4.3,66.4,Yes,No,Daily,High,No,70.8,A (Very Good),Pass
+1409,Female,23,Business,Hyderabad,5.9,73.8,8.3,67.6,No,No,Monthly,Medium,Yes,65.1,B+ (Good),Pass
+1410,Female,18,Business,Pune,3.9,100.0,4.3,50.5,Yes,No,Rarely,Medium,No,67.1,B+ (Good),Pass
+1411,Male,20,Mechanical,Chennai,3.6,87.2,7.3,63.9,No,No,Weekly,Medium,No,62.2,B+ (Good),Pass
+1412,Female,18,Civil,Pune,7.9,69.0,8.4,82.0,Yes,No,Monthly,Medium,No,73.9,A (Very Good),Pass
+1413,Female,21,Electronics,Chennai,4.9,55.7,7.5,40.9,No,No,Daily,Medium,Yes,53.5,B (Above Average),Pass
+1414,Male,24,Electronics,Bangalore,5.9,89.7,10.4,54.5,Yes,No,Daily,High,Yes,69.7,B+ (Good),Pass
+1415,Male,18,Mechanical,Delhi,6.5,75.5,4.1,37.8,Yes,No,Daily,Low,Yes,64.6,B+ (Good),Pass
+1416,Male,20,Business,Bangalore,3.0,78.1,6.9,73.1,No,No,Weekly,Low,No,61.1,B+ (Good),Pass
+1417,Male,17,Computer Science,Bangalore,5.4,89.2,7.0,83.4,Yes,No,Rarely,Medium,No,67.5,B+ (Good),Pass
+1418,Female,23,Mechanical,Mumbai,7.6,92.1,5.0,62.2,Yes,No,Daily,Low,Yes,82.4,A+ (Excellent),Pass
+1419,Female,21,Mechanical,Hyderabad,8.6,94.7,5.3,49.9,Yes,Yes,Monthly,High,No,73.2,A (Very Good),Pass
+1420,Female,17,Civil,Chennai,5.1,65.9,5.7,50.4,Yes,Yes,Weekly,High,No,53.7,B (Above Average),Pass
+1421,Female,17,Electronics,Delhi,4.5,97.1,5.4,60.5,Yes,No,Rarely,Low,No,70.2,A (Very Good),Pass
+1422,Female,17,Mechanical,Chennai,5.5,73.1,6.8,60.5,Yes,No,Daily,Low,No,72.1,A (Very Good),Pass
+1423,Female,19,Mechanical,Pune,5.5,52.9,6.1,78.7,Yes,No,Weekly,Medium,No,62.5,B+ (Good),Pass
+1424,Male,23,Business,Chennai,7.8,65.9,7.5,55.0,Yes,No,Daily,Medium,Yes,66.2,B+ (Good),Pass
+1425,Female,24,Business,Pune,3.0,82.6,8.0,71.5,Yes,No,Weekly,Low,No,58.9,B (Above Average),Pass
+1426,Male,22,Computer Science,Hyderabad,4.4,68.3,7.9,60.4,Yes,No,Weekly,Medium,No,54.8,B (Above Average),Pass
+1427,Male,23,Civil,Pune,2.8,78.9,6.4,53.8,Yes,Yes,Rarely,Medium,Yes,47.1,F (Fail),Fail
+1428,Female,19,Computer Science,Chennai,3.0,84.1,7.4,60.0,Yes,No,Monthly,Medium,Yes,51.3,B (Above Average),Pass
+1429,Male,22,Business,Chennai,5.8,77.8,8.6,70.0,Yes,No,Monthly,Low,No,71.8,A (Very Good),Pass
+1430,Female,23,Electronics,Pune,6.6,74.1,7.7,78.7,No,Yes,Weekly,High,Yes,75.8,A (Very Good),Pass
+1431,Male,17,Business,Bangalore,3.7,65.0,9.8,61.2,Yes,No,Daily,Low,No,64.1,B+ (Good),Pass
+1432,Female,21,Civil,Hyderabad,6.5,80.3,8.5,46.9,No,No,Weekly,High,Yes,57.8,B (Above Average),Pass
+1433,Male,22,Business,Mumbai,7.2,55.2,9.6,80.0,No,Yes,Rarely,Medium,Yes,65.7,B+ (Good),Pass
+1434,Female,20,Civil,Delhi,8.9,71.8,3.3,51.5,Yes,Yes,Monthly,Medium,Yes,74.6,A (Very Good),Pass
+1435,Female,20,Civil,Chennai,5.1,68.9,7.1,68.9,Yes,No,Rarely,High,Yes,64.4,B+ (Good),Pass
+1436,Female,18,Civil,Delhi,3.7,77.1,6.5,64.6,No,No,Monthly,High,No,57.2,B (Above Average),Pass
+1437,Female,22,Civil,Mumbai,3.0,77.4,6.8,62.6,Yes,Yes,Daily,Medium,No,53.6,B (Above Average),Pass
+1438,Female,21,Civil,Delhi,2.8,91.5,5.8,57.7,Yes,Yes,Weekly,Low,Yes,61.2,B+ (Good),Pass
+1439,Male,24,Electronics,Mumbai,7.5,99.0,7.6,74.3,Yes,No,Daily,High,Yes,77.7,A (Very Good),Pass
+1440,Male,19,Computer Science,Pune,2.0,66.6,4.3,11.3,Yes,No,Weekly,Medium,Yes,34.9,F (Fail),Fail
+1441,Male,17,Mechanical,Bangalore,7.4,100.0,7.6,82.0,Yes,No,Daily,Low,Yes,88.0,A+ (Excellent),Pass
+1442,Female,18,Computer Science,Chennai,3.3,70.6,5.8,51.3,Yes,Yes,Weekly,High,No,47.9,F (Fail),Fail
+1443,Male,20,Civil,Mumbai,3.6,82.1,6.2,71.1,Yes,No,Monthly,Low,Yes,67.3,B+ (Good),Pass
+1444,Female,19,Electronics,Delhi,4.7,86.1,7.7,70.3,Yes,No,Rarely,Low,Yes,69.0,B+ (Good),Pass
+1445,Female,19,Business,Chennai,3.6,100.0,7.1,84.1,Yes,No,Monthly,Low,Yes,71.9,A (Very Good),Pass
+1446,Male,17,Electronics,Bangalore,6.9,73.5,8.6,68.0,Yes,No,Rarely,Medium,Yes,72.4,A (Very Good),Pass
+1447,Male,24,Civil,Pune,8.6,58.4,5.5,52.6,Yes,No,Daily,Medium,Yes,61.7,B+ (Good),Pass
+1448,Female,24,Electronics,Chennai,3.7,97.9,6.9,40.9,No,No,Daily,Medium,Yes,59.1,B (Above Average),Pass
+1449,Male,22,Electronics,Mumbai,4.1,70.0,8.3,59.8,Yes,No,Monthly,Medium,No,61.8,B+ (Good),Pass
+1450,Female,20,Civil,Bangalore,4.7,75.7,7.5,35.6,Yes,No,Weekly,Medium,No,51.0,B (Above Average),Pass
+1451,Female,24,Electronics,Delhi,6.1,66.6,7.6,55.6,Yes,No,Weekly,Medium,No,59.2,B (Above Average),Pass
+1452,Female,21,Mechanical,Bangalore,4.7,75.7,8.7,60.6,Yes,No,Weekly,Low,Yes,59.9,B (Above Average),Pass
+1453,Female,24,Mechanical,Bangalore,7.8,69.9,6.4,54.7,Yes,No,Weekly,High,Yes,67.2,B+ (Good),Pass
+1454,Female,19,Electronics,Hyderabad,7.3,88.1,6.1,65.6,No,Yes,Weekly,Low,Yes,72.8,A (Very Good),Pass
+1455,Male,17,Business,Bangalore,2.6,81.0,7.9,61.5,Yes,No,Weekly,High,No,61.4,B+ (Good),Pass
+1456,Male,21,Civil,Bangalore,6.0,71.8,6.8,60.1,No,Yes,Weekly,Low,No,66.5,B+ (Good),Pass
+1457,Female,22,Mechanical,Chennai,8.0,92.0,8.7,28.6,Yes,No,Monthly,High,Yes,68.9,B+ (Good),Pass
+1458,Female,20,Business,Delhi,4.0,83.1,7.6,45.6,Yes,Yes,Weekly,Low,Yes,54.4,B (Above Average),Pass
+1459,Male,22,Electronics,Chennai,4.4,57.8,6.1,74.6,Yes,No,Weekly,Low,No,57.1,B (Above Average),Pass
+1460,Male,19,Business,Chennai,3.9,91.0,7.5,77.1,No,No,Daily,High,No,72.7,A (Very Good),Pass
+1461,Female,21,Computer Science,Mumbai,4.0,82.2,5.6,37.4,Yes,No,Weekly,High,No,50.8,B (Above Average),Pass
+1462,Male,21,Mechanical,Chennai,1.7,96.7,8.4,52.8,Yes,No,Monthly,Medium,No,56.6,B (Above Average),Pass
+1463,Female,21,Electronics,Hyderabad,2.3,81.5,4.9,81.1,No,No,Monthly,Medium,No,63.4,B+ (Good),Pass
+1464,Male,19,Civil,Hyderabad,5.2,70.5,8.8,54.2,Yes,No,Monthly,Medium,Yes,60.6,B+ (Good),Pass
+1465,Female,19,Electronics,Mumbai,8.0,77.5,7.5,63.3,Yes,No,Weekly,High,No,78.0,A (Very Good),Pass
+1466,Male,22,Civil,Pune,3.8,89.6,6.8,86.6,No,Yes,Monthly,Medium,No,69.3,B+ (Good),Pass
+1467,Female,18,Electronics,Delhi,3.7,70.8,8.1,59.6,Yes,No,Monthly,Medium,No,61.0,B+ (Good),Pass
+1468,Male,22,Business,Delhi,8.4,74.7,7.8,57.4,Yes,No,Weekly,Medium,Yes,75.7,A (Very Good),Pass
+1469,Male,20,Business,Chennai,2.8,77.3,9.0,62.6,Yes,Yes,Weekly,Medium,Yes,53.7,B (Above Average),Pass
+1470,Female,17,Business,Chennai,1.7,66.2,9.0,92.8,Yes,No,Weekly,High,Yes,58.6,B (Above Average),Pass
+1471,Male,21,Computer Science,Pune,3.3,70.9,7.5,71.7,Yes,No,Monthly,Low,Yes,59.7,B (Above Average),Pass
+1472,Female,18,Civil,Chennai,3.7,82.1,5.7,65.3,Yes,No,Monthly,Low,No,57.3,B (Above Average),Pass
+1473,Male,17,Business,Delhi,1.5,94.4,6.2,57.1,Yes,No,Daily,Medium,Yes,51.6,B (Above Average),Pass
+1474,Female,18,Computer Science,Bangalore,4.7,83.8,6.9,73.1,Yes,No,Monthly,Medium,Yes,72.1,A (Very Good),Pass
+1475,Male,24,Civil,Hyderabad,6.9,79.4,8.6,74.9,No,Yes,Daily,Low,No,66.1,B+ (Good),Pass
+1476,Female,24,Electronics,Bangalore,2.4,70.0,6.3,48.9,No,Yes,Daily,Medium,Yes,41.9,F (Fail),Fail
+1477,Male,23,Computer Science,Bangalore,5.2,93.1,6.4,75.3,Yes,No,Rarely,High,Yes,68.3,B+ (Good),Pass
+1478,Female,24,Mechanical,Delhi,5.8,85.2,9.8,62.7,Yes,Yes,Rarely,Low,Yes,65.0,B+ (Good),Pass
+1479,Male,22,Computer Science,Bangalore,4.8,71.5,6.8,65.4,No,Yes,Daily,Medium,No,57.5,B (Above Average),Pass
+1480,Female,24,Computer Science,Pune,5.4,90.8,6.0,51.7,Yes,No,Weekly,Medium,Yes,64.6,B+ (Good),Pass
+1481,Female,19,Civil,Mumbai,5.4,86.7,8.2,59.0,Yes,No,Daily,Medium,No,61.8,B+ (Good),Pass
+1482,Female,21,Electronics,Chennai,3.4,70.2,6.9,49.5,No,No,Weekly,High,Yes,47.5,F (Fail),Fail
+1483,Male,22,Mechanical,Mumbai,8.0,78.8,4.9,48.8,Yes,No,Monthly,Medium,No,66.9,B+ (Good),Pass
+1484,Female,17,Business,Hyderabad,7.5,74.1,8.6,70.7,Yes,No,Rarely,Medium,Yes,72.7,A (Very Good),Pass
+1485,Male,23,Business,Chennai,7.4,100.0,5.9,59.7,Yes,No,Monthly,Medium,Yes,81.8,A+ (Excellent),Pass
+1486,Female,23,Computer Science,Bangalore,7.0,86.4,7.1,45.5,Yes,No,Weekly,Medium,Yes,72.2,A (Very Good),Pass
+1487,Male,23,Civil,Hyderabad,1.9,82.2,6.9,97.7,Yes,No,Monthly,Medium,Yes,62.3,B+ (Good),Pass
+1488,Female,17,Civil,Chennai,6.9,85.7,7.3,48.1,Yes,No,Weekly,High,Yes,73.0,A (Very Good),Pass
+1489,Male,17,Business,Pune,6.3,96.5,3.7,81.4,Yes,No,Rarely,Medium,Yes,79.4,A (Very Good),Pass
+1490,Male,17,Mechanical,Pune,1.9,79.0,6.5,42.9,Yes,Yes,Rarely,Low,Yes,42.0,F (Fail),Fail
+1491,Female,17,Electronics,Pune,4.6,72.9,8.7,71.8,No,No,Monthly,Low,No,59.5,B (Above Average),Pass
+1492,Male,23,Mechanical,Pune,5.6,90.1,8.9,61.2,No,No,Weekly,Low,Yes,68.3,B+ (Good),Pass
+1493,Male,23,Electronics,Bangalore,8.3,77.9,5.5,55.6,Yes,No,Weekly,Low,Yes,81.8,A+ (Excellent),Pass
+1494,Female,18,Business,Mumbai,6.4,67.2,8.4,68.0,No,No,Daily,High,No,58.2,B (Above Average),Pass
+1495,Male,22,Electronics,Chennai,3.3,64.8,5.9,65.9,No,No,Monthly,Medium,No,45.8,F (Fail),Fail
+1496,Male,21,Civil,Bangalore,8.4,98.4,6.4,52.8,Yes,Yes,Weekly,Medium,Yes,77.5,A (Very Good),Pass
+1497,Male,24,Computer Science,Pune,5.1,81.6,6.5,52.1,Yes,Yes,Weekly,Medium,Yes,61.8,B+ (Good),Pass
+1498,Female,24,Computer Science,Mumbai,4.5,72.9,7.2,41.4,Yes,No,Weekly,High,No,52.3,B (Above Average),Pass
+1499,Male,19,Business,Hyderabad,4.3,77.2,8.5,69.6,Yes,No,Monthly,Medium,Yes,67.0,B+ (Good),Pass
+1500,Female,23,Civil,Hyderabad,1.8,89.7,7.4,46.2,Yes,Yes,Daily,High,No,41.9,F (Fail),Fail
+1501,Male,19,Mechanical,Hyderabad,4.8,76.5,6.8,65.1,Yes,No,Rarely,Medium,Yes,60.8,B+ (Good),Pass
+1502,Male,22,Civil,Pune,6.0,62.6,8.5,73.9,Yes,Yes,Rarely,High,No,63.1,B+ (Good),Pass
+1503,Male,22,Computer Science,Hyderabad,4.2,83.9,5.8,68.1,Yes,No,Rarely,Medium,Yes,72.7,A (Very Good),Pass
+1504,Female,19,Computer Science,Delhi,5.8,94.5,6.9,54.2,No,Yes,Weekly,Low,No,66.9,B+ (Good),Pass
+1505,Male,23,Civil,Chennai,3.3,93.7,8.5,78.6,Yes,No,Weekly,Medium,Yes,71.6,A (Very Good),Pass
+1506,Male,19,Civil,Chennai,4.7,73.3,7.8,58.9,Yes,No,Weekly,Medium,No,56.8,B (Above Average),Pass
+1507,Female,24,Computer Science,Pune,5.6,95.2,6.3,45.0,Yes,No,Weekly,Low,Yes,67.6,B+ (Good),Pass
+1508,Male,18,Mechanical,Delhi,5.4,82.6,4.7,60.7,Yes,No,Daily,Medium,Yes,62.2,B+ (Good),Pass
+1509,Female,24,Business,Bangalore,1.8,94.9,7.5,73.8,No,No,Monthly,Medium,No,67.7,B+ (Good),Pass
+1510,Female,20,Business,Bangalore,4.1,86.9,4.6,54.9,Yes,No,Weekly,Low,Yes,57.6,B (Above Average),Pass
+1511,Male,23,Civil,Hyderabad,8.4,61.7,6.7,78.2,Yes,No,Rarely,High,No,72.1,A (Very Good),Pass
+1512,Female,23,Business,Mumbai,4.0,100.0,8.8,53.4,Yes,No,Daily,Medium,Yes,58.8,B (Above Average),Pass
+1513,Male,21,Computer Science,Bangalore,5.0,80.6,7.9,55.5,Yes,No,Monthly,High,No,61.4,B+ (Good),Pass
+1514,Female,17,Computer Science,Mumbai,4.8,86.9,4.0,49.3,Yes,No,Monthly,Medium,Yes,62.3,B+ (Good),Pass
+1515,Female,20,Civil,Chennai,8.1,63.9,7.3,75.3,Yes,No,Monthly,Medium,No,81.9,A+ (Excellent),Pass
+1516,Male,22,Civil,Mumbai,7.6,86.1,6.5,64.2,No,Yes,Rarely,Medium,No,75.0,A (Very Good),Pass
+1517,Female,23,Civil,Chennai,6.6,93.2,5.1,50.3,Yes,No,Monthly,Medium,Yes,67.5,B+ (Good),Pass
+1518,Female,19,Mechanical,Delhi,3.1,100.0,7.5,59.1,Yes,Yes,Rarely,High,No,62.0,B+ (Good),Pass
+1519,Female,20,Business,Delhi,5.7,96.8,6.3,18.9,Yes,Yes,Weekly,Low,No,49.6,F (Fail),Fail
+1520,Female,21,Civil,Pune,6.1,86.7,6.3,76.7,Yes,Yes,Weekly,High,Yes,68.3,B+ (Good),Pass
+1521,Female,22,Electronics,Pune,3.6,61.5,7.2,62.4,Yes,Yes,Daily,High,No,50.4,B (Above Average),Pass
+1522,Male,17,Electronics,Hyderabad,3.3,81.6,6.1,28.9,Yes,Yes,Daily,Medium,Yes,40.6,F (Fail),Fail
+1523,Female,17,Computer Science,Bangalore,8.4,72.9,7.1,43.1,Yes,No,Weekly,High,No,70.6,A (Very Good),Pass
+1524,Male,21,Business,Hyderabad,4.4,82.8,6.1,58.7,Yes,Yes,Daily,Medium,Yes,68.9,B+ (Good),Pass
+1525,Female,21,Civil,Chennai,8.2,65.4,6.2,45.3,No,No,Weekly,High,Yes,61.0,B+ (Good),Pass
+1526,Male,19,Electronics,Hyderabad,7.0,77.5,8.5,76.9,Yes,Yes,Daily,Medium,Yes,71.1,A (Very Good),Pass
+1527,Male,23,Business,Mumbai,5.8,73.8,8.6,71.3,No,No,Daily,Low,No,66.9,B+ (Good),Pass
+1528,Female,17,Computer Science,Chennai,5.9,73.4,4.4,70.4,No,No,Rarely,High,No,63.1,B+ (Good),Pass
+1529,Female,22,Mechanical,Pune,2.2,73.5,8.1,25.9,Yes,No,Daily,Medium,No,41.9,F (Fail),Fail
+1530,Female,20,Business,Delhi,5.4,78.4,9.1,57.1,Yes,No,Monthly,Medium,Yes,59.1,B (Above Average),Pass
+1531,Male,22,Business,Pune,7.8,83.4,9.3,54.5,Yes,No,Daily,Medium,Yes,74.7,A (Very Good),Pass
+1532,Female,18,Mechanical,Bangalore,6.4,50.0,7.8,50.7,No,No,Rarely,Low,No,62.8,B+ (Good),Pass
+1533,Male,18,Business,Chennai,5.3,51.5,5.4,58.8,Yes,Yes,Rarely,Medium,No,45.6,F (Fail),Fail
+1534,Male,21,Computer Science,Chennai,8.4,75.9,7.9,48.1,Yes,No,Monthly,High,Yes,64.3,B+ (Good),Pass
+1535,Male,19,Computer Science,Mumbai,4.6,77.6,5.7,68.2,No,No,Monthly,Low,Yes,61.5,B+ (Good),Pass
+1536,Female,18,Mechanical,Bangalore,3.8,82.3,6.5,76.5,Yes,No,Daily,Low,Yes,68.9,B+ (Good),Pass
+1537,Female,17,Civil,Delhi,5.3,71.3,7.6,75.2,Yes,No,Rarely,Low,Yes,71.8,A (Very Good),Pass
+1538,Male,22,Electronics,Chennai,6.5,80.1,5.8,62.9,Yes,No,Rarely,Medium,No,74.0,A (Very Good),Pass
+1539,Male,22,Civil,Chennai,1.6,81.5,5.3,95.0,Yes,No,Rarely,Medium,Yes,58.5,B (Above Average),Pass
+1540,Female,21,Business,Mumbai,5.6,71.2,7.7,82.1,No,No,Monthly,High,No,65.0,B+ (Good),Pass
+1541,Male,23,Electronics,Hyderabad,6.6,92.2,9.8,63.5,Yes,No,Weekly,High,Yes,69.4,B+ (Good),Pass
+1542,Female,23,Mechanical,Delhi,4.5,82.1,8.9,57.8,Yes,Yes,Rarely,Medium,Yes,59.3,B (Above Average),Pass
+1543,Male,20,Mechanical,Pune,7.2,86.6,8.1,85.1,No,No,Weekly,Low,No,81.0,A+ (Excellent),Pass
+1544,Female,21,Electronics,Bangalore,6.3,80.8,8.5,80.1,Yes,No,Monthly,High,No,68.8,B+ (Good),Pass
+1545,Male,24,Computer Science,Chennai,9.3,100.0,8.0,43.8,No,Yes,Daily,High,Yes,71.1,A (Very Good),Pass
+1546,Female,20,Electronics,Chennai,3.5,87.2,7.7,81.3,No,Yes,Rarely,Medium,No,66.2,B+ (Good),Pass
+1547,Male,24,Business,Pune,6.7,74.1,8.3,62.7,Yes,No,Daily,Medium,Yes,67.1,B+ (Good),Pass
+1548,Female,23,Computer Science,Delhi,3.0,89.9,4.9,52.1,Yes,No,Weekly,High,No,54.9,B (Above Average),Pass
+1549,Female,21,Mechanical,Hyderabad,1.8,60.3,7.3,35.3,Yes,Yes,Monthly,Medium,Yes,42.5,F (Fail),Fail
+1550,Male,24,Electronics,Chennai,0.9,81.4,6.9,61.0,Yes,No,Monthly,Medium,No,58.9,B (Above Average),Pass
+1551,Male,21,Civil,Delhi,6.1,83.8,7.1,64.8,Yes,Yes,Monthly,Medium,Yes,59.5,B (Above Average),Pass
+1552,Female,21,Civil,Pune,5.4,81.6,6.3,88.8,Yes,No,Weekly,Low,Yes,76.9,A (Very Good),Pass
+1553,Male,23,Business,Mumbai,4.0,76.0,7.8,79.4,Yes,No,Daily,Medium,No,78.3,A (Very Good),Pass
+1554,Female,20,Civil,Hyderabad,1.5,67.9,5.8,56.3,No,No,Monthly,Medium,No,47.2,F (Fail),Fail
+1555,Male,20,Electronics,Bangalore,3.6,70.5,6.2,70.8,Yes,No,Rarely,Low,Yes,60.6,B+ (Good),Pass
+1556,Female,21,Electronics,Chennai,5.0,81.2,6.0,77.4,Yes,No,Monthly,Low,Yes,76.2,A (Very Good),Pass
+1557,Female,18,Civil,Delhi,6.6,66.6,8.3,66.3,Yes,No,Weekly,Low,Yes,69.2,B+ (Good),Pass
+1558,Female,19,Electronics,Mumbai,5.0,100.0,7.0,56.2,No,Yes,Rarely,Medium,No,67.0,B+ (Good),Pass
+1559,Female,23,Business,Bangalore,5.5,48.3,6.3,57.0,Yes,No,Weekly,High,No,52.8,B (Above Average),Pass
+1560,Female,19,Computer Science,Delhi,4.2,76.1,6.4,70.8,No,No,Weekly,High,No,61.1,B+ (Good),Pass
+1561,Female,19,Business,Delhi,8.5,81.3,7.0,71.2,Yes,No,Weekly,Medium,Yes,82.8,A+ (Excellent),Pass
+1562,Male,20,Business,Bangalore,3.0,86.1,9.4,60.6,Yes,No,Weekly,Medium,No,63.0,B+ (Good),Pass
+1563,Male,20,Electronics,Mumbai,3.6,69.0,5.1,25.7,Yes,Yes,Monthly,High,Yes,37.6,F (Fail),Fail
+1564,Male,18,Computer Science,Pune,4.0,93.6,8.0,45.6,Yes,Yes,Weekly,Low,Yes,55.2,B (Above Average),Pass
+1565,Female,19,Electronics,Mumbai,6.1,63.3,7.7,74.3,Yes,Yes,Weekly,Medium,No,57.6,B (Above Average),Pass
+1566,Female,19,Mechanical,Hyderabad,2.9,73.2,5.7,33.0,Yes,No,Weekly,High,No,42.1,F (Fail),Fail
+1567,Female,21,Electronics,Chennai,5.3,87.4,9.2,82.8,Yes,No,Daily,Low,No,79.6,A (Very Good),Pass
+1568,Female,20,Electronics,Bangalore,5.3,92.5,7.8,80.5,No,No,Monthly,High,No,74.3,A (Very Good),Pass
+1569,Male,19,Electronics,Pune,3.6,63.2,6.2,65.6,Yes,No,Weekly,High,No,50.5,B (Above Average),Pass
+1570,Male,22,Computer Science,Bangalore,5.7,100.0,4.2,74.0,No,No,Daily,Low,No,68.2,B+ (Good),Pass
+1571,Female,18,Electronics,Bangalore,3.0,69.2,7.3,72.9,Yes,No,Monthly,Low,Yes,58.2,B (Above Average),Pass
+1572,Male,24,Computer Science,Mumbai,2.8,64.3,6.9,63.2,Yes,Yes,Monthly,Low,Yes,53.9,B (Above Average),Pass
+1573,Male,22,Civil,Chennai,5.2,86.0,5.5,44.4,Yes,No,Monthly,Medium,No,59.6,B (Above Average),Pass
+1574,Female,22,Mechanical,Hyderabad,1.7,75.8,5.4,79.5,Yes,Yes,Weekly,Medium,No,49.7,F (Fail),Fail
+1575,Male,24,Computer Science,Delhi,0.7,74.0,8.3,86.1,Yes,Yes,Rarely,Medium,Yes,51.4,B (Above Average),Pass
+1576,Female,23,Civil,Delhi,6.1,87.1,4.1,46.9,Yes,No,Rarely,Low,Yes,67.2,B+ (Good),Pass
+1577,Male,23,Computer Science,Bangalore,7.1,61.7,7.5,43.8,Yes,No,Monthly,High,Yes,63.7,B+ (Good),Pass
+1578,Female,18,Computer Science,Chennai,4.1,59.6,6.7,62.9,Yes,No,Monthly,Medium,Yes,55.2,B (Above Average),Pass
+1579,Female,22,Mechanical,Pune,3.7,72.8,7.7,55.6,Yes,No,Weekly,Low,No,60.5,B+ (Good),Pass
+1580,Female,19,Business,Mumbai,7.0,92.9,6.6,67.2,No,No,Rarely,Medium,Yes,79.7,A (Very Good),Pass
+1581,Female,20,Business,Chennai,2.7,73.4,7.4,83.1,Yes,No,Weekly,Medium,No,57.8,B (Above Average),Pass
+1582,Male,18,Computer Science,Chennai,2.3,99.2,5.9,31.3,Yes,No,Weekly,Medium,Yes,55.8,B (Above Average),Pass
+1583,Female,21,Electronics,Mumbai,6.4,94.4,6.9,88.7,Yes,No,Weekly,Low,Yes,84.9,A+ (Excellent),Pass
+1584,Female,24,Civil,Bangalore,5.0,83.4,7.7,58.9,Yes,No,Daily,Low,Yes,60.3,B+ (Good),Pass
+1585,Female,22,Electronics,Chennai,7.1,84.1,7.2,72.7,Yes,Yes,Rarely,High,No,79.6,A (Very Good),Pass
+1586,Male,18,Electronics,Delhi,0.7,83.4,7.6,74.3,Yes,No,Monthly,High,No,53.0,B (Above Average),Pass
+1587,Female,17,Computer Science,Mumbai,2.2,81.9,5.6,76.0,Yes,No,Monthly,Medium,No,53.1,B (Above Average),Pass
+1588,Male,17,Computer Science,Pune,5.0,75.6,6.1,65.9,Yes,No,Monthly,Medium,Yes,62.4,B+ (Good),Pass
+1589,Female,23,Computer Science,Hyderabad,5.8,77.0,6.1,69.4,Yes,No,Weekly,Medium,Yes,65.9,B+ (Good),Pass
+1590,Male,24,Computer Science,Bangalore,6.7,67.2,6.6,69.3,Yes,No,Daily,Medium,Yes,67.1,B+ (Good),Pass
+1591,Male,20,Business,Mumbai,5.3,53.5,9.0,55.5,Yes,Yes,Monthly,Medium,Yes,51.2,B (Above Average),Pass
+1592,Female,19,Computer Science,Hyderabad,5.3,93.2,6.5,38.6,No,No,Monthly,High,No,57.0,B (Above Average),Pass
+1593,Male,20,Business,Hyderabad,4.2,81.9,5.3,46.7,Yes,No,Weekly,Medium,No,56.4,B (Above Average),Pass
+1594,Female,20,Business,Pune,8.2,80.1,7.8,63.4,Yes,Yes,Monthly,Medium,No,73.5,A (Very Good),Pass
+1595,Female,20,Computer Science,Chennai,2.8,84.8,9.0,53.2,No,No,Weekly,Medium,Yes,56.2,B (Above Average),Pass
+1596,Female,24,Mechanical,Pune,5.7,70.1,5.1,53.2,No,No,Weekly,High,Yes,54.6,B (Above Average),Pass
+1597,Male,20,Civil,Chennai,3.0,68.0,10.0,92.0,Yes,Yes,Daily,High,Yes,64.8,B+ (Good),Pass
+1598,Male,21,Electronics,Chennai,6.1,76.6,7.6,77.9,Yes,No,Weekly,Low,Yes,68.7,B+ (Good),Pass
+1599,Female,24,Business,Mumbai,2.9,96.4,8.6,61.2,No,No,Monthly,Medium,No,63.0,B+ (Good),Pass
+1600,Female,21,Civil,Mumbai,6.5,66.0,9.2,75.1,Yes,No,Monthly,Medium,No,77.4,A (Very Good),Pass
+1601,Male,24,Mechanical,Bangalore,5.2,48.5,8.5,58.7,No,No,Weekly,Medium,Yes,52.6,B (Above Average),Pass
+1602,Female,23,Electronics,Chennai,8.5,73.7,6.8,66.7,Yes,Yes,Monthly,Medium,Yes,75.0,A (Very Good),Pass
+1603,Female,18,Electronics,Hyderabad,4.4,93.7,8.8,71.6,Yes,Yes,Monthly,High,No,61.7,B+ (Good),Pass
+1604,Female,17,Business,Delhi,5.8,59.2,7.4,58.7,Yes,No,Weekly,Medium,No,58.6,B (Above Average),Pass
+1605,Male,20,Computer Science,Bangalore,3.4,65.8,8.6,54.7,Yes,No,Daily,High,No,57.1,B (Above Average),Pass
+1606,Male,23,Mechanical,Mumbai,4.4,83.2,8.8,83.4,No,No,Rarely,Low,Yes,72.5,A (Very Good),Pass
+1607,Male,18,Business,Pune,5.2,100.0,5.4,74.2,No,No,Monthly,High,Yes,73.8,A (Very Good),Pass
+1608,Female,17,Mechanical,Bangalore,1.9,63.7,8.2,31.2,Yes,No,Rarely,High,No,28.9,F (Fail),Fail
+1609,Female,22,Computer Science,Bangalore,2.2,63.2,6.7,55.0,Yes,No,Weekly,Medium,No,45.0,F (Fail),Fail
+1610,Female,19,Computer Science,Bangalore,6.2,84.1,7.2,53.3,No,Yes,Monthly,Medium,Yes,69.5,B+ (Good),Pass
+1611,Male,21,Business,Bangalore,4.7,94.5,7.2,55.7,Yes,Yes,Weekly,Low,No,64.9,B+ (Good),Pass
+1612,Female,22,Computer Science,Delhi,3.8,72.5,7.1,77.9,Yes,Yes,Weekly,High,No,61.5,B+ (Good),Pass
+1613,Female,24,Civil,Pune,3.5,60.5,9.3,65.3,Yes,No,Weekly,Medium,Yes,55.9,B (Above Average),Pass
+1614,Female,17,Electronics,Pune,3.6,85.2,5.0,44.2,Yes,Yes,Weekly,Low,Yes,50.2,B (Above Average),Pass
+1615,Female,22,Business,Pune,5.2,87.4,4.4,59.3,Yes,No,Daily,Medium,Yes,68.5,B+ (Good),Pass
+1616,Male,19,Mechanical,Chennai,5.9,100.0,4.1,73.1,Yes,No,Weekly,Medium,Yes,72.1,A (Very Good),Pass
+1617,Male,23,Civil,Hyderabad,0.8,87.9,8.6,61.7,Yes,No,Daily,Low,No,46.3,F (Fail),Fail
+1618,Female,17,Business,Pune,7.8,89.9,5.8,55.3,No,No,Monthly,Low,Yes,70.7,A (Very Good),Pass
+1619,Male,22,Computer Science,Bangalore,7.7,76.9,7.2,70.0,Yes,No,Weekly,Medium,No,77.3,A (Very Good),Pass
+1620,Male,21,Computer Science,Bangalore,0.3,100.0,6.8,89.3,Yes,No,Daily,Medium,No,58.0,B (Above Average),Pass
+1621,Female,21,Computer Science,Pune,7.2,75.2,5.7,71.9,Yes,No,Daily,High,Yes,73.4,A (Very Good),Pass
+1622,Female,18,Computer Science,Pune,7.1,72.7,8.3,84.5,Yes,No,Daily,High,Yes,72.3,A (Very Good),Pass
+1623,Male,22,Mechanical,Bangalore,5.0,100.0,6.8,56.3,Yes,No,Monthly,Medium,No,65.8,B+ (Good),Pass
+1624,Female,20,Civil,Chennai,2.4,62.3,6.6,64.9,Yes,No,Daily,High,No,55.0,B (Above Average),Pass
+1625,Male,22,Electronics,Mumbai,7.0,57.8,7.3,64.6,Yes,No,Monthly,Medium,No,66.6,B+ (Good),Pass
+1626,Female,23,Mechanical,Mumbai,4.5,81.4,8.1,66.8,Yes,No,Daily,Medium,Yes,61.9,B+ (Good),Pass
+1627,Male,17,Mechanical,Pune,6.1,80.0,5.6,71.6,Yes,No,Weekly,Low,Yes,73.2,A (Very Good),Pass
+1628,Female,17,Electronics,Delhi,9.4,77.3,8.3,51.2,Yes,No,Rarely,Medium,No,70.1,A (Very Good),Pass
+1629,Male,23,Electronics,Pune,5.5,91.9,9.2,74.7,Yes,No,Monthly,Medium,No,76.5,A (Very Good),Pass
+1630,Male,22,Computer Science,Pune,3.2,69.1,4.9,40.6,Yes,No,Daily,Low,Yes,52.6,B (Above Average),Pass
+1631,Male,23,Mechanical,Mumbai,4.3,80.8,7.4,45.0,Yes,No,Monthly,Medium,No,59.7,B (Above Average),Pass
+1632,Female,19,Business,Bangalore,3.4,75.7,6.5,97.0,Yes,No,Weekly,High,Yes,77.2,A (Very Good),Pass
+1633,Male,24,Electronics,Pune,5.9,69.3,8.0,57.3,No,No,Monthly,Medium,No,53.7,B (Above Average),Pass
+1634,Male,23,Electronics,Bangalore,3.4,79.3,5.2,75.9,No,No,Monthly,Medium,No,62.8,B+ (Good),Pass
+1635,Female,21,Civil,Bangalore,4.1,90.2,9.4,90.5,Yes,No,Monthly,High,Yes,67.7,B+ (Good),Pass
+1636,Female,23,Business,Delhi,2.4,100.0,4.6,30.3,Yes,Yes,Rarely,High,No,45.3,F (Fail),Fail
+1637,Male,17,Business,Bangalore,4.7,87.0,6.6,81.9,Yes,No,Weekly,Low,Yes,73.2,A (Very Good),Pass
+1638,Male,21,Electronics,Mumbai,5.4,49.9,7.7,74.7,No,No,Monthly,Medium,Yes,69.1,B+ (Good),Pass
+1639,Female,17,Computer Science,Chennai,0.0,79.5,6.0,89.6,Yes,Yes,Weekly,Medium,Yes,54.0,B (Above Average),Pass
+1640,Female,18,Civil,Chennai,5.5,80.6,5.7,47.3,Yes,No,Daily,Medium,Yes,61.7,B+ (Good),Pass
+1641,Female,20,Business,Hyderabad,4.9,91.2,7.3,86.8,Yes,No,Daily,Low,Yes,80.9,A+ (Excellent),Pass
+1642,Female,17,Electronics,Pune,3.5,82.2,7.1,53.9,Yes,No,Daily,Medium,No,57.6,B (Above Average),Pass
+1643,Female,21,Business,Mumbai,9.1,95.0,7.0,80.8,No,No,Monthly,High,No,94.0,O (Outstanding),Pass
+1644,Male,18,Civil,Bangalore,6.9,84.7,8.3,64.5,Yes,No,Monthly,Medium,Yes,76.8,A (Very Good),Pass
+1645,Female,17,Civil,Chennai,2.8,98.7,6.4,76.6,Yes,No,Monthly,High,No,69.5,B+ (Good),Pass
+1646,Male,19,Mechanical,Mumbai,6.7,74.7,7.5,65.7,Yes,No,Daily,High,No,61.4,B+ (Good),Pass
+1647,Male,23,Electronics,Chennai,7.5,81.7,6.2,37.4,Yes,Yes,Weekly,High,No,68.8,B+ (Good),Pass
+1648,Male,20,Civil,Bangalore,5.3,89.9,5.7,18.2,Yes,No,Rarely,Low,No,51.3,B (Above Average),Pass
+1649,Female,17,Mechanical,Chennai,5.7,73.1,6.6,68.1,Yes,No,Weekly,High,Yes,65.7,B+ (Good),Pass
+1650,Male,18,Mechanical,Pune,5.7,70.5,6.3,61.0,No,No,Monthly,Low,Yes,59.8,B (Above Average),Pass
+1651,Male,19,Business,Pune,0.8,72.4,6.3,71.0,Yes,No,Monthly,Medium,No,47.3,F (Fail),Fail
+1652,Female,22,Business,Hyderabad,4.6,71.0,8.7,61.2,Yes,No,Monthly,Medium,Yes,56.0,B (Above Average),Pass
+1653,Male,18,Mechanical,Hyderabad,4.5,86.3,6.6,95.3,No,No,Weekly,Medium,Yes,75.4,A (Very Good),Pass
+1654,Male,23,Business,Chennai,7.9,58.0,6.0,68.5,Yes,No,Rarely,High,Yes,61.1,B+ (Good),Pass
+1655,Female,18,Civil,Mumbai,5.7,61.3,7.0,58.3,Yes,No,Weekly,High,Yes,57.8,B (Above Average),Pass
+1656,Male,19,Computer Science,Pune,4.4,100.0,7.2,70.1,Yes,No,Rarely,Low,Yes,76.2,A (Very Good),Pass
+1657,Male,18,Civil,Mumbai,4.8,71.3,5.2,58.6,No,No,Weekly,Medium,Yes,61.2,B+ (Good),Pass
+1658,Male,19,Mechanical,Mumbai,7.0,82.4,6.6,66.4,Yes,Yes,Weekly,Medium,Yes,73.2,A (Very Good),Pass
+1659,Female,17,Mechanical,Chennai,4.6,62.1,6.5,46.7,No,No,Daily,Medium,No,47.5,F (Fail),Fail
+1660,Female,24,Civil,Mumbai,3.6,81.1,6.7,64.9,No,Yes,Monthly,High,No,48.3,F (Fail),Fail
+1661,Female,19,Business,Pune,4.4,71.4,8.1,57.8,Yes,Yes,Weekly,Medium,Yes,60.2,B+ (Good),Pass
+1662,Male,19,Business,Bangalore,6.9,61.2,7.2,48.2,Yes,No,Weekly,High,Yes,57.6,B (Above Average),Pass
+1663,Male,20,Mechanical,Hyderabad,6.0,96.0,8.8,94.6,Yes,No,Weekly,Low,Yes,84.6,A+ (Excellent),Pass
+1664,Female,19,Electronics,Bangalore,5.1,94.2,7.0,48.7,Yes,No,Rarely,Medium,Yes,64.4,B+ (Good),Pass
+1665,Male,19,Business,Mumbai,5.4,78.7,9.7,65.1,No,No,Monthly,Medium,Yes,68.0,B+ (Good),Pass
+1666,Male,22,Civil,Bangalore,3.9,92.0,6.3,53.0,No,No,Monthly,Low,Yes,67.2,B+ (Good),Pass
+1667,Female,24,Business,Pune,4.6,100.0,5.8,69.5,Yes,No,Monthly,Medium,No,78.3,A (Very Good),Pass
+1668,Female,17,Civil,Pune,3.7,89.0,7.8,45.9,Yes,No,Weekly,High,Yes,46.4,F (Fail),Fail
+1669,Male,23,Mechanical,Mumbai,4.4,85.8,9.0,77.6,Yes,No,Weekly,High,Yes,67.1,B+ (Good),Pass
+1670,Male,20,Business,Chennai,7.7,82.4,4.9,95.5,Yes,No,Rarely,Medium,Yes,81.7,A+ (Excellent),Pass
+1671,Male,22,Civil,Bangalore,2.8,87.8,6.7,52.4,Yes,No,Daily,Medium,No,60.2,B+ (Good),Pass
+1672,Female,21,Mechanical,Chennai,3.6,75.6,6.1,83.3,Yes,No,Weekly,Low,No,66.5,B+ (Good),Pass
+1673,Female,24,Electronics,Chennai,2.5,76.7,7.2,59.3,Yes,Yes,Weekly,Low,No,53.9,B (Above Average),Pass
+1674,Female,17,Civil,Delhi,2.1,85.4,7.0,87.6,Yes,Yes,Weekly,Medium,No,61.1,B+ (Good),Pass
+1675,Female,17,Electronics,Mumbai,4.6,74.3,9.0,97.8,Yes,Yes,Weekly,Low,Yes,67.5,B+ (Good),Pass
+1676,Male,21,Electronics,Hyderabad,3.8,75.6,6.8,61.5,No,Yes,Weekly,High,Yes,49.0,F (Fail),Fail
+1677,Female,23,Computer Science,Pune,8.5,80.0,9.1,42.2,No,No,Daily,Medium,No,62.4,B+ (Good),Pass
+1678,Female,19,Business,Pune,4.4,93.8,6.5,79.2,Yes,Yes,Weekly,High,Yes,63.2,B+ (Good),Pass
+1679,Female,22,Civil,Mumbai,7.6,66.4,8.4,68.4,Yes,Yes,Weekly,Medium,No,63.6,B+ (Good),Pass
+1680,Female,18,Electronics,Hyderabad,6.9,89.1,7.3,72.5,Yes,Yes,Daily,High,No,69.1,B+ (Good),Pass
+1681,Female,20,Computer Science,Pune,4.6,89.5,9.6,59.9,Yes,Yes,Daily,Medium,No,58.5,B (Above Average),Pass
+1682,Male,18,Mechanical,Mumbai,9.2,89.4,4.8,51.7,Yes,Yes,Monthly,Medium,Yes,77.7,A (Very Good),Pass
+1683,Male,21,Civil,Pune,5.5,70.3,5.3,82.4,Yes,No,Weekly,High,No,70.6,A (Very Good),Pass
+1684,Female,17,Electronics,Chennai,8.0,59.7,9.7,69.8,Yes,No,Monthly,Medium,Yes,73.9,A (Very Good),Pass
+1685,Male,23,Business,Bangalore,7.8,86.7,5.9,43.3,Yes,Yes,Monthly,Low,Yes,72.2,A (Very Good),Pass
+1686,Female,17,Computer Science,Bangalore,5.8,82.3,6.0,75.3,Yes,No,Monthly,Medium,Yes,73.0,A (Very Good),Pass
+1687,Female,20,Electronics,Pune,6.5,92.1,5.7,72.3,Yes,No,Weekly,High,No,72.6,A (Very Good),Pass
+1688,Male,17,Business,Delhi,6.2,71.6,8.7,60.1,Yes,Yes,Weekly,High,Yes,70.1,A (Very Good),Pass
+1689,Male,17,Electronics,Hyderabad,2.7,89.1,5.1,89.3,No,No,Weekly,Medium,Yes,71.1,A (Very Good),Pass
+1690,Female,20,Civil,Hyderabad,5.1,92.7,7.0,55.7,Yes,No,Monthly,Medium,Yes,67.8,B+ (Good),Pass
+1691,Female,22,Civil,Hyderabad,7.1,78.9,6.6,62.5,Yes,No,Weekly,High,No,70.7,A (Very Good),Pass
+1692,Female,22,Civil,Chennai,8.1,85.0,8.6,76.5,Yes,No,Monthly,Low,No,83.8,A+ (Excellent),Pass
+1693,Male,20,Computer Science,Hyderabad,3.6,84.6,6.2,66.2,No,Yes,Rarely,Medium,No,57.3,B (Above Average),Pass
+1694,Female,23,Civil,Bangalore,6.1,70.1,7.6,44.2,Yes,No,Daily,Low,Yes,60.4,B+ (Good),Pass
+1695,Female,21,Business,Chennai,5.3,86.4,5.2,67.8,Yes,No,Daily,Medium,Yes,72.2,A (Very Good),Pass
+1696,Female,24,Electronics,Mumbai,4.8,99.5,10.4,58.8,No,No,Monthly,Medium,No,64.3,B+ (Good),Pass
+1697,Male,17,Mechanical,Hyderabad,5.7,80.3,6.6,77.9,Yes,Yes,Weekly,Low,Yes,63.8,B+ (Good),Pass
+1698,Female,23,Business,Hyderabad,5.4,62.5,7.0,67.3,Yes,No,Daily,Low,No,54.9,B (Above Average),Pass
+1699,Female,17,Business,Mumbai,6.1,71.8,9.5,66.4,Yes,No,Rarely,Medium,No,71.7,A (Very Good),Pass
+1700,Male,24,Civil,Hyderabad,7.9,58.6,6.1,49.3,Yes,No,Weekly,Low,Yes,58.2,B (Above Average),Pass
+1701,Female,21,Computer Science,Mumbai,6.6,95.5,9.5,61.5,Yes,Yes,Rarely,Low,Yes,74.1,A (Very Good),Pass
+1702,Female,22,Electronics,Chennai,5.6,89.2,6.4,79.6,Yes,No,Monthly,High,No,69.6,B+ (Good),Pass
+1703,Male,23,Computer Science,Bangalore,8.7,74.0,8.0,53.4,Yes,No,Monthly,Medium,Yes,68.8,B+ (Good),Pass
+1704,Female,19,Electronics,Mumbai,7.2,63.0,6.1,64.5,Yes,No,Weekly,Medium,Yes,65.8,B+ (Good),Pass
+1705,Male,19,Electronics,Delhi,4.8,70.0,5.0,51.0,Yes,No,Weekly,High,No,56.4,B (Above Average),Pass
+1706,Male,24,Computer Science,Mumbai,2.6,72.3,7.6,47.2,Yes,No,Weekly,Low,Yes,44.2,F (Fail),Fail
+1707,Female,19,Business,Hyderabad,3.0,81.3,8.0,63.7,Yes,No,Daily,Medium,No,56.7,B (Above Average),Pass
+1708,Female,22,Electronics,Chennai,6.9,80.9,5.0,67.6,No,No,Weekly,Medium,Yes,72.0,A (Very Good),Pass
+1709,Female,24,Computer Science,Pune,3.7,96.1,6.5,94.9,Yes,No,Weekly,High,No,70.2,A (Very Good),Pass
+1710,Female,22,Electronics,Chennai,3.0,71.7,8.8,58.2,Yes,No,Daily,High,Yes,58.1,B (Above Average),Pass
+1711,Male,21,Mechanical,Pune,3.5,61.9,7.9,64.2,Yes,Yes,Weekly,High,Yes,43.4,F (Fail),Fail
+1712,Female,17,Business,Mumbai,3.6,66.1,6.4,46.2,Yes,No,Monthly,High,No,47.7,F (Fail),Fail
+1713,Male,21,Civil,Bangalore,6.7,79.7,6.1,74.2,Yes,No,Daily,Low,No,80.4,A+ (Excellent),Pass
+1714,Female,21,Electronics,Delhi,4.7,71.3,9.9,71.0,Yes,No,Daily,Low,Yes,59.4,B (Above Average),Pass
+1715,Female,22,Mechanical,Chennai,2.3,76.5,4.8,87.3,Yes,No,Monthly,Medium,Yes,63.1,B+ (Good),Pass
+1716,Female,24,Civil,Hyderabad,5.1,74.6,6.9,81.7,Yes,No,Rarely,Low,No,71.4,A (Very Good),Pass
+1717,Male,24,Civil,Pune,5.4,91.9,4.8,70.3,Yes,No,Weekly,Medium,Yes,69.8,B+ (Good),Pass
+1718,Female,19,Electronics,Hyderabad,4.0,73.0,9.0,57.9,Yes,Yes,Daily,Medium,No,54.9,B (Above Average),Pass
+1719,Female,18,Computer Science,Bangalore,7.3,75.5,7.0,68.1,Yes,No,Monthly,Low,No,76.3,A (Very Good),Pass
+1720,Female,17,Electronics,Pune,4.2,88.6,7.3,63.3,Yes,Yes,Rarely,High,No,58.6,B (Above Average),Pass
+1721,Female,22,Mechanical,Chennai,7.2,73.2,11.0,79.3,Yes,No,Monthly,Low,Yes,80.0,A+ (Excellent),Pass
+1722,Male,19,Civil,Mumbai,6.2,85.1,6.1,77.4,Yes,No,Monthly,Medium,Yes,77.9,A (Very Good),Pass
+1723,Female,23,Electronics,Hyderabad,6.9,84.0,9.6,60.6,Yes,No,Weekly,Medium,No,70.2,A (Very Good),Pass
+1724,Male,18,Computer Science,Bangalore,2.8,81.7,6.4,43.1,Yes,No,Weekly,Medium,Yes,55.9,B (Above Average),Pass
+1725,Male,18,Electronics,Chennai,5.2,66.4,6.6,85.0,Yes,Yes,Daily,Medium,Yes,63.9,B+ (Good),Pass
+1726,Male,22,Business,Chennai,4.9,94.8,11.0,73.7,No,Yes,Monthly,Low,Yes,71.8,A (Very Good),Pass
+1727,Male,20,Computer Science,Chennai,2.2,100.0,6.8,60.2,Yes,No,Monthly,Medium,Yes,57.9,B (Above Average),Pass
+1728,Male,17,Mechanical,Chennai,7.2,80.1,4.9,73.1,Yes,No,Rarely,High,Yes,73.6,A (Very Good),Pass
+1729,Male,18,Civil,Pune,3.4,67.4,7.4,66.1,No,Yes,Weekly,High,Yes,49.6,F (Fail),Fail
+1730,Female,22,Electronics,Chennai,3.8,80.3,6.7,84.8,Yes,No,Daily,Medium,No,70.4,A (Very Good),Pass
+1731,Male,22,Computer Science,Hyderabad,3.0,91.9,7.6,36.1,Yes,No,Weekly,Medium,Yes,43.1,F (Fail),Fail
+1732,Male,19,Business,Bangalore,6.4,72.6,6.8,59.0,Yes,No,Monthly,Medium,Yes,68.7,B+ (Good),Pass
+1733,Male,23,Computer Science,Pune,1.9,78.5,10.3,89.0,Yes,No,Monthly,High,Yes,60.9,B+ (Good),Pass
+1734,Female,20,Business,Chennai,6.2,84.1,7.8,73.4,Yes,No,Daily,Low,No,75.8,A (Very Good),Pass
+1735,Female,17,Mechanical,Delhi,7.1,94.4,5.4,91.6,Yes,No,Weekly,Medium,Yes,89.2,A+ (Excellent),Pass
+1736,Male,24,Civil,Delhi,6.1,89.3,7.2,46.7,Yes,No,Weekly,High,No,66.1,B+ (Good),Pass
+1737,Female,21,Mechanical,Bangalore,6.4,89.8,5.8,81.1,Yes,Yes,Weekly,Medium,No,68.7,B+ (Good),Pass
+1738,Male,23,Electronics,Mumbai,6.5,74.9,6.6,80.2,No,No,Rarely,Low,Yes,69.0,B+ (Good),Pass
+1739,Male,23,Computer Science,Mumbai,3.1,84.8,5.6,39.8,Yes,No,Weekly,Medium,Yes,53.6,B (Above Average),Pass
+1740,Female,19,Business,Pune,7.9,71.3,10.2,60.6,Yes,No,Monthly,Low,Yes,73.0,A (Very Good),Pass
+1741,Male,24,Business,Pune,4.1,90.1,6.0,63.4,Yes,No,Monthly,Medium,No,62.4,B+ (Good),Pass
+1742,Female,18,Computer Science,Pune,4.9,93.8,8.0,40.7,Yes,Yes,Monthly,Medium,No,61.5,B+ (Good),Pass
+1743,Female,18,Computer Science,Mumbai,4.3,86.6,6.5,60.9,No,Yes,Weekly,High,No,56.3,B (Above Average),Pass
+1744,Male,19,Electronics,Delhi,6.0,75.6,5.3,78.1,Yes,No,Monthly,Medium,Yes,76.6,A (Very Good),Pass
+1745,Male,22,Mechanical,Mumbai,3.9,77.6,7.3,59.1,Yes,No,Weekly,Low,No,64.5,B+ (Good),Pass
+1746,Female,18,Business,Hyderabad,5.1,100.0,7.6,68.6,Yes,No,Weekly,Low,Yes,75.0,A (Very Good),Pass
+1747,Male,20,Electronics,Chennai,2.5,75.8,7.8,68.7,Yes,No,Weekly,High,Yes,57.8,B (Above Average),Pass
+1748,Male,17,Mechanical,Pune,7.3,92.6,3.1,64.8,Yes,No,Weekly,Low,No,75.6,A (Very Good),Pass
+1749,Male,23,Electronics,Delhi,6.3,84.1,5.1,54.4,Yes,No,Weekly,Medium,No,71.9,A (Very Good),Pass
+1750,Female,23,Business,Bangalore,4.4,76.0,8.4,74.9,Yes,No,Weekly,Low,Yes,67.3,B+ (Good),Pass
+1751,Female,20,Computer Science,Bangalore,4.1,63.9,5.6,41.2,Yes,No,Rarely,High,Yes,46.8,F (Fail),Fail
+1752,Male,24,Computer Science,Chennai,6.3,82.5,7.3,65.1,Yes,No,Daily,Medium,Yes,66.7,B+ (Good),Pass
+1753,Female,18,Mechanical,Delhi,3.6,81.1,5.1,85.8,Yes,No,Monthly,Medium,Yes,67.0,B+ (Good),Pass
+1754,Female,23,Civil,Mumbai,5.3,100.0,8.1,58.3,No,Yes,Rarely,Medium,Yes,61.5,B+ (Good),Pass
+1755,Female,21,Mechanical,Mumbai,7.3,69.7,8.4,54.1,No,No,Daily,High,No,66.4,B+ (Good),Pass
+1756,Female,24,Civil,Hyderabad,3.4,100.0,8.1,75.9,No,Yes,Monthly,Medium,No,70.3,A (Very Good),Pass
+1757,Female,17,Electronics,Hyderabad,5.7,84.5,8.5,67.5,No,No,Weekly,Medium,No,72.6,A (Very Good),Pass
+1758,Male,17,Electronics,Mumbai,5.6,84.5,9.3,76.2,Yes,Yes,Daily,High,No,78.6,A (Very Good),Pass
+1759,Male,23,Business,Bangalore,4.8,72.9,5.2,65.6,Yes,No,Weekly,High,Yes,59.8,B (Above Average),Pass
+1760,Male,19,Civil,Pune,4.0,83.8,5.8,29.2,Yes,No,Rarely,Medium,No,53.7,B (Above Average),Pass
+1761,Female,24,Business,Bangalore,7.4,85.7,8.3,82.7,No,No,Daily,High,No,73.8,A (Very Good),Pass
+1762,Female,23,Computer Science,Hyderabad,3.8,91.2,8.7,96.1,Yes,Yes,Monthly,Low,Yes,72.5,A (Very Good),Pass
+1763,Male,19,Civil,Chennai,1.4,68.3,6.0,84.3,No,Yes,Weekly,Medium,No,46.0,F (Fail),Fail
+1764,Female,23,Mechanical,Mumbai,6.3,96.9,5.9,11.9,Yes,No,Rarely,High,Yes,57.6,B (Above Average),Pass
+1765,Male,21,Computer Science,Hyderabad,2.6,84.3,6.0,71.8,No,Yes,Daily,Low,No,55.1,B (Above Average),Pass
+1766,Male,24,Computer Science,Hyderabad,6.4,87.3,4.6,58.0,Yes,No,Monthly,Low,No,62.7,B+ (Good),Pass
+1767,Male,22,Mechanical,Pune,7.7,77.3,5.1,48.7,Yes,No,Monthly,Medium,Yes,66.4,B+ (Good),Pass
+1768,Female,17,Computer Science,Mumbai,6.3,68.9,5.1,66.8,Yes,No,Monthly,Medium,No,75.3,A (Very Good),Pass
+1769,Female,23,Civil,Pune,7.1,80.9,6.6,62.8,Yes,No,Rarely,Medium,Yes,74.7,A (Very Good),Pass
+1770,Male,21,Business,Mumbai,9.0,82.2,7.4,72.6,No,No,Monthly,Medium,No,84.6,A+ (Excellent),Pass
+1771,Male,19,Computer Science,Pune,6.9,63.4,7.7,65.8,Yes,Yes,Daily,High,Yes,63.7,B+ (Good),Pass
+1772,Male,19,Civil,Bangalore,5.7,89.5,6.2,48.2,Yes,Yes,Weekly,Medium,Yes,61.9,B+ (Good),Pass
+1773,Male,17,Electronics,Chennai,8.3,92.0,6.3,56.4,Yes,Yes,Weekly,Low,Yes,75.5,A (Very Good),Pass
+1774,Female,20,Civil,Chennai,8.5,71.2,7.2,53.9,Yes,Yes,Weekly,High,No,68.0,B+ (Good),Pass
+1775,Female,23,Business,Mumbai,8.5,67.7,4.8,39.3,Yes,Yes,Weekly,Low,Yes,58.4,B (Above Average),Pass
+1776,Male,24,Civil,Delhi,4.0,76.4,8.4,44.4,Yes,No,Weekly,Low,No,57.5,B (Above Average),Pass
+1777,Male,18,Mechanical,Hyderabad,2.3,80.3,8.9,61.8,Yes,No,Weekly,Low,Yes,60.3,B+ (Good),Pass
+1778,Female,19,Business,Hyderabad,3.9,76.8,6.1,86.4,Yes,No,Rarely,Medium,No,68.1,B+ (Good),Pass
+1779,Female,24,Electronics,Mumbai,6.4,79.3,6.4,57.0,Yes,No,Daily,Low,No,66.0,B+ (Good),Pass
+1780,Male,24,Mechanical,Pune,5.3,82.7,8.9,53.6,Yes,No,Rarely,Low,Yes,61.2,B+ (Good),Pass
+1781,Male,22,Civil,Delhi,4.6,63.6,6.8,47.3,Yes,No,Weekly,Medium,Yes,60.8,B+ (Good),Pass
+1782,Male,24,Business,Bangalore,6.1,65.0,7.9,65.5,Yes,Yes,Monthly,Low,No,61.0,B+ (Good),Pass
+1783,Female,24,Electronics,Pune,2.1,47.3,6.9,82.7,Yes,No,Monthly,Medium,No,55.1,B (Above Average),Pass
+1784,Female,22,Mechanical,Pune,5.3,91.3,9.3,95.0,Yes,Yes,Weekly,High,No,75.4,A (Very Good),Pass
+1785,Female,19,Electronics,Mumbai,7.2,80.2,7.7,69.3,Yes,Yes,Weekly,High,Yes,69.5,B+ (Good),Pass
+1786,Male,24,Civil,Mumbai,6.1,92.6,7.8,67.1,Yes,No,Weekly,Low,Yes,71.6,A (Very Good),Pass
+1787,Male,20,Electronics,Hyderabad,6.4,66.3,7.8,56.8,No,No,Weekly,Low,No,58.3,B (Above Average),Pass
+1788,Female,20,Computer Science,Mumbai,8.2,80.3,6.2,59.4,No,No,Rarely,High,Yes,74.5,A (Very Good),Pass
+1789,Female,21,Mechanical,Mumbai,4.9,82.6,6.3,74.4,Yes,Yes,Monthly,Low,Yes,63.0,B+ (Good),Pass
+1790,Male,22,Electronics,Mumbai,3.7,73.3,8.2,60.3,Yes,No,Daily,High,Yes,57.9,B (Above Average),Pass
+1791,Female,21,Civil,Hyderabad,7.4,61.4,7.2,62.6,No,No,Daily,Low,No,66.6,B+ (Good),Pass
+1792,Female,22,Civil,Bangalore,7.3,100.0,5.2,64.6,Yes,No,Weekly,High,No,81.2,A+ (Excellent),Pass
+1793,Male,23,Electronics,Bangalore,6.1,96.8,9.8,56.1,Yes,No,Daily,Medium,Yes,69.6,B+ (Good),Pass
+1794,Female,23,Civil,Mumbai,4.7,75.4,8.5,63.9,Yes,No,Monthly,Medium,Yes,67.8,B+ (Good),Pass
+1795,Male,24,Business,Hyderabad,5.0,86.1,7.1,34.7,Yes,Yes,Daily,Medium,Yes,53.9,B (Above Average),Pass
+1796,Male,18,Business,Bangalore,2.4,74.2,6.6,73.2,No,No,Weekly,Medium,Yes,66.6,B+ (Good),Pass
+1797,Male,23,Business,Pune,7.2,68.1,7.3,100.0,Yes,No,Daily,Medium,Yes,76.2,A (Very Good),Pass
+1798,Male,18,Computer Science,Bangalore,7.2,100.0,7.8,56.7,Yes,No,Weekly,Medium,No,86.8,A+ (Excellent),Pass
+1799,Male,23,Electronics,Bangalore,2.4,60.1,4.0,70.6,Yes,No,Monthly,Medium,Yes,52.6,B (Above Average),Pass
+1800,Male,17,Computer Science,Hyderabad,6.7,76.6,10.2,77.8,Yes,No,Weekly,Low,Yes,76.6,A (Very Good),Pass
+1801,Male,23,Civil,Pune,5.8,81.0,5.8,84.2,No,No,Rarely,Low,No,71.7,A (Very Good),Pass
+1802,Female,21,Computer Science,Hyderabad,3.0,99.8,7.0,61.0,Yes,No,Rarely,Medium,Yes,57.5,B (Above Average),Pass
+1803,Male,19,Civil,Mumbai,2.6,90.8,7.1,38.0,Yes,No,Weekly,Low,No,49.5,F (Fail),Fail
+1804,Male,24,Civil,Chennai,5.7,59.9,10.0,69.0,Yes,No,Daily,Medium,Yes,62.6,B+ (Good),Pass
+1805,Female,21,Mechanical,Bangalore,4.2,80.0,6.9,66.9,No,Yes,Monthly,Low,Yes,59.8,B (Above Average),Pass
+1806,Female,19,Business,Chennai,8.6,80.3,9.4,59.8,No,Yes,Rarely,Medium,No,76.6,A (Very Good),Pass
+1807,Female,20,Civil,Hyderabad,6.9,77.3,7.6,63.0,Yes,No,Monthly,Low,No,72.2,A (Very Good),Pass
+1808,Male,21,Mechanical,Hyderabad,5.9,87.4,5.6,67.2,Yes,No,Daily,Medium,Yes,73.2,A (Very Good),Pass
+1809,Female,20,Business,Hyderabad,6.0,63.1,7.2,70.4,Yes,No,Rarely,Low,No,68.1,B+ (Good),Pass
+1810,Male,18,Civil,Chennai,7.7,75.1,6.8,69.8,Yes,No,Weekly,Low,No,68.9,B+ (Good),Pass
+1811,Male,18,Civil,Hyderabad,6.7,85.7,5.4,61.7,Yes,Yes,Monthly,Low,Yes,63.1,B+ (Good),Pass
+1812,Male,17,Computer Science,Mumbai,6.0,88.2,7.5,70.8,Yes,Yes,Rarely,High,Yes,63.3,B+ (Good),Pass
+1813,Male,23,Computer Science,Hyderabad,3.0,81.8,7.0,60.7,Yes,No,Weekly,Low,No,56.8,B (Above Average),Pass
+1814,Female,21,Business,Delhi,11.1,76.5,7.8,74.6,Yes,Yes,Rarely,Medium,Yes,79.4,A (Very Good),Pass
+1815,Female,20,Civil,Chennai,2.8,78.6,7.3,55.6,Yes,No,Weekly,Low,No,52.1,B (Above Average),Pass
+1816,Male,19,Electronics,Delhi,4.4,88.9,6.0,66.1,Yes,Yes,Rarely,Low,No,58.7,B (Above Average),Pass
+1817,Male,18,Computer Science,Hyderabad,1.7,80.4,8.2,40.6,Yes,No,Weekly,Medium,No,48.2,F (Fail),Fail
+1818,Male,23,Business,Mumbai,6.1,67.5,6.1,59.5,Yes,No,Rarely,Medium,Yes,66.2,B+ (Good),Pass
+1819,Female,18,Civil,Bangalore,5.3,65.2,3.0,73.5,Yes,No,Daily,High,Yes,62.6,B+ (Good),Pass
+1820,Male,19,Civil,Pune,6.5,62.1,7.2,49.5,Yes,No,Monthly,High,No,51.1,B (Above Average),Pass
+1821,Male,23,Electronics,Pune,1.5,97.5,6.2,60.2,Yes,Yes,Weekly,High,Yes,51.6,B (Above Average),Pass
+1822,Female,23,Business,Hyderabad,7.2,89.7,7.6,28.9,No,No,Weekly,Medium,Yes,63.5,B+ (Good),Pass
+1823,Female,20,Civil,Mumbai,3.4,78.7,10.0,44.5,Yes,No,Weekly,Medium,Yes,56.3,B (Above Average),Pass
+1824,Male,20,Computer Science,Chennai,4.7,74.6,10.0,48.4,No,No,Monthly,Medium,Yes,62.8,B+ (Good),Pass
+1825,Female,21,Electronics,Delhi,6.9,73.1,6.8,66.5,Yes,No,Daily,High,No,73.8,A (Very Good),Pass
+1826,Female,21,Business,Delhi,5.5,93.1,5.8,70.0,Yes,Yes,Monthly,Medium,Yes,71.3,A (Very Good),Pass
+1827,Male,22,Electronics,Delhi,5.7,100.0,7.9,64.2,Yes,No,Weekly,Medium,No,73.3,A (Very Good),Pass
+1828,Female,24,Computer Science,Chennai,6.6,72.7,6.4,59.3,Yes,No,Rarely,Low,Yes,64.7,B+ (Good),Pass
+1829,Male,22,Business,Pune,5.9,93.7,7.6,59.3,Yes,No,Daily,Low,No,76.9,A (Very Good),Pass
+1830,Female,17,Electronics,Mumbai,4.3,80.3,6.0,75.7,Yes,Yes,Daily,High,Yes,63.3,B+ (Good),Pass
+1831,Male,18,Mechanical,Chennai,4.7,77.5,7.4,68.2,No,No,Weekly,Medium,No,66.1,B+ (Good),Pass
+1832,Male,21,Computer Science,Delhi,5.4,98.1,5.8,60.0,Yes,No,Weekly,Medium,No,69.0,B+ (Good),Pass
+1833,Male,20,Computer Science,Hyderabad,3.2,79.9,8.8,84.4,No,Yes,Weekly,Low,Yes,56.7,B (Above Average),Pass
+1834,Female,19,Computer Science,Bangalore,7.0,83.6,6.1,94.2,No,No,Weekly,High,No,78.9,A (Very Good),Pass
+1835,Male,20,Mechanical,Chennai,5.6,83.0,8.0,46.3,Yes,No,Rarely,Low,Yes,61.5,B+ (Good),Pass
+1836,Female,18,Mechanical,Chennai,5.1,60.5,5.1,72.8,Yes,No,Monthly,High,No,62.2,B+ (Good),Pass
+1837,Male,22,Civil,Mumbai,7.4,83.5,8.2,100.0,Yes,No,Monthly,Low,No,85.0,A+ (Excellent),Pass
+1838,Male,20,Electronics,Mumbai,4.8,73.2,5.6,69.2,No,No,Daily,High,No,61.1,B+ (Good),Pass
+1839,Female,24,Civil,Chennai,4.6,62.9,7.4,66.7,Yes,No,Monthly,Medium,No,65.0,B+ (Good),Pass
+1840,Male,17,Electronics,Delhi,4.0,73.8,8.5,64.2,No,No,Daily,Low,Yes,51.9,B (Above Average),Pass
+1841,Male,18,Mechanical,Bangalore,5.7,73.7,6.7,72.4,Yes,Yes,Monthly,Medium,Yes,57.9,B (Above Average),Pass
+1842,Female,22,Mechanical,Mumbai,5.6,92.4,5.5,76.3,No,No,Weekly,Medium,Yes,79.0,A (Very Good),Pass
+1843,Male,24,Civil,Delhi,3.7,67.2,7.7,46.3,Yes,No,Weekly,Low,Yes,45.5,F (Fail),Fail
+1844,Male,19,Business,Hyderabad,4.6,70.5,5.7,64.6,Yes,No,Weekly,High,No,58.3,B (Above Average),Pass
+1845,Male,22,Civil,Mumbai,3.7,82.8,6.4,31.0,No,No,Rarely,Medium,Yes,51.1,B (Above Average),Pass
+1846,Male,23,Electronics,Delhi,3.6,64.1,7.4,61.9,No,No,Daily,Medium,No,53.3,B (Above Average),Pass
+1847,Female,24,Civil,Delhi,1.5,72.1,9.0,51.5,Yes,No,Monthly,Low,Yes,46.6,F (Fail),Fail
+1848,Female,24,Computer Science,Bangalore,4.5,60.0,7.0,70.1,Yes,No,Daily,Medium,Yes,60.6,B+ (Good),Pass
+1849,Male,17,Electronics,Bangalore,1.6,91.0,7.0,40.2,Yes,No,Monthly,High,No,57.0,B (Above Average),Pass
+1850,Female,18,Electronics,Hyderabad,4.1,76.4,8.1,57.3,No,Yes,Rarely,Medium,Yes,61.4,B+ (Good),Pass
+1851,Male,19,Business,Delhi,3.8,79.8,7.1,79.5,Yes,No,Weekly,High,No,62.3,B+ (Good),Pass
+1852,Female,17,Mechanical,Pune,7.1,91.0,8.0,54.9,No,No,Weekly,High,Yes,73.6,A (Very Good),Pass
+1853,Male,22,Electronics,Delhi,3.0,71.3,8.6,36.4,Yes,No,Rarely,Low,No,48.7,F (Fail),Fail
+1854,Male,17,Mechanical,Bangalore,3.5,76.3,6.5,68.9,Yes,No,Weekly,Low,Yes,61.2,B+ (Good),Pass
+1855,Male,24,Civil,Pune,4.2,67.3,3.0,56.2,Yes,No,Weekly,High,Yes,50.9,B (Above Average),Pass
+1856,Male,18,Computer Science,Mumbai,3.8,67.3,5.8,62.2,No,Yes,Monthly,Medium,No,54.1,B (Above Average),Pass
+1857,Male,21,Business,Mumbai,7.7,69.0,8.8,54.1,Yes,No,Monthly,Low,No,67.4,B+ (Good),Pass
+1858,Male,17,Mechanical,Chennai,2.7,74.1,6.9,94.6,No,No,Daily,Low,Yes,63.3,B+ (Good),Pass
+1859,Female,23,Electronics,Bangalore,4.2,75.4,6.5,41.6,Yes,Yes,Monthly,Medium,Yes,47.8,F (Fail),Fail
+1860,Male,17,Mechanical,Chennai,5.7,83.5,8.8,100.0,Yes,Yes,Weekly,High,Yes,81.0,A+ (Excellent),Pass
+1861,Female,22,Electronics,Pune,6.8,69.3,6.8,59.1,Yes,No,Daily,Low,Yes,64.2,B+ (Good),Pass
+1862,Male,22,Mechanical,Bangalore,4.2,83.8,3.9,67.8,Yes,No,Monthly,Low,No,62.5,B+ (Good),Pass
+1863,Female,19,Electronics,Hyderabad,1.2,85.8,4.7,56.4,Yes,Yes,Weekly,High,No,49.8,F (Fail),Fail
+1864,Female,22,Civil,Delhi,4.7,74.4,7.6,55.8,Yes,No,Daily,High,Yes,57.7,B (Above Average),Pass
+1865,Female,20,Electronics,Hyderabad,7.7,70.3,6.9,53.2,Yes,No,Monthly,Medium,Yes,68.2,B+ (Good),Pass
+1866,Male,18,Electronics,Pune,5.6,81.0,9.2,74.0,No,No,Rarely,High,No,71.9,A (Very Good),Pass
+1867,Male,18,Computer Science,Bangalore,5.5,77.6,5.9,43.8,Yes,No,Rarely,Medium,Yes,65.1,B+ (Good),Pass
+1868,Female,21,Electronics,Pune,2.9,82.6,6.5,70.5,Yes,No,Rarely,High,No,51.1,B (Above Average),Pass
+1869,Male,21,Computer Science,Delhi,2.7,98.8,5.7,32.2,Yes,Yes,Rarely,Medium,Yes,48.8,F (Fail),Fail
+1870,Female,18,Business,Mumbai,5.0,80.8,6.2,69.1,Yes,Yes,Daily,Low,No,59.3,B (Above Average),Pass
+1871,Male,23,Computer Science,Mumbai,2.1,72.3,4.2,77.7,Yes,No,Weekly,Medium,Yes,56.7,B (Above Average),Pass
+1872,Female,21,Civil,Pune,6.6,69.3,6.4,45.9,Yes,No,Monthly,Medium,No,61.9,B+ (Good),Pass
+1873,Female,19,Computer Science,Chennai,3.3,69.8,6.9,75.2,No,No,Weekly,High,Yes,55.4,B (Above Average),Pass
+1874,Male,22,Business,Bangalore,5.0,62.4,6.8,65.8,Yes,No,Monthly,Medium,Yes,57.1,B (Above Average),Pass
+1875,Female,18,Civil,Bangalore,1.2,91.2,10.2,89.0,Yes,No,Monthly,High,No,58.4,B (Above Average),Pass
+1876,Male,24,Mechanical,Mumbai,4.2,53.2,9.8,52.2,Yes,No,Weekly,High,Yes,51.8,B (Above Average),Pass
+1877,Female,21,Mechanical,Hyderabad,2.6,85.9,5.9,100.0,Yes,Yes,Rarely,Low,Yes,75.0,A (Very Good),Pass
+1878,Female,18,Computer Science,Delhi,0.4,69.6,3.9,29.1,Yes,Yes,Weekly,High,Yes,21.2,F (Fail),Fail
+1879,Male,20,Computer Science,Hyderabad,6.1,73.9,6.9,60.1,Yes,No,Weekly,Medium,Yes,65.2,B+ (Good),Pass
+1880,Male,17,Business,Hyderabad,8.3,69.2,7.6,39.5,Yes,Yes,Rarely,High,No,63.6,B+ (Good),Pass
+1881,Male,22,Business,Pune,7.3,97.4,5.7,92.8,Yes,Yes,Weekly,Medium,No,86.1,A+ (Excellent),Pass
+1882,Female,18,Electronics,Mumbai,6.4,80.2,5.8,61.1,Yes,No,Daily,Medium,Yes,65.4,B+ (Good),Pass
+1883,Male,17,Business,Mumbai,4.2,89.5,9.4,62.4,Yes,No,Weekly,Medium,No,63.5,B+ (Good),Pass
+1884,Female,21,Electronics,Mumbai,6.6,95.6,6.6,71.6,Yes,No,Monthly,Low,Yes,80.0,A+ (Excellent),Pass
+1885,Female,17,Civil,Pune,7.4,82.0,8.0,64.9,Yes,Yes,Monthly,Low,No,71.0,A (Very Good),Pass
+1886,Male,22,Computer Science,Chennai,5.3,65.7,5.6,56.1,Yes,Yes,Monthly,Medium,Yes,56.7,B (Above Average),Pass
+1887,Male,18,Civil,Hyderabad,2.6,77.4,6.9,46.2,Yes,No,Monthly,High,No,48.4,F (Fail),Fail
+1888,Female,20,Business,Pune,4.0,71.1,6.5,67.5,Yes,No,Weekly,Medium,Yes,58.9,B (Above Average),Pass
+1889,Female,23,Civil,Bangalore,8.4,74.0,6.0,70.7,No,No,Rarely,Medium,Yes,79.6,A (Very Good),Pass
+1890,Male,21,Civil,Delhi,4.9,78.9,8.7,75.4,Yes,No,Rarely,Low,Yes,67.3,B+ (Good),Pass
+1891,Male,18,Civil,Chennai,0.0,78.4,4.9,93.7,Yes,No,Daily,Medium,Yes,54.3,B (Above Average),Pass
+1892,Male,22,Business,Bangalore,2.1,84.9,7.5,32.4,No,No,Daily,Low,No,53.1,B (Above Average),Pass
+1893,Male,21,Civil,Hyderabad,4.2,86.7,6.5,64.0,Yes,Yes,Rarely,High,Yes,59.8,B (Above Average),Pass
+1894,Male,19,Electronics,Mumbai,7.1,78.4,7.6,82.9,Yes,No,Rarely,High,No,67.0,B+ (Good),Pass
+1895,Female,17,Business,Hyderabad,4.5,84.8,6.5,63.1,Yes,No,Rarely,Medium,Yes,70.3,A (Very Good),Pass
+1896,Female,23,Civil,Pune,7.1,73.4,8.3,29.9,Yes,No,Rarely,Low,No,64.3,B+ (Good),Pass
+1897,Female,22,Business,Delhi,3.9,95.8,5.6,45.6,Yes,No,Weekly,Low,No,62.2,B+ (Good),Pass
+1898,Female,19,Mechanical,Pune,1.1,73.2,8.7,69.9,No,Yes,Monthly,Medium,No,49.8,F (Fail),Fail
+1899,Male,24,Electronics,Chennai,4.0,94.4,7.0,69.4,Yes,No,Weekly,Medium,No,77.2,A (Very Good),Pass
+1900,Male,18,Civil,Chennai,5.7,62.3,5.0,75.1,No,No,Daily,High,No,59.1,B (Above Average),Pass
+1901,Male,20,Mechanical,Delhi,5.5,75.4,8.0,53.3,Yes,Yes,Monthly,Low,Yes,60.1,B+ (Good),Pass
+1902,Female,21,Mechanical,Bangalore,2.5,76.0,6.7,68.9,Yes,Yes,Weekly,High,No,60.5,B+ (Good),Pass
+1903,Female,17,Business,Bangalore,4.3,83.3,4.4,50.8,Yes,No,Monthly,Medium,Yes,68.5,B+ (Good),Pass
+1904,Male,21,Mechanical,Chennai,10.4,90.3,7.5,68.9,No,No,Weekly,Medium,Yes,86.1,A+ (Excellent),Pass
+1905,Male,23,Electronics,Chennai,2.5,65.0,8.5,65.8,No,Yes,Weekly,Medium,Yes,56.3,B (Above Average),Pass
+1906,Female,18,Electronics,Mumbai,6.3,66.7,8.9,52.7,Yes,No,Daily,Low,No,65.7,B+ (Good),Pass
+1907,Female,21,Computer Science,Bangalore,0.8,63.2,6.4,88.4,No,Yes,Weekly,Medium,Yes,55.7,B (Above Average),Pass
+1908,Male,17,Electronics,Delhi,6.7,95.8,7.2,39.4,Yes,No,Daily,High,Yes,69.1,B+ (Good),Pass
+1909,Male,18,Mechanical,Bangalore,3.2,83.6,7.1,62.9,Yes,No,Daily,Medium,Yes,61.5,B+ (Good),Pass
+1910,Female,21,Electronics,Mumbai,5.8,67.0,9.2,52.4,Yes,Yes,Rarely,High,No,64.6,B+ (Good),Pass
+1911,Male,20,Business,Pune,2.4,74.7,5.8,92.5,Yes,No,Daily,Medium,Yes,63.1,B+ (Good),Pass
+1912,Male,22,Computer Science,Chennai,5.6,94.2,6.3,74.0,Yes,Yes,Weekly,Low,Yes,80.4,A+ (Excellent),Pass
+1913,Male,18,Mechanical,Chennai,3.2,76.7,5.7,55.3,Yes,No,Monthly,Medium,Yes,63.8,B+ (Good),Pass
+1914,Female,22,Computer Science,Mumbai,3.6,76.0,4.8,60.8,Yes,Yes,Monthly,Medium,No,61.1,B+ (Good),Pass
+1915,Female,24,Mechanical,Delhi,5.9,70.6,7.4,92.9,Yes,No,Daily,Medium,No,76.1,A (Very Good),Pass
+1916,Female,18,Business,Chennai,4.1,67.7,9.4,50.8,Yes,Yes,Monthly,Low,No,52.4,B (Above Average),Pass
+1917,Female,20,Computer Science,Hyderabad,5.8,94.2,6.7,38.5,No,No,Monthly,Medium,No,56.9,B (Above Average),Pass
+1918,Female,22,Civil,Chennai,4.6,100.0,5.7,69.4,Yes,No,Weekly,Low,Yes,70.6,A (Very Good),Pass
+1919,Female,19,Mechanical,Hyderabad,5.1,68.2,7.3,69.7,Yes,Yes,Weekly,Low,No,64.2,B+ (Good),Pass
+1920,Female,17,Civil,Mumbai,5.9,96.9,7.9,75.0,Yes,No,Rarely,Medium,Yes,72.3,A (Very Good),Pass
+1921,Male,19,Computer Science,Mumbai,4.3,74.2,6.8,75.1,Yes,Yes,Monthly,Medium,Yes,61.4,B+ (Good),Pass
+1922,Male,21,Civil,Chennai,3.0,86.4,9.1,91.6,Yes,No,Monthly,High,Yes,76.3,A (Very Good),Pass
+1923,Male,20,Civil,Bangalore,3.9,96.9,5.8,39.2,Yes,Yes,Daily,Medium,No,54.8,B (Above Average),Pass
+1924,Male,19,Computer Science,Hyderabad,7.4,78.3,6.6,47.0,Yes,No,Weekly,High,No,70.0,A (Very Good),Pass
+1925,Male,18,Business,Delhi,5.2,76.1,7.4,74.9,Yes,No,Monthly,Medium,Yes,71.5,A (Very Good),Pass
+1926,Male,21,Civil,Chennai,3.3,89.6,7.6,48.4,Yes,No,Daily,Medium,No,56.1,B (Above Average),Pass
+1927,Male,21,Civil,Delhi,5.8,66.7,7.1,43.2,Yes,No,Weekly,Low,Yes,56.8,B (Above Average),Pass
+1928,Female,19,Business,Chennai,5.9,93.8,5.1,93.0,Yes,No,Monthly,High,Yes,82.0,A+ (Excellent),Pass
+1929,Female,24,Civil,Bangalore,6.0,81.7,10.5,40.7,Yes,No,Weekly,Medium,Yes,53.6,B (Above Average),Pass
+1930,Male,19,Civil,Bangalore,3.0,73.1,6.6,59.7,Yes,No,Monthly,High,No,57.1,B (Above Average),Pass
+1931,Male,24,Civil,Bangalore,3.6,72.7,7.2,64.1,Yes,No,Monthly,Medium,No,58.4,B (Above Average),Pass
+1932,Female,20,Electronics,Pune,3.6,63.4,7.9,84.6,Yes,Yes,Weekly,Low,Yes,64.2,B+ (Good),Pass
+1933,Male,17,Business,Bangalore,4.3,73.6,6.0,37.0,No,No,Monthly,Medium,No,51.6,B (Above Average),Pass
+1934,Male,19,Civil,Mumbai,6.1,76.8,7.1,71.2,Yes,No,Daily,Low,Yes,70.7,A (Very Good),Pass
+1935,Female,23,Business,Mumbai,5.6,67.3,6.0,51.6,Yes,No,Monthly,Medium,No,60.6,B+ (Good),Pass
+1936,Male,24,Mechanical,Pune,5.8,79.5,7.6,74.4,Yes,No,Daily,Low,No,73.0,A (Very Good),Pass
+1937,Female,19,Mechanical,Hyderabad,7.7,85.7,6.6,51.4,Yes,Yes,Daily,Medium,Yes,75.6,A (Very Good),Pass
+1938,Male,22,Civil,Delhi,6.4,77.4,7.4,88.6,Yes,No,Monthly,High,No,76.9,A (Very Good),Pass
+1939,Female,18,Business,Chennai,4.7,88.0,5.4,51.5,No,Yes,Weekly,Medium,No,59.0,B (Above Average),Pass
+1940,Female,23,Business,Chennai,2.6,70.3,5.8,28.1,No,Yes,Rarely,High,Yes,30.0,F (Fail),Fail
+1941,Female,23,Business,Pune,3.6,92.0,5.0,53.2,Yes,Yes,Weekly,Medium,No,57.6,B (Above Average),Pass
+1942,Male,24,Electronics,Mumbai,4.5,81.5,5.9,61.1,Yes,No,Weekly,Medium,Yes,69.4,B+ (Good),Pass
+1943,Female,22,Mechanical,Chennai,6.7,98.5,3.1,81.2,Yes,Yes,Weekly,High,Yes,80.1,A+ (Excellent),Pass
+1944,Male,22,Business,Mumbai,4.9,100.0,6.5,46.1,Yes,Yes,Weekly,High,Yes,56.0,B (Above Average),Pass
+1945,Male,21,Business,Hyderabad,3.7,74.4,6.2,46.4,Yes,No,Weekly,High,Yes,47.6,F (Fail),Fail
+1946,Male,24,Electronics,Delhi,3.5,74.9,7.2,79.4,Yes,Yes,Monthly,Low,No,58.5,B (Above Average),Pass
+1947,Male,17,Electronics,Hyderabad,4.9,77.0,7.1,44.4,Yes,Yes,Monthly,Medium,No,58.8,B (Above Average),Pass
+1948,Female,18,Business,Pune,6.8,87.1,8.9,62.3,Yes,Yes,Rarely,Low,No,74.2,A (Very Good),Pass
+1949,Female,20,Computer Science,Bangalore,8.2,95.9,10.9,62.6,Yes,No,Rarely,Medium,Yes,67.6,B+ (Good),Pass
+1950,Male,23,Business,Bangalore,4.6,72.2,8.7,68.3,Yes,No,Weekly,Medium,Yes,63.3,B+ (Good),Pass
+1951,Male,20,Business,Bangalore,4.9,84.6,6.3,53.8,Yes,Yes,Monthly,High,Yes,59.0,B (Above Average),Pass
+1952,Female,19,Electronics,Hyderabad,2.6,78.4,6.3,51.1,Yes,No,Weekly,High,Yes,46.7,F (Fail),Fail
+1953,Male,19,Electronics,Chennai,8.9,87.4,8.3,70.0,No,No,Monthly,Medium,No,80.3,A+ (Excellent),Pass
+1954,Female,20,Business,Delhi,2.2,98.1,4.5,51.6,Yes,No,Weekly,Low,No,62.5,B+ (Good),Pass
+1955,Male,19,Business,Bangalore,7.3,77.1,6.5,44.6,No,No,Rarely,High,Yes,63.9,B+ (Good),Pass
+1956,Male,17,Business,Pune,4.3,60.0,6.6,83.4,Yes,No,Monthly,Low,No,62.2,B+ (Good),Pass
+1957,Female,22,Electronics,Pune,3.8,88.9,7.9,72.3,Yes,No,Rarely,Medium,No,66.5,B+ (Good),Pass
+1958,Male,19,Business,Bangalore,2.8,70.0,7.9,91.5,Yes,Yes,Monthly,Low,Yes,60.9,B+ (Good),Pass
+1959,Female,21,Business,Bangalore,9.8,78.3,5.9,76.8,Yes,Yes,Rarely,Medium,No,84.8,A+ (Excellent),Pass
+1960,Male,19,Civil,Delhi,5.4,89.4,6.4,46.0,No,No,Monthly,High,Yes,54.1,B (Above Average),Pass
+1961,Male,18,Computer Science,Bangalore,5.0,83.6,7.7,66.4,Yes,Yes,Weekly,Low,Yes,62.1,B+ (Good),Pass
+1962,Male,17,Mechanical,Delhi,6.8,78.8,5.8,49.8,Yes,No,Weekly,Medium,Yes,71.0,A (Very Good),Pass
+1963,Female,18,Computer Science,Pune,3.7,73.1,8.8,40.2,Yes,No,Weekly,Medium,Yes,50.7,B (Above Average),Pass
+1964,Male,18,Civil,Bangalore,5.0,45.2,7.9,58.3,No,No,Daily,High,Yes,46.1,F (Fail),Fail
+1965,Male,21,Mechanical,Hyderabad,5.1,88.4,7.3,79.7,Yes,No,Weekly,High,Yes,69.0,B+ (Good),Pass
+1966,Male,17,Business,Hyderabad,4.0,77.0,7.6,69.1,No,No,Weekly,Low,Yes,64.2,B+ (Good),Pass
+1967,Male,17,Civil,Pune,7.4,98.2,6.3,44.1,No,Yes,Weekly,Low,No,65.7,B+ (Good),Pass
+1968,Female,24,Business,Delhi,4.6,84.8,6.1,57.8,Yes,No,Rarely,Medium,No,65.8,B+ (Good),Pass
+1969,Female,17,Electronics,Hyderabad,1.9,73.5,6.4,62.9,No,No,Rarely,Medium,No,48.2,F (Fail),Fail
+1970,Male,17,Civil,Delhi,4.4,92.8,7.7,39.7,No,No,Daily,Medium,Yes,52.6,B (Above Average),Pass
+1971,Female,17,Electronics,Hyderabad,5.5,93.8,7.3,75.7,Yes,No,Weekly,Low,Yes,76.9,A (Very Good),Pass
+1972,Male,21,Civil,Hyderabad,3.2,77.4,6.4,61.6,Yes,No,Weekly,Low,Yes,57.6,B (Above Average),Pass
+1973,Male,19,Civil,Delhi,3.4,94.3,8.1,44.1,Yes,No,Weekly,Medium,Yes,60.4,B+ (Good),Pass
+1974,Male,24,Electronics,Chennai,3.9,73.3,6.7,43.3,Yes,No,Monthly,Low,No,56.3,B (Above Average),Pass
+1975,Female,18,Mechanical,Hyderabad,7.4,81.9,6.0,81.5,Yes,No,Weekly,High,No,77.6,A (Very Good),Pass
+1976,Female,17,Computer Science,Bangalore,4.0,86.9,7.4,59.3,Yes,No,Monthly,Low,No,64.2,B+ (Good),Pass
+1977,Female,23,Business,Pune,7.9,89.4,5.5,82.9,Yes,No,Rarely,Low,No,83.9,A+ (Excellent),Pass
+1978,Female,19,Civil,Chennai,3.8,87.5,4.5,88.6,Yes,No,Monthly,High,Yes,73.1,A (Very Good),Pass
+1979,Female,19,Business,Delhi,5.7,76.0,7.0,80.3,Yes,Yes,Daily,Medium,Yes,70.8,A (Very Good),Pass
+1980,Female,18,Electronics,Chennai,4.1,93.1,6.0,57.0,No,No,Monthly,Medium,No,59.7,B (Above Average),Pass
+1981,Female,21,Business,Mumbai,6.5,78.5,6.6,27.5,Yes,No,Weekly,Low,Yes,55.1,B (Above Average),Pass
+1982,Female,20,Electronics,Mumbai,2.8,73.2,5.5,69.7,Yes,No,Weekly,Medium,Yes,59.2,B (Above Average),Pass
+1983,Female,20,Business,Hyderabad,6.5,73.3,8.8,96.4,Yes,No,Daily,Medium,Yes,85.1,A+ (Excellent),Pass
+1984,Male,19,Computer Science,Hyderabad,5.2,100.0,6.0,64.5,Yes,Yes,Weekly,Medium,Yes,73.4,A (Very Good),Pass
+1985,Female,22,Computer Science,Bangalore,3.7,71.1,6.4,35.2,No,Yes,Weekly,High,Yes,37.8,F (Fail),Fail
+1986,Female,22,Computer Science,Pune,4.7,95.5,7.6,54.9,Yes,Yes,Weekly,Medium,No,60.0,B+ (Good),Pass
+1987,Female,18,Computer Science,Chennai,8.1,66.4,4.9,62.2,Yes,Yes,Monthly,Medium,No,66.3,B+ (Good),Pass
+1988,Female,20,Computer Science,Mumbai,5.3,85.9,4.8,48.5,No,No,Monthly,Medium,Yes,58.9,B (Above Average),Pass
+1989,Female,19,Computer Science,Hyderabad,3.6,83.6,7.6,26.5,No,No,Weekly,Medium,Yes,39.7,F (Fail),Fail
+1990,Female,21,Electronics,Pune,2.6,99.5,6.3,63.5,Yes,No,Daily,Low,No,66.3,B+ (Good),Pass
+1991,Female,20,Civil,Chennai,6.0,72.1,5.6,53.2,Yes,No,Monthly,Medium,Yes,61.4,B+ (Good),Pass
+1992,Female,19,Business,Hyderabad,5.4,68.8,7.9,91.6,Yes,Yes,Daily,Medium,Yes,72.4,A (Very Good),Pass
+1993,Female,19,Computer Science,Hyderabad,6.4,78.6,5.8,66.5,Yes,Yes,Rarely,Medium,Yes,67.0,B+ (Good),Pass
+1994,Female,17,Electronics,Mumbai,2.1,100.0,6.6,72.0,Yes,Yes,Monthly,High,Yes,59.5,B (Above Average),Pass
+1995,Female,21,Electronics,Mumbai,2.7,69.4,5.7,63.2,Yes,No,Weekly,Medium,No,51.6,B (Above Average),Pass
+1996,Male,17,Electronics,Hyderabad,7.3,48.9,7.5,66.4,No,No,Weekly,High,No,61.3,B+ (Good),Pass
+1997,Male,18,Civil,Delhi,5.7,80.7,9.0,40.2,Yes,Yes,Daily,Low,Yes,53.7,B (Above Average),Pass
+1998,Female,17,Business,Hyderabad,6.1,91.4,4.2,49.4,Yes,No,Weekly,Medium,Yes,68.0,B+ (Good),Pass
+1999,Female,23,Civil,Pune,3.1,67.8,7.2,81.3,No,Yes,Daily,High,Yes,60.5,B+ (Good),Pass
+2000,Male,17,Mechanical,Hyderabad,3.0,90.2,8.3,68.1,Yes,No,Monthly,Medium,Yes,65.5,B+ (Good),Pass
